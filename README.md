@@ -51,4 +51,10 @@ vendor/          tesseract.js 6.0.1 + core + eng (best_int)
 sw.js            offline-cache – hæv VERSION ved ændringer
 ```
 
-Udgives på Vercel: push til `main` → produktion.
+## Udgivelse (Vercel)
+Vercel-projekt **number-reader** (team *thyxo's projects*), koblet til GitHub:
+- push til `main` → produktion: **https://number-reader-indol.vercel.app**
+- push til andre branches → preview-link (kræver Vercel-login)
+
+### Installér på iPhone
+Åbn adressen i **Safari** → Del → **Føj til hjemmeskærm** (navnet er "Telefon"). Giv kameraadgang første gang du scanner.
