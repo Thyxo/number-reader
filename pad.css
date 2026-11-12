@@ -80,9 +80,42 @@ body[data-mode="calc"] #pad { display: none; }
   justify-content: center;
   color: #fff;
   touch-action: none;
-  transition: background-color .5s ease-out;
 }
-.pk.pressed { background: #4a4a4a; transition: none; }
+/* Liquid Glass-tryk som i lommeregneren (Calcplus): vokser 1,19×, lysner, kaster skygge og
+   strækker sig mod fingeren; slip = fjedrer tilbage */
+.pk {
+  isolation: isolate;
+  width: calc(100% * var(--ex, 1));
+  height: calc(100% * var(--ey, 1));
+  justify-self: center;
+  align-self: center;
+  border-radius: 9999px;
+  transform: translate(var(--tx, 0px), var(--ty, 0px)) scale(var(--s, 1));
+  transition: transform .55s cubic-bezier(.3, 1.45, .5, 1), width .45s cubic-bezier(.3, 1.3, .5, 1),
+    height .45s cubic-bezier(.3, 1.3, .5, 1), box-shadow .45s ease-out;
+  will-change: transform;
+}
+.pk::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: radial-gradient(circle at 52% 50%, #fff 0%, #fff 35%, rgba(255, 255, 255, .84) 100%);
+  opacity: 0;
+  transition: opacity .45s ease-out;
+  z-index: -1;
+  pointer-events: none;
+}
+.pk.pressed {
+  z-index: 3;
+  --s: 1.19;
+  transition: transform .17s cubic-bezier(.2, .9, .3, 1.12), box-shadow .1s;
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.16), inset 2px 2px 3px rgba(255, 255, 255, 0.12),
+    0 calc(5 * var(--p)) calc(20 * var(--p)) rgba(0, 0, 0, 0.55);
+}
+.pk.pressed.drag { transition: transform .07s linear, width .07s linear, height .07s linear, box-shadow .1s; }
+.pk.pressed::after { opacity: .31; transition: opacity .06s; }
+.pk.pressed.drag::after { opacity: .19; transition: opacity .25s; }
 .pk b {
   font-weight: 400;
   font-size: calc(37 * var(--p));
@@ -100,8 +133,8 @@ body[data-mode="calc"] #pad { display: none; }
 }
 .pk small.plus { font-size: calc(17 * var(--p)); font-weight: 600; letter-spacing: 0; margin: calc(-0.5 * var(--p)) 0 calc(-3 * var(--p)); }
 .pk small.blank { visibility: hidden; }
-.pk .star { width: calc(16.5 * var(--p)); height: calc(16.5 * var(--p)); fill: none; stroke: #fff; stroke-width: 2.5; stroke-linecap: butt; }
-.pk .hash { width: calc(20 * var(--p)); height: calc(22 * var(--p)); fill: none; stroke: #fff; stroke-width: 2.6; stroke-linecap: butt; }
+.pk .star { width: calc(20.5 * var(--p)); height: calc(20.5 * var(--p)); fill: none; stroke: #fff; stroke-width: 2.5; stroke-linecap: butt; }
+.pk .hash { width: calc(24.5 * var(--p)); height: calc(26.5 * var(--p)); fill: none; stroke: #fff; stroke-width: 2.6; stroke-linecap: butt; }
 
 /* ---------- ring op + slet (centrum 164 pt over bunden) ---------- */
 .pd-call {
@@ -119,7 +152,7 @@ body[data-mode="calc"] #pad { display: none; }
   transition: background-color .5s;
 }
 .pd-call:active { background: #4e9a4e; transition: none; }
-.pd-call svg { width: calc(34 * var(--p)); height: calc(34 * var(--p)); fill: #fff; }
+.pd-call svg { width: calc(33 * var(--p)); height: calc(33 * var(--p)); fill: #fff; }
 .pd-del {
   position: absolute;
   left: calc(296.5 * var(--p) - 17 * var(--p));

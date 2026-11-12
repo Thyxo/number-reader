@@ -210,6 +210,8 @@ $('#pd-keys').addEventListener('pointerdown', (e) => {
   const k = e.target.closest('.pk');
   if (!k) return;
   e.preventDefault();
+  try { k.setPointerCapture(e.pointerId); } catch { /* ok */ }
+  padDrag = { k, x: e.clientX, y: e.clientY };
   k.classList.add('pressed');
   const d = k.dataset.d;
   tone(d);
@@ -223,9 +225,34 @@ $('#pd-keys').addEventListener('pointerdown', (e) => {
   }
   onTypedChange();
 });
+// Strækker sig mod fingeren ved træk (samme som lommeregneren)
+let padDrag = null;
+$('#pd-keys').addEventListener('pointermove', (e) => {
+  if (!padDrag) return;
+  const b = padDrag.k;
+  const size = b.offsetWidth;
+  const lim = (v) => Math.max(-0.6, Math.min(0.6, v / size));
+  const nx = lim(e.clientX - padDrag.x);
+  const ny = lim(e.clientY - padDrag.y);
+  const ax = Math.abs(nx);
+  const ay = Math.abs(ny);
+  b.classList.add('drag');
+  b.style.setProperty('--tx', nx * 0.3 * size + 'px');
+  b.style.setProperty('--ty', ny * 0.3 * size + 'px');
+  const sx = 1.19 + 0.25 * ax - 0.28 * ay;
+  const sy = 1.19 + 0.25 * ay - 0.28 * ax;
+  const m = Math.min(sx, sy);
+  b.style.setProperty('--s', m.toFixed(3));
+  b.style.setProperty('--ex', (sx / m).toFixed(3));
+  b.style.setProperty('--ey', (sy / m).toFixed(3));
+});
 const releasePad = () => {
   clearTimeout(holdTimer);
-  document.querySelectorAll('.pk.pressed').forEach((k) => k.classList.remove('pressed'));
+  padDrag = null;
+  document.querySelectorAll('.pk.pressed').forEach((k) => {
+    k.classList.remove('pressed', 'drag');
+    ['--tx', '--ty', '--s', '--ex', '--ey'].forEach((v) => k.style.removeProperty(v));
+  });
 };
 document.addEventListener('pointerup', releasePad);
 document.addEventListener('pointercancel', releasePad);
