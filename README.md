@@ -11,7 +11,10 @@ Ren vanilla JS, ingen build. OCR: Tesseract.js (lagt i `vendor/`, virker offline
 | **Hemmeligt panel** | 5 hurtige tryk øverst til højre |
 | **Scan med kameraet** | Numerisk blok: tryk over nummeret (det tomme felt øverst). Lommeregner: tryk mellem de to runde knapper. Tryk igen = stop |
 | **Peek-skærm** | Tryk ✱ på den numeriske blok → sort/hvid skærm med ordet i 2 sek. (eller til tryk) |
-| **Peek-tekst** | Blok: svag grå tekst lige over home-baren. Lommeregner: øverst mellem ikonerne |
+| **Peek-tekst** | Blok: navnet står i fanernes tekst (Opkald → fornavn, Kontakter → efternavn, 3. fane → fødselsdag/mål) – eller svagt over home-baren. Lommeregner: øverst mellem ikonerne |
+| **Regnemetode** | y − x = a. x = tilskuerens scannede tal, y = tvunget tal (personens fødselsdag, dato i dag, klokken eller fast tal), a = mit tal, som sættes i nummerfeltet. Tilskueren regner x + a = y på lommeregneren. Er x > y, står der − i peeket: x − a = y |
+| **Skift** | Luppen på blokken = lommeregner. Hold på uret i lommeregneren = blokken |
+| **Debug** | Panelet → "Debug": de sidste 15 billeder kameraet har set, med grøn boks om det læste tal, strategi, tid og sikkerhed. Swipe mellem billederne |
 | **Skift mode** | Panelet → *Numerisk blok* / *Lommeregner* |
 | **Vælg et andet bud** | Panelet → tryk på et af forslagene |
 
@@ -41,7 +44,9 @@ Testet i headless Chromium med falsk kamera: mørk skærm `546527736` → **Kim 
 ## Filer
 ```
 index.html, styles.css (Calcplus), pad.css (blok, peek, panel)
-src/app.js       tilstand, panel, peek, kamera-styring, numerisk blok
+src/app.js       tilstand, panel, peek, kamera-styring, numerisk blok, debug-visning
+src/force.js     regnemetoden (y − x = a) og fødselsdage
+data/foedselsdage.txt  fødselsdage til kendte (scripts/fetch-birthdays.py henter fra Wikidata)
 src/calcui.js    lommeregner-UI (fra Thyxo/Calcplus, uden force)
 src/calc/        lommeregner-motor (uændret kopi fra Calcplus)
 src/t9.js        T9-dekoder

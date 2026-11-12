@@ -10,6 +10,21 @@ let video = null;
 let running = false;
 let frame = 0;
 
+// ---------- debug: de sidste billeder appen har set, med fundne linjer ----------
+let debugOn = true;
+const debugFrames = [];
+const debugListeners = new Set();
+export function setDebug(on) { debugOn = !!on; }
+export const getDebugFrames = () => debugFrames;
+export function clearDebugFrames() { debugFrames.length = 0; debugListeners.forEach((f) => f()); }
+export function onDebugFrame(fn) { debugListeners.add(fn); return () => debugListeners.delete(fn); }
+function pushDebug(f) {
+  debugFrames.push(f);
+  if (debugFrames.length > 15) debugFrames.shift();
+  debugListeners.forEach((fn) => fn(f));
+}
+const STRAT_NAME = (st) => `${st.prep ? (st.flip ? 'vendt' : 'kontrast') : 'rå'} · PSM ${st.psm}${st.big ? ' · stor' : ''}`;
+
 function loadScript(src) {
   return new Promise((res, rej) => {
     if (window.Tesseract) return res();
@@ -130,7 +145,7 @@ export function pickLine(lines, minLen = 3) {
     const conf = Number(ln.confidence) || 0;
     if (conf < 45) continue;
     const score = h * (0.5 + conf / 200) + d.length * 0.5;
-    if (!best || score > best.score) best = { digits: d, conf, score };
+    if (!best || score > best.score) best = { digits: d, conf, score, bbox: ln.bbox };
   }
   return best;
 }
@@ -142,6 +157,7 @@ function linesOf(data) {
 }
 
 async function readFrame(opts) {
+  const t0 = performance.now();
   const vw = video.videoWidth;
   const vh = video.videoHeight;
   if (!vw || !vh) return null;
@@ -155,7 +171,15 @@ async function readFrame(opts) {
     try {
       const det = new window.TextDetector();
       const blocks = await det.detect(video);
-      const best = pickLine(blocks.map((b) => ({ text: b.rawValue, confidence: 90, bbox: { y0: b.boundingBox.y, y1: b.boundingBox.y + b.boundingBox.height } })), opts.minLen);
+      const lines = blocks.map((b) => ({ text: b.rawValue, confidence: 90, bbox: { x0: b.boundingBox.x, x1: b.boundingBox.x + b.boundingBox.width, y0: b.boundingBox.y, y1: b.boundingBox.y + b.boundingBox.height } }));
+      const best = pickLine(lines, opts.minLen);
+      if (debugOn) {
+        const k = Math.min(1, 900 / vw);
+        canvas.width = Math.round(vw * k); canvas.height = Math.round(vh * k);
+        const c2 = canvas.getContext('2d');
+        c2.drawImage(video, 0, 0, canvas.width, canvas.height);
+        pushDebug({ t: Date.now(), img: canvas.toDataURL('image/jpeg', 0.7), w: canvas.width, h: canvas.height, k, lines, best, strat: 'TextDetector', ms: Math.round(performance.now() - t0), vw, vh });
+      }
       if (best) return best;
     } catch { /* falder tilbage til Tesseract */ }
   }
@@ -168,15 +192,23 @@ async function readFrame(opts) {
   const ctx = canvas.getContext('2d', { willReadFrequently: true });
   ctx.imageSmoothingQuality = 'high';
   ctx.drawImage(video, sx, sy, cw, ch, 0, 0, canvas.width, canvas.height);
+  const raw = debugOn ? canvas.toDataURL('image/jpeg', 0.7) : null;
   if (st.prep) prepare(canvas, ctx, st.flip);
   const w = worker || (await warmUp());
   if (st.psm !== lastPsm) { await w.setParameters({ tessedit_pageseg_mode: st.psm }); lastPsm = st.psm; }
   const { data } = await w.recognize(canvas, {}, { text: true, blocks: true });
   if (window.__ocrDebug) window.__ocrDebug.push({ text: data.text, img: canvas.toDataURL('image/png') });
-  const best = pickLine(linesOf(data), opts.minLen);
-  if (best) return best;
-  const d = pickDigits(data.text, opts.minLen);
-  return d ? { digits: d, conf: 50 } : null;
+  const lines = linesOf(data);
+  let best = pickLine(lines, opts.minLen);
+  if (!best) { const d = pickDigits(data.text, opts.minLen); if (d) best = { digits: d, conf: 50 }; }
+  if (debugOn) {
+    pushDebug({
+      t: Date.now(), img: raw, w: canvas.width, h: canvas.height, k: 1,
+      lines: lines.map((l) => ({ text: l.text.trim(), confidence: l.confidence, bbox: l.bbox })),
+      best, strat: STRAT_NAME(st), ms: Math.round(performance.now() - t0), vw, vh,
+    });
+  }
+  return best;
 }
 
 /**
@@ -221,6 +253,8 @@ export async function startScan({ onFound, onRead = () => {}, onStatus = () => {
       if (recent.length > 6) recent.shift();
       const n = recent.filter((x) => x === d).length;
       if (n >= confirm || (r.conf >= 85 && quickAccept(d))) {
+        const last = debugFrames[debugFrames.length - 1];
+        if (last && last.best && last.best.digits === d) last.found = true;
         onFound(d);
         break;
       }

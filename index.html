@@ -45,7 +45,7 @@
     </main>
 
     <button class="pd-call" id="pd-call" aria-label="Ring op">
-      <svg viewBox="0 0 24 24"><path d="M5.3 2.4c.8-.6 1.9-.5 2.5.3l2.4 3c.6.8.5 1.9-.2 2.6L8.7 9.6c-.3.3-.3.7-.1 1.1.7 1.3 1.6 2.6 2.7 3.7s2.4 2 3.7 2.7c.4.2.8.2 1.1-.1l1.3-1.3c.7-.7 1.8-.8 2.6-.2l3 2.4c.8.6.9 1.7.3 2.5l-1.1 1.4c-1 1.2-2.7 1.7-4.2 1.2-3.1-1-5.9-2.8-8.3-5.2S3.7 12.6 2.7 9.5C2.2 8 2.7 6.3 3.9 5.3z"/></svg>
+      <svg viewBox="0 0 24 24"><path d="M6.76 4.96A10.6 10.6 0 0 0 19.04 17.24" fill="none" stroke="#fff" stroke-width="3.9"/><rect x="-5.0" y="-2.7" width="7.0" height="5.4" rx="2.5" transform="translate(6.91 4.24) rotate(194.0)"/><rect x="-5.0" y="-2.7" width="7.0" height="5.4" rx="2.5" transform="translate(19.76 17.09) rotate(76.0)"/></svg>
     </button>
     <button class="pd-del" id="pd-del" aria-label="Slet" hidden>
       <svg viewBox="0 0 34 24"><path class="f" d="M11 1.5h19.5a2.5 2.5 0 0 1 2.5 2.5v16a2.5 2.5 0 0 1-2.5 2.5H11L1.6 12z"/><path class="x" d="M16.6 7.6l8.8 8.8M25.4 7.6l-8.8 8.8"/></svg>
@@ -53,11 +53,11 @@
 
     <nav class="pd-tabbar">
       <div class="pd-tabs">
-        <button class="pd-tab"><svg viewBox="0 0 28 28"><circle cx="14" cy="14" r="11.5" class="fill"/><path d="M13.4 7.4v7h-4.6" class="hand"/></svg><span>Opkald</span></button>
-        <button class="pd-tab"><svg viewBox="0 0 28 28"><circle cx="14" cy="14" r="11.5" class="fill"/><circle cx="14" cy="11" r="4.2" class="cut"/><path d="M6.4 22c1.7-3.3 4.4-4.8 7.6-4.8s5.9 1.5 7.6 4.8a11.5 11.5 0 0 1-15.2 0z" class="cut"/></svg><span>Kontakter</span></button>
-        <button class="pd-tab on"><svg viewBox="0 0 26 24" class="grid"><circle cx="4.5" cy="4" r="3.3"/><circle cx="13" cy="4" r="3.3"/><circle cx="21.5" cy="4" r="3.3"/><circle cx="4.5" cy="12" r="3.3"/><circle cx="13" cy="12" r="3.3"/><circle cx="21.5" cy="12" r="3.3"/><circle cx="4.5" cy="20" r="3.3"/><circle cx="13" cy="20" r="3.3"/><circle cx="21.5" cy="20" r="3.3"/></svg><span>Numerisk blok</span></button>
+        <button class="pd-tab"><svg viewBox="0 0 28 28"><circle cx="14" cy="14" r="11.5" class="fill"/><path d="M13.4 7.4v7h-4.6" class="hand"/></svg><span id="tab1">Opkald</span></button>
+        <button class="pd-tab"><svg viewBox="0 0 28 28"><circle cx="14" cy="14" r="11.5" class="fill"/><circle cx="14" cy="11" r="4.2" class="cut"/><path d="M6.4 22c1.7-3.3 4.4-4.8 7.6-4.8s5.9 1.5 7.6 4.8a11.5 11.5 0 0 1-15.2 0z" class="cut"/></svg><span id="tab2">Kontakter</span></button>
+        <button class="pd-tab on"><svg viewBox="0 0 26 24" class="grid"><circle cx="4.5" cy="4" r="3.3"/><circle cx="13" cy="4" r="3.3"/><circle cx="21.5" cy="4" r="3.3"/><circle cx="4.5" cy="12" r="3.3"/><circle cx="13" cy="12" r="3.3"/><circle cx="21.5" cy="12" r="3.3"/><circle cx="4.5" cy="20" r="3.3"/><circle cx="13" cy="20" r="3.3"/><circle cx="21.5" cy="20" r="3.3"/></svg><span id="tab3">Numerisk blok</span></button>
       </div>
-      <button class="pd-search" aria-label="Søg"><svg viewBox="0 0 24 24"><circle cx="10.2" cy="10.2" r="7"/><path d="M15.4 15.4l5.6 5.6"/></svg></button>
+      <button class="pd-search" id="pd-search" aria-label="Søg"><svg viewBox="0 0 24 24"><circle cx="10.2" cy="10.2" r="7"/><path d="M15.4 15.4l5.6 5.6"/></svg></button>
     </nav>
 
     <div class="peek-line" id="pad-peek" aria-hidden="true"></div>
@@ -138,6 +138,22 @@
     <div class="ps-alt" id="ps-alt"></div>
   </div>
 
+  <!-- ================= Debug: hvad appen ser ================= -->
+  <div id="debug" hidden>
+    <header class="dbg-head">
+      <div class="dbg-titles">
+        <b id="dbg-title">DEBUG</b>
+        <span id="dbg-sub"></span>
+      </div>
+      <button class="dbg-btn" id="dbg-scan" aria-label="Scan"><svg viewBox="0 0 24 24"><path d="M4 8h3l2-3h6l2 3h3v11H4z"/><circle cx="12" cy="13" r="3.5"/></svg></button>
+      <button class="dbg-btn red" id="dbg-clear" aria-label="Slet billeder"><svg viewBox="0 0 24 24"><path d="M4 6.5h16M9.5 6.5V4h5v2.5M6.5 6.5l1 13.5h9l1-13.5M10 10v6.5M14 10v6.5"/></svg></button>
+      <button class="dbg-btn round" id="dbg-close" aria-label="Luk"><svg viewBox="0 0 24 24"><path d="M7 7l10 10M17 7L7 17"/></svg></button>
+    </header>
+    <div class="dbg-stage" id="dbg-stage"><canvas id="dbg-canvas"></canvas><p class="dbg-empty" id="dbg-empty">Ingen billeder endnu.<br>Tryk på kameraet for at scanne.</p></div>
+    <div class="dbg-lines" id="dbg-lines"></div>
+    <div class="dbg-dots" id="dbg-dots"></div>
+  </div>
+
   <!-- ================= Hemmeligt panel ================= -->
   <div id="secret" class="sheet secret" hidden>
     <div class="sheet-head">
@@ -161,6 +177,8 @@
           <button id="s-peek">Vis peek</button>
           <button id="s-clear">Ryd</button>
         </div>
+        <div class="hero-force" id="s-force" hidden></div>
+        <button class="hero-debug" id="s-debug">Debug – se hvad kameraet ser</button>
       </div>
 
       <div class="seg mode-seg" data-s-seg="mode">
@@ -174,10 +192,13 @@
           <span class="sec-t">Peek</span><span class="sec-v" id="sum-peek"></span><i class="chev"></i>
         </summary>
         <div class="sec-body">
+          <p class="sub-note">Numerisk blok: hvor står navnet?</p>
+          <div class="seg" data-s-seg="peekWhere"><button data-v="tabs">I fanerne</button><button data-v="line">Over home-baren</button></div>
           <div class="group">
             <label class="row"><span>Peek-tekst</span><input type="checkbox" class="switch" data-s="peekText"></label>
             <label class="row"><span>Styrke</span>
               <select data-s="peekLevel"><option value="1">Næsten usynlig</option><option value="2">Svag</option><option value="3">Tydelig</option></select></label>
+            <label class="row"><span>Fødselsdag/mål i 3. fane</span><input type="checkbox" class="switch" data-s="tab3Peek"></label>
             <label class="row"><span>Alternativer i teksten</span>
               <select data-s="peekAlts"><option value="0">Ingen</option><option value="1">1</option><option value="2">2</option></select></label>
           </div>
@@ -187,6 +208,27 @@
           <div class="group">
             <label class="row"><span>Vis alternativer</span><input type="checkbox" class="switch" data-s="screenAlts"></label>
           </div>
+        </div>
+      </details>
+
+      <!-- Regnemetode -->
+      <details class="sec" data-sec="force">
+        <summary>
+          <i class="sec-ico" style="--c:#30d158"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5v14"/></svg></i>
+          <span class="sec-t">Regnemetode</span><span class="sec-v" id="sum-force"></span><i class="chev"></i>
+        </summary>
+        <div class="sec-body">
+          <div class="group">
+            <label class="row"><span>Regnemetode (y − x = a)</span><input type="checkbox" class="switch" data-s="force"></label>
+            <label class="row"><span>Tvunget tal (y)</span>
+              <select data-s="forceSrc"><option value="birthday">Personens fødselsdag</option><option value="today">Dato i dag</option><option value="clock">Klokken</option><option value="fixed">Fast tal</option></select></label>
+            <label class="row"><span>Datoformat</span>
+              <select data-s="forceFmt"><option value="ddmmyy">DDMMÅÅ (140646)</option><option value="ddmmyyyy">DDMMÅÅÅÅ (14061946)</option><option value="yyyymmdd">ÅÅÅÅMMDD (19460614)</option><option value="ddmm">DDMM (1406)</option></select></label>
+            <label class="row"><span>Klokken + minutter</span><input type="number" inputmode="numeric" data-s="clockAdd"></label>
+            <label class="row"><span>Fast tal / reserve</span><input type="text" inputmode="numeric" data-s="forceFixed" placeholder="fx 2100"></label>
+          </div>
+          <p class="sub-note">Når tilskuerens tal (x) scannes, regnes mit tal a = y − x ud og sættes i nummerfeltet (eller lommeregneren). Bagefter: x + a på lommeregneren = y. Står der <b>−</b> i peeket, er x større end y: så er det x − a. Fødselsdage: ~470 kendte er indbygget, egne navne skrives "Navn | 14.06.1946" under Ordbog.</p>
+          <p class="sub-note">Skift hurtigt: tryk på søg-knappen (luppen) på den numeriske blok = lommeregner. Hold på ur-knappen i lommeregneren = tilbage til blokken.</p>
         </div>
       </details>
 
@@ -209,6 +251,7 @@
           <div class="seg" data-s-seg="region" style="margin-top:10px"><button data-v="center">Midten af billedet</button><button data-v="full">Hele billedet</button></div>
           <div class="group">
             <label class="row"><span>Vis søger (træning)</span><input type="checkbox" class="switch" data-s="viewfinder"></label>
+            <label class="row"><span>Gem debug-billeder</span><input type="checkbox" class="switch" data-s="debug"></label>
             <div class="row"><span>OCR-motor</span><span class="muted" id="s-ocr">–</span></div>
             <div class="row"><span>Sidst læst</span><span class="muted" id="s-lastread">–</span></div>
           </div>
@@ -229,7 +272,7 @@
             <label class="row"><span>Danske ord (25.000)</span><input type="checkbox" class="switch" data-s="dWords"></label>
           </div>
           <p class="sub-note">Egne navne – én pr. linje, vinder altid</p>
-          <textarea id="s-custom" rows="4" placeholder="fx Bedstemor Inge&#10;Fido" autocapitalize="words" autocorrect="off" spellcheck="false"></textarea>
+          <textarea id="s-custom" rows="4" placeholder="fx Bedstemor Inge | 03.04.1950&#10;Fido" autocapitalize="words" autocorrect="off" spellcheck="false"></textarea>
           <p class="sub-note">Test</p>
           <div class="group">
             <label class="row"><span>Tal</span><input type="text" inputmode="numeric" id="t-digits" placeholder="fx 546527736" autocomplete="off"></label>
@@ -259,7 +302,7 @@
         </div>
       </details>
 
-      <p class="foot">Åbn: 5 hurtige tryk øverst til højre · Peek-skærm: ✱ · Scan: tryk øverst</p>
+      <p class="foot">Åbn: 5 hurtige tryk øverst til højre · Peek-skærm: ✱ · Scan: tryk øverst · Lommeregner: luppen · Tilbage: hold på uret</p>
     </div>
   </div>
 

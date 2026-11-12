@@ -49,12 +49,20 @@ def main():
         for n in ln.split():
             if n not in last:
                 last.append(n)
+    bdays = {}
+    bpath = os.path.join(ROOT, 'data', 'foedselsdage.txt')
+    if os.path.exists(bpath):
+        for ln in open(bpath, encoding='utf-8'):
+            if '|' in ln and not ln.startswith('#'):
+                n, d = ln.strip().split('|', 1)
+                if d: bdays[n] = d
     out = os.path.join(ROOT, 'src', 'words.js')
     with open(out, 'w', encoding='utf-8') as f:
         f.write('// Genereret af scripts/build-words.py – ret i data/*.txt og kør scriptet igen.\n')
         f.write('export const CELEBS = ' + json.dumps('|'.join(celebs), ensure_ascii=False) + ';\n')
         f.write('export const FIRST = ' + json.dumps(' '.join(first), ensure_ascii=False) + ';\n')
         f.write('export const LAST = ' + json.dumps(' '.join(last), ensure_ascii=False) + ';\n')
+        f.write('export const BDAYS = ' + json.dumps(bdays, ensure_ascii=False) + ';\n')
         f.write('export const WORDS = ' + json.dumps(' '.join(words), ensure_ascii=False) + ';\n')
     print(f'{len(celebs)} kendte, {len(first)} fornavne, {len(last)} efternavne, {len(words)} ord → {out} ({os.path.getsize(out)//1024} KB)')
 

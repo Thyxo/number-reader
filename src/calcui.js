@@ -210,7 +210,7 @@ export function initCalc({ onArmTap = () => {}, isSecretOpen = () => false } = {
   const isStandalone = () => navigator.standalone === true || matchMedia('(display-mode: standalone)').matches;
   let heightFixed = false;
   let vAdjust = 0;
-  const LAYERS = ['#app', '#pad', '#secret', '#history', '#peek-screen', '#menu-scrim'];
+  const LAYERS = ['#app', '#pad', '#secret', '#history', '#peek-screen', '#menu-scrim', '#debug'];
   function fixHeight(adj = vAdjust) {
     vAdjust = Number(adj) || 0;
     heightFixed = isStandalone() && innerHeight > innerWidth && screen.height >= innerHeight;
@@ -244,5 +244,12 @@ export function initCalc({ onArmTap = () => {}, isSecretOpen = () => false } = {
 
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(render);
   render();
-  return { render, closeMenu, fixHeight, screenInfo };
+  // Sæt et tal i displayet, som om det var tastet (regnemetoden)
+  function enter(digits) {
+    calc.press('clear'); calc.press('clear');
+    for (const d of String(digits)) if (/\d/.test(d)) calc.press(d);
+    render();
+  }
+
+  return { render, closeMenu, fixHeight, screenInfo, enter };
 }
