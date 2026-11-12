@@ -110,21 +110,44 @@ export function pickDigits(text, minLen = 3) {
 const STRATS = [
   { prep: true, flip: false, psm: '6' },
   { prep: false, psm: '6' },
-  { prep: true, flip: false, psm: '11' },
+  { prep: true, flip: false, psm: '11', big: true },
   { prep: true, flip: true, psm: '6' },
   { prep: false, psm: '11' },
+  { prep: true, flip: false, psm: '6', big: true },
 ];
 let lastPsm = '6';
 
 const canvas = typeof document !== 'undefined' ? document.createElement('canvas') : null;
 
+// Vælg den bedste talrække blandt Tesseracts linjer: telefonnummeret er den STØRSTE tekst på
+// skærmen, så høje linjer vinder over fx klokken i statuslinjen. Lav sikkerhed tæller ned.
+export function pickLine(lines, minLen = 3) {
+  let best = null;
+  for (const ln of lines) {
+    const d = String(ln.text || '').replace(/[^0-9]/g, '');
+    if (d.length < minLen) continue;
+    const h = ln.bbox ? ln.bbox.y1 - ln.bbox.y0 : 1;
+    const conf = Number(ln.confidence) || 0;
+    if (conf < 45) continue;
+    const score = h * (0.5 + conf / 200) + d.length * 0.5;
+    if (!best || score > best.score) best = { digits: d, conf, score };
+  }
+  return best;
+}
+
+function linesOf(data) {
+  const out = [];
+  for (const b of data.blocks || []) for (const p of b.paragraphs || []) for (const l of p.lines || []) out.push(l);
+  return out;
+}
+
 async function readFrame(opts) {
   const vw = video.videoWidth;
   const vh = video.videoHeight;
-  if (!vw || !vh) return '';
+  if (!vw || !vh) return null;
   // Udsnit: midten (standard) eller hele billedet
   const cw = opts.region === 'full' ? vw : Math.round(vw * 0.86);
-  const ch = opts.region === 'full' ? vh : Math.round(vh * 0.42);
+  const ch = opts.region === 'full' ? vh : Math.round(vh * 0.46);
   const sx = Math.round((vw - cw) / 2);
   const sy = Math.round((vh - ch) / 2);
 
@@ -132,32 +155,36 @@ async function readFrame(opts) {
     try {
       const det = new window.TextDetector();
       const blocks = await det.detect(video);
-      const txt = blocks.map((b) => b.rawValue).join('\n');
-      const d = pickDigits(txt, opts.minLen);
-      if (d) return d;
+      const best = pickLine(blocks.map((b) => ({ text: b.rawValue, confidence: 90, bbox: { y0: b.boundingBox.y, y1: b.boundingBox.y + b.boundingBox.height } })), opts.minLen);
+      if (best) return best;
     } catch { /* falder tilbage til Tesseract */ }
   }
 
-  const scale = Math.min(1, 1100 / cw);
+  // Skift strategi fra billede til billede – forskellige skærme, afstande og lys læses bedst forskelligt
+  const st = STRATS[frame % STRATS.length];
+  const scale = Math.min(st.big ? 1.6 : 1, (st.big ? 1700 : 1100) / cw);
   canvas.width = Math.round(cw * scale);
   canvas.height = Math.round(ch * scale);
   const ctx = canvas.getContext('2d', { willReadFrequently: true });
+  ctx.imageSmoothingQuality = 'high';
   ctx.drawImage(video, sx, sy, cw, ch, 0, 0, canvas.width, canvas.height);
-  // Skift strategi fra billede til billede – forskellige skærme/lys læses bedst på forskellig vis
-  const st = STRATS[frame % STRATS.length];
   if (st.prep) prepare(canvas, ctx, st.flip);
   const w = worker || (await warmUp());
   if (st.psm !== lastPsm) { await w.setParameters({ tessedit_pageseg_mode: st.psm }); lastPsm = st.psm; }
-  const { data } = await w.recognize(canvas);
+  const { data } = await w.recognize(canvas, {}, { text: true, blocks: true });
   if (window.__ocrDebug) window.__ocrDebug.push({ text: data.text, img: canvas.toDataURL('image/png') });
-  return pickDigits(data.text, opts.minLen);
+  const best = pickLine(linesOf(data), opts.minLen);
+  if (best) return best;
+  const d = pickDigits(data.text, opts.minLen);
+  return d ? { digits: d, conf: 50 } : null;
 }
 
 /**
- * Start scanning. onRead(digits) kaldes for hver læsning, onFound(digits) når samme tal er
- * læst `confirm` gange i træk (eller inden for de sidste 4 læsninger). Stopper selv.
+ * Start scanning. onRead(digits) kaldes for hver læsning, onFound(digits) når samme tal er læst
+ * `confirm` gange blandt de sidste 6 læsninger – eller med det samme, hvis læsningen er sikker
+ * (conf ≥ 85) og quickAccept(digits) siger god (fx et kendt navn).
  */
-export async function startScan({ onFound, onRead = () => {}, onStatus = () => {}, confirm = 2, minLen = 3, timeout = 25000, region = 'center', viewfinder = false } = {}) {
+export async function startScan({ onFound, onRead = () => {}, onStatus = () => {}, quickAccept = () => false, confirm = 2, minLen = 3, timeout = 25000, region = 'center', viewfinder = false } = {}) {
   if (running) return;
   running = true;
   frame = 0;
@@ -183,16 +210,17 @@ export async function startScan({ onFound, onRead = () => {}, onStatus = () => {
   const recent = [];
   while (running) {
     if (performance.now() - started > timeout) { onStatus('timeout'); break; }
-    let d = '';
-    try { d = await readFrame({ region, minLen }); } catch { d = ''; }
+    let r = null;
+    try { r = await readFrame({ region, minLen }); } catch { r = null; }
     frame++;
     if (!running) break;
-    if (d) {
+    if (r) {
+      const d = r.digits;
       onRead(d);
       recent.push(d);
       if (recent.length > 6) recent.shift();
       const n = recent.filter((x) => x === d).length;
-      if (n >= confirm) {
+      if (n >= confirm || (r.conf >= 85 && quickAccept(d))) {
         onFound(d);
         break;
       }

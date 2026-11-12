@@ -122,7 +122,7 @@ export function decode(idx, digits, max = 5) {
   // Flere ord: kombinér de bedste bud for hvert ord
   const per = segs.map((s) => {
     const r = decodeSegment(idx, s, 3);
-    return r.length ? r : [{ text: '?'.repeat(s.length), score: 0, kind: 'none' }];
+    return r.length ? r : [{ text: s, score: 0, kind: 'none' }];
   });
   let combos = [{ text: '', score: 0 }];
   for (const opts of per) {

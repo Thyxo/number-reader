@@ -37,19 +37,19 @@ body[data-mode="calc"] #pad { display: none; }
   text-align: center;
   white-space: nowrap;
   overflow: hidden;
-  font-size: calc(38 * var(--p));
+  font-size: calc(36 * var(--p));
   font-weight: 400;
   letter-spacing: 0;
-  word-spacing: -0.12em;
+  word-spacing: -0.1em;
   line-height: 1.15;
   font-variant-numeric: tabular-nums;
 }
 .pd-add {
   position: absolute;
-  left: calc(360 * var(--p) - 15 * var(--p));
-  top: calc(81 * var(--p) - 15 * var(--p));
-  width: calc(30 * var(--p));
-  height: calc(30 * var(--p));
+  left: calc(360 * var(--p) - 13.5 * var(--p));
+  top: calc(81 * var(--p) - 13.5 * var(--p));
+  width: calc(27 * var(--p));
+  height: calc(27 * var(--p));
 }
 .pd-add svg { width: 100%; height: 100%; }
 .pd-add .o { fill: none; stroke: #fff; stroke-width: 1.9; stroke-linecap: round; }
@@ -85,10 +85,10 @@ body[data-mode="calc"] #pad { display: none; }
 .pk.pressed { background: #4a4a4a; transition: none; }
 .pk b {
   font-weight: 400;
-  font-size: calc(40 * var(--p));
-  line-height: calc(36 * var(--p));
-  height: calc(36 * var(--p));
-  margin-top: calc(-5 * var(--p));
+  font-size: calc(37 * var(--p));
+  line-height: calc(34 * var(--p));
+  height: calc(34 * var(--p));
+  margin-top: calc(-4 * var(--p));
 }
 .pk small {
   font-weight: 700;
@@ -100,9 +100,8 @@ body[data-mode="calc"] #pad { display: none; }
 }
 .pk small.plus { font-size: calc(17 * var(--p)); font-weight: 600; letter-spacing: 0; margin: calc(-0.5 * var(--p)) 0 calc(-3 * var(--p)); }
 .pk small.blank { visibility: hidden; }
-.pk.sym b { margin-top: 0; height: auto; }
-.pk .star { font-size: calc(46 * var(--p)); font-weight: 500; line-height: 1; transform: translateY(calc(9 * var(--p))); }
-.pk .hash { font-size: calc(36 * var(--p)); font-weight: 500; line-height: 1; }
+.pk .star { width: calc(16.5 * var(--p)); height: calc(16.5 * var(--p)); fill: none; stroke: #fff; stroke-width: 2.5; stroke-linecap: butt; }
+.pk .hash { width: calc(20 * var(--p)); height: calc(22 * var(--p)); fill: none; stroke: #fff; stroke-width: 2.6; stroke-linecap: butt; }
 
 /* ---------- ring op + slet (centrum 164 pt over bunden) ---------- */
 .pd-call {
@@ -162,7 +161,7 @@ body[data-mode="calc"] #pad { display: none; }
   justify-content: center;
   gap: calc(2 * var(--p));
   color: #fff;
-  font-size: calc(10.4 * var(--p));
+  font-size: calc(10 * var(--p));
   font-weight: 500;
   letter-spacing: 0.01em;
   padding-top: calc(2 * var(--p));
@@ -174,7 +173,7 @@ body[data-mode="calc"] #pad { display: none; }
 .pd-tab .fill { fill: currentColor; }
 .pd-tab .hand { fill: none; stroke: #121212; stroke-width: 2.4; stroke-linecap: round; stroke-linejoin: round; }
 .pd-tab .cut { fill: #121212; }
-.pd-tab svg.grid { width: calc(28 * var(--p)); height: calc(25 * var(--p)); }
+.pd-tab svg.grid { width: calc(24.5 * var(--p)); height: calc(23 * var(--p)); }
 .pd-tab svg.grid circle { fill: currentColor; }
 .pd-tab.on { color: #4aa0f0; background: #2b2b2d; }
 .pd-search {

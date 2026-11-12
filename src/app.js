@@ -27,6 +27,7 @@ const DEFAULTS = {
   custom: '',
   tones: true,
   typedPeek: true,      // tal tastet på blokken dekodes også
+  showScanned: true,    // vis det scannede tal i nummerfeltet
   vAdjust: 0,
 };
 let S = { ...DEFAULTS };
@@ -61,7 +62,10 @@ function setResult(digits, src) {
   renderPeek();
   if (!$('#secret').hidden) syncPanel();
 }
-const word = () => (cur && cur.cands[cur.pick] ? cur.cands[cur.pick].text : '');
+const word = () => {
+  const c = cur && cur.cands[cur.pick];
+  return c && !c.text.includes('?') ? c.text : '';
+};
 function alts(n) {
   if (!cur) return [];
   return cur.cands.filter((_, i) => i !== cur.pick).slice(0, n).map((c) => c.text);
@@ -116,10 +120,16 @@ function toggleScan() {
     region: S.region,
     viewfinder: S.viewfinder,
     onRead: (d) => { const el = $('#s-lastread'); if (el) el.textContent = d; },
+    quickAccept: (d) => {
+      const top = decode(index, d, 1)[0];
+      return !!top && ['custom', 'celeb'].includes(top.kind);
+    },
     onFound: (d) => {
       found = true;
       if (navigator.vibrate) navigator.vibrate(25);
       setResult(d, 'kamera');
+      // Vis det scannede tal, hvor telefonnummeret står – så man kan se, at det er læst rigtigt
+      if (S.showScanned) { typed = d; renderPad(); }
     },
     onStatus: (st) => {
       if (st === 'nocamera') log('Intet kamera (adgang nægtet?)');
@@ -146,8 +156,8 @@ const elDel = $('#pd-del');
 const elAdd = $('#pd-add');
 
 function fmtNumber(s) {
-  // Danske 8-cifrede numre vises som "12 34 56 78" (som på iPhone)
-  if (/^\d{8}$/.test(s)) return s.replace(/(\d\d)(?=\d)/g, '$1 ');
+  // Danske numre formateres i par, mens de tastes ("48 48 7"), op til 8 cifre – som på iPhone
+  if (/^\d{1,8}$/.test(s)) return s.replace(/(\d\d)(?=\d)/g, '$1 ');
   if (/^\+45\d{8}$/.test(s)) return '+45 ' + s.slice(3).replace(/(\d\d)(?=\d)/g, '$1 ');
   return s;
 }

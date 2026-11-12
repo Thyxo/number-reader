@@ -39,9 +39,9 @@
       <button class="pk" data-d="7"><b>7</b><small>PQRS</small></button>
       <button class="pk" data-d="8"><b>8</b><small>TUV</small></button>
       <button class="pk" data-d="9"><b>9</b><small>WXYZ</small></button>
-      <button class="pk sym" data-d="*" aria-label="Stjerne"><b class="star">*</b></button>
+      <button class="pk sym" data-d="*" aria-label="Stjerne"><svg class="star" viewBox="0 0 20 20"><path d="M10 2.2v15.6M3.25 6.1l13.5 7.8M3.25 13.9l13.5-7.8"/></svg></button>
       <button class="pk" data-d="0"><b>0</b><small class="plus">+</small></button>
-      <button class="pk sym" data-d="#" aria-label="Firkant"><b class="hash">#</b></button>
+      <button class="pk sym" data-d="#" aria-label="Firkant"><svg class="hash" viewBox="0 0 22 24"><path d="M7.6 2.5v19M14.4 2.5v19M2.4 8.4h17.2M2.4 15.6h17.2"/></svg></button>
     </main>
 
     <button class="pd-call" id="pd-call" aria-label="Ring op">
@@ -55,7 +55,7 @@
       <div class="pd-tabs">
         <button class="pd-tab"><svg viewBox="0 0 28 28"><circle cx="14" cy="14" r="11.5" class="fill"/><path d="M13.4 7.4v7h-4.6" class="hand"/></svg><span>Opkald</span></button>
         <button class="pd-tab"><svg viewBox="0 0 28 28"><circle cx="14" cy="14" r="11.5" class="fill"/><circle cx="14" cy="11" r="4.2" class="cut"/><path d="M6.4 22c1.7-3.3 4.4-4.8 7.6-4.8s5.9 1.5 7.6 4.8a11.5 11.5 0 0 1-15.2 0z" class="cut"/></svg><span>Kontakter</span></button>
-        <button class="pd-tab on"><svg viewBox="0 0 30 26" class="grid"><circle cx="6" cy="4.5" r="3.4"/><circle cx="15" cy="4.5" r="3.4"/><circle cx="24" cy="4.5" r="3.4"/><circle cx="6" cy="13" r="3.4"/><circle cx="15" cy="13" r="3.4"/><circle cx="24" cy="13" r="3.4"/><circle cx="10.5" cy="21.5" r="3.4"/><circle cx="19.5" cy="21.5" r="3.4"/></svg><span>Numerisk blok</span></button>
+        <button class="pd-tab on"><svg viewBox="0 0 26 24" class="grid"><circle cx="4.5" cy="4" r="3.3"/><circle cx="13" cy="4" r="3.3"/><circle cx="21.5" cy="4" r="3.3"/><circle cx="4.5" cy="12" r="3.3"/><circle cx="13" cy="12" r="3.3"/><circle cx="21.5" cy="12" r="3.3"/><circle cx="4.5" cy="20" r="3.3"/><circle cx="13" cy="20" r="3.3"/><circle cx="21.5" cy="20" r="3.3"/></svg><span>Numerisk blok</span></button>
       </div>
       <button class="pd-search" aria-label="Søg"><svg viewBox="0 0 24 24"><circle cx="10.2" cy="10.2" r="7"/><path d="M15.4 15.4l5.6 5.6"/></svg></button>
     </nav>
@@ -250,6 +250,7 @@
           <div class="group">
             <label class="row"><span>Tastetoner (numerisk blok)</span><input type="checkbox" class="switch" data-s="tones"></label>
             <label class="row"><span>Tastede tal på blokken peekes</span><input type="checkbox" class="switch" data-s="typedPeek"></label>
+            <label class="row"><span>Vis scannet tal i nummerfeltet</span><input type="checkbox" class="switch" data-s="showScanned"></label>
             <label class="row"><span>Lodret justering (px)</span><input type="number" inputmode="numeric" data-s="vAdjust"></label>
           </div>
           <p class="sub-note" id="s-screen"></p>
