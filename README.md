@@ -1,1 +1,54 @@
-# number-reader
+# Number Reader – T9-tal → navn med kameraet
+
+PWA der ligner iPhonens **Telefon-tastatur** (eller **Lommeregneren** fra Calcplus). Tilskueren tænker på en kendt person og skriver navnet med tallene på en numerisk blok (fx `Kim Larsen` → `546527736`). Magikeren peger telefonen mod tallene, appen læser dem med kameraet og afkoder dem med dansk ordbog. Ordet vises som svag peek-tekst.
+
+Ren vanilla JS, ingen build. OCR: Tesseract.js (lagt i `vendor/`, virker offline efter første hentning), eller browserens egen `TextDetector` hvis den findes.
+
+## Brug
+
+| Handling | Hvordan |
+|---|---|
+| **Hemmeligt panel** | 5 hurtige tryk øverst til højre |
+| **Scan med kameraet** | Numerisk blok: tryk over nummeret (det tomme felt øverst). Lommeregner: tryk mellem de to runde knapper. Tryk igen = stop |
+| **Peek-skærm** | Tryk ✱ på den numeriske blok → sort/hvid skærm med ordet i 2 sek. (eller til tryk) |
+| **Peek-tekst** | Blok: svag grå tekst lige over home-baren. Lommeregner: øverst mellem ikonerne |
+| **Skift mode** | Panelet → *Numerisk blok* / *Lommeregner* |
+| **Vælg et andet bud** | Panelet → tryk på et af forslagene |
+
+Tal tastet direkte på blokken dekodes også (kan slås fra).
+
+### Dekodning
+- 2 = ABC (Æ Å), 3 = DEF, 4 = GHI, 5 = JKL, 6 = MNO (Ø), 7 = PQRS, 8 = TUV, 9 = WXYZ.
+- 0 og 1 = mellemrum (flere ord).
+- Rækkefølge: *egne navne* → *kendte personer* (ca. 470, `data/kendte.txt`) → fornavne/efternavne → *fornavn + efternavn* → 25.000 danske ord efter hyppighed.
+- Ret listerne i `data/*.txt` og kør `npm run words` (henter frekvenslisten fra hermitdave/FrequencyWords).
+
+### Kamera
+- Videoen er usynlig. *Vis søger* (panel → Kamera) viser et lille billede til træning.
+- Midten af billedet læses (eller hele billedet). Samme tal skal læses 2 gange (eller 1).
+- Mørk skærm med lys tekst vendes automatisk. Appen skifter mellem 5 læse-strategier fra billede til billede.
+- iOS viser den grønne kamera-prik, mens der scannes. Kameraet stopper selv, når ordet er fundet, efter 30 sek. eller når appen lægges væk.
+
+## Udvikling
+```bash
+npm run dev     # http://localhost:5173
+npm test        # dekoder + OCR-tekst
+npm run words   # byg src/words.js
+node scripts/make-icons.cjs   # app-ikon (kræver Playwright/Chromium)
+```
+Testet i headless Chromium med falsk kamera: mørk skærm `546527736` → **Kim Larsen** (0,4 s), lys skærm skrå `62 37 64 55 35 736` → **Mads Mikkelsen** (0,6 s), små tal `82956779438` → **Taylor Swift** (0,4 s). Ikke testet på fysisk iPhone endnu.
+
+## Filer
+```
+index.html, styles.css (Calcplus), pad.css (blok, peek, panel)
+src/app.js       tilstand, panel, peek, kamera-styring, numerisk blok
+src/calcui.js    lommeregner-UI (fra Thyxo/Calcplus, uden force)
+src/calc/        lommeregner-motor (uændret kopi fra Calcplus)
+src/t9.js        T9-dekoder
+src/words.js     genereret ordbog
+src/ocr.js       kamera + Tesseract/TextDetector
+vendor/          tesseract.js 6.0.1 + core + eng (best_int)
+sw.js            offline-cache – hæv VERSION ved ændringer
+```
+
+Udgives på Vercel: push til `main` → produktion.

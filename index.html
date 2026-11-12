@@ -1,0 +1,268 @@
+<!doctype html>
+<html lang="da">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+  <title>Telefon</title>
+  <meta name="description" content="Telefon">
+  <meta name="theme-color" content="#000000">
+  <meta name="color-scheme" content="dark">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Telefon">
+  <meta name="format-detection" content="telephone=no">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="pad.css">
+</head>
+<body data-mode="pad">
+
+  <!-- ================= Numerisk blok (Telefon) ================= -->
+  <div id="pad">
+    <section class="pd-display" id="pd-display">
+      <div class="pd-num" id="pd-num"></div>
+      <button class="pd-add" id="pd-add" hidden>Tilføj nummer</button>
+    </section>
+
+    <main class="pd-keys" id="pd-keys">
+      <button class="pk" data-d="1"><b>1</b><small class="blank">&nbsp;</small></button>
+      <button class="pk" data-d="2"><b>2</b><small>ABC</small></button>
+      <button class="pk" data-d="3"><b>3</b><small>DEF</small></button>
+      <button class="pk" data-d="4"><b>4</b><small>GHI</small></button>
+      <button class="pk" data-d="5"><b>5</b><small>JKL</small></button>
+      <button class="pk" data-d="6"><b>6</b><small>MNO</small></button>
+      <button class="pk" data-d="7"><b>7</b><small>PQRS</small></button>
+      <button class="pk" data-d="8"><b>8</b><small>TUV</small></button>
+      <button class="pk" data-d="9"><b>9</b><small>WXYZ</small></button>
+      <button class="pk sym" data-d="*" aria-label="Stjerne"><svg viewBox="0 0 24 24"><path d="M12 3.2v17.6M4.4 7.6l15.2 8.8M4.4 16.4l15.2-8.8"/></svg></button>
+      <button class="pk" data-d="0"><b>0</b><small class="plus">+</small></button>
+      <button class="pk sym" data-d="#" aria-label="Firkant"><svg viewBox="0 0 24 24"><path d="M9.6 3.5L7.6 20.5M16.4 3.5l-2 17M4 8.8h16.4M3.4 15.2h16.4"/></svg></button>
+    </main>
+
+    <div class="pd-callrow">
+      <span></span>
+      <button class="pd-call" id="pd-call" aria-label="Ring op">
+        <svg viewBox="0 0 24 24"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.6 21 3 13.4 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1z"/></svg>
+      </button>
+      <button class="pd-del" id="pd-del" aria-label="Slet" hidden>
+        <svg viewBox="0 0 30 24"><path class="f" d="M10.2 3h15.3A2.5 2.5 0 0 1 28 5.5v13a2.5 2.5 0 0 1-2.5 2.5H10.2a2.5 2.5 0 0 1-1.9-.9L2.6 13.3a2 2 0 0 1 0-2.6l5.7-6.8a2.5 2.5 0 0 1 1.9-.9z"/><path class="x" d="M13.5 8.2l7.6 7.6M21.1 8.2l-7.6 7.6"/></svg>
+      </button>
+    </div>
+
+    <nav class="pd-tabbar">
+      <div class="pd-tabs">
+        <button class="pd-tab"><svg viewBox="0 0 28 28"><circle cx="14" cy="14" r="11.2" class="fill"/><path d="M14 7.6V14l4.2 2.6" class="hand"/></svg><span>Opkald</span></button>
+        <button class="pd-tab"><svg viewBox="0 0 28 28"><circle cx="14" cy="14" r="11.2" class="fill"/><circle cx="14" cy="11.2" r="4" class="cut"/><path d="M6.6 21.6c1.6-3 4.3-4.4 7.4-4.4s5.8 1.4 7.4 4.4" class="cut"/></svg><span>Kontakter</span></button>
+        <button class="pd-tab on"><svg viewBox="0 0 28 28" class="grid"><circle cx="6.5" cy="5" r="2.6"/><circle cx="14" cy="5" r="2.6"/><circle cx="21.5" cy="5" r="2.6"/><circle cx="6.5" cy="12" r="2.6"/><circle cx="14" cy="12" r="2.6"/><circle cx="21.5" cy="12" r="2.6"/><circle cx="6.5" cy="19" r="2.6"/><circle cx="14" cy="19" r="2.6"/><circle cx="21.5" cy="19" r="2.6"/><circle cx="14" cy="26" r="2.6"/></svg><span>Tastatur</span></button>
+      </div>
+      <button class="pd-search" aria-label="Søg"><svg viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.3"/><path d="M15.2 15.2l5 5"/></svg></button>
+    </nav>
+
+    <div class="peek-line" id="pad-peek" aria-hidden="true"></div>
+  </div>
+
+  <!-- ================= Lommeregner (fra Calcplus) ================= -->
+  <div id="app">
+    <header class="topbar">
+      <button class="round-btn" id="btn-history" aria-label="Historik"><i class="g g-clock"></i>
+      </button>
+      <div id="arm-zone" aria-hidden="true"><span class="peek-line" id="calc-peek"></span></div>
+      <button class="round-btn" id="btn-mode" aria-label="Lommeregnertype"><i class="g g-calc"></i>
+      </button>
+    </header>
+
+    <section id="display" aria-live="polite">
+      <div class="line expr" id="expr"></div>
+      <div class="line main" id="main"><span class="num">0</span></div>
+    </section>
+
+    <main id="keypad">
+      <button class="key fn" data-key="back" aria-label="Slet"><i class="g g-back"></i></button>
+      <button class="key fn" data-key="clear" id="key-clear"><span class="txt">AC</span></button>
+      <button class="key fn" data-key="pct" aria-label="Procent"><i class="g g-pct"></i></button>
+      <button class="key op" data-key="÷" aria-label="Divider"><i class="g g-div"></i></button>
+
+      <button class="key num" data-key="7">7</button>
+      <button class="key num" data-key="8">8</button>
+      <button class="key num" data-key="9">9</button>
+      <button class="key op" data-key="×" aria-label="Gange"><i class="g g-mul"></i></button>
+
+      <button class="key num" data-key="4">4</button>
+      <button class="key num" data-key="5">5</button>
+      <button class="key num" data-key="6">6</button>
+      <button class="key op" data-key="-" aria-label="Minus"><i class="g g-sub"></i></button>
+
+      <button class="key num" data-key="1">1</button>
+      <button class="key num" data-key="2">2</button>
+      <button class="key num" data-key="3">3</button>
+      <button class="key op" data-key="+" aria-label="Plus"><i class="g g-add"></i></button>
+
+      <button class="key num" data-key="pm" aria-label="Plus/minus"><i class="g g-pm"></i></button>
+      <button class="key num" data-key="0">0</button>
+      <button class="key num" data-key=","><i class="g g-comma"></i></button>
+      <button class="key op" data-key="=" aria-label="Lig med"><i class="g g-eq"></i></button>
+    </main>
+  </div>
+
+  <!-- Menu (Almindelig / Videnskabelig / ...) -->
+  <div id="menu-scrim" class="scrim" hidden></div>
+  <div id="mode-menu" class="glass-menu" hidden>
+    <button class="mi" data-mode="basic"><span class="check"><i class="g g-m-check"></i></span><i class="g mi-ico g-m-basic"></i><span class="mi-txt">Almindelig</span></button>
+    <button class="mi" data-mode="sci"><span class="check"></span><i class="g mi-ico g-m-sci"></i><span class="mi-txt">Videnskabelig</span></button>
+    <button class="mi" data-mode="notes"><span class="check"></span><i class="g mi-ico g-m-notes"></i><span class="mi-txt">Matematiknoter</span></button>
+    <div class="mi-sep"></div>
+    <button class="mi" data-mode="convert"><span class="check"></span><i class="g mi-ico g-m-conv"></i><span class="mi-txt">Konverter</span></button>
+  </div>
+
+  <!-- Kopiér/indsæt-boble -->
+  <div id="copy-bubble" hidden>
+    <button data-act="copy">Kopiér</button><span class="sep"></span><button data-act="paste">Indsæt</button>
+  </div>
+
+  <!-- Historik -->
+  <div id="history" class="sheet" hidden>
+    <div class="sheet-head">
+      <button class="sheet-link" id="history-clear">Ryd</button>
+      <span class="sheet-title">Historik</span>
+      <button class="sheet-link bold" id="history-done">OK</button>
+    </div>
+    <ul id="history-list"></ul>
+    <p id="history-empty">Ingen historik</p>
+  </div>
+
+  <!-- ================= Peek-skærm ================= -->
+  <div id="peek-screen" hidden>
+    <div class="ps-word" id="ps-word"></div>
+    <div class="ps-alt" id="ps-alt"></div>
+  </div>
+
+  <!-- ================= Hemmeligt panel ================= -->
+  <div id="secret" class="sheet secret" hidden>
+    <div class="sheet-head">
+      <span></span>
+      <span class="sheet-title">Indstillinger</span>
+      <button class="sheet-link bold" id="secret-done">OK</button>
+    </div>
+    <div class="secret-body">
+
+      <div class="hero on" id="hero">
+        <div class="hero-row">
+          <div class="hero-main">
+            <span class="hero-label" id="s-src">Intet læst endnu</span>
+            <b id="s-word" class="hero-num">–</b>
+            <span class="hero-digits" id="s-digits"></span>
+          </div>
+        </div>
+        <div class="cands" id="s-cands"></div>
+        <div class="hero-actions">
+          <button id="s-scan">Scan nu</button>
+          <button id="s-peek">Vis peek</button>
+          <button id="s-clear">Ryd</button>
+        </div>
+      </div>
+
+      <div class="seg mode-seg" data-s-seg="mode">
+        <button data-v="pad">Numerisk blok</button><button data-v="calc">Lommeregner</button>
+      </div>
+
+      <!-- Peek -->
+      <details class="sec" data-sec="peek" open>
+        <summary>
+          <i class="sec-ico" style="--c:#bf5af2"><svg viewBox="0 0 24 24"><path d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7S2 12 2 12z"/><circle cx="12" cy="12" r="3"/></svg></i>
+          <span class="sec-t">Peek</span><span class="sec-v" id="sum-peek"></span><i class="chev"></i>
+        </summary>
+        <div class="sec-body">
+          <div class="group">
+            <label class="row"><span>Peek-tekst</span><input type="checkbox" class="switch" data-s="peekText"></label>
+            <label class="row"><span>Styrke</span>
+              <select data-s="peekLevel"><option value="1">Næsten usynlig</option><option value="2">Svag</option><option value="3">Tydelig</option></select></label>
+            <label class="row"><span>Alternativer i teksten</span>
+              <select data-s="peekAlts"><option value="0">Ingen</option><option value="1">1</option><option value="2">2</option></select></label>
+          </div>
+          <p class="sub-note">Peek-skærm (tryk ✱ på den numeriske blok)</p>
+          <div class="seg" data-s-seg="screenColor"><button data-v="black">Sort</button><button data-v="white">Hvid</button></div>
+          <div class="seg" data-s-seg="screenHold"><button data-v="2">2 sek.</button><button data-v="tap">Til tryk</button></div>
+          <div class="group">
+            <label class="row"><span>Vis alternativer</span><input type="checkbox" class="switch" data-s="screenAlts"></label>
+          </div>
+        </div>
+      </details>
+
+      <!-- Kamera -->
+      <details class="sec" data-sec="cam">
+        <summary>
+          <i class="sec-ico" style="--c:#0a84ff"><svg viewBox="0 0 24 24"><path d="M4 8h3l2-3h6l2 3h3v11H4z"/><circle cx="12" cy="13" r="3.5"/></svg></i>
+          <span class="sec-t">Kamera</span><span class="sec-v" id="sum-cam"></span><i class="chev"></i>
+        </summary>
+        <div class="sec-body">
+          <div class="group">
+            <label class="row"><span>Start scanning når appen åbner</span><input type="checkbox" class="switch" data-s="autoScan"></label>
+            <label class="row"><span>Bekræft læsning</span>
+              <select data-s="confirm"><option value="1">1 gang (hurtigst)</option><option value="2">2 gange (sikrest)</option></select></label>
+            <label class="row"><span>Mindst antal cifre</span>
+              <select data-s="minLen"><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option></select></label>
+            <label class="row"><span>Stop efter</span>
+              <select data-s="timeout"><option value="15">15 sek.</option><option value="30">30 sek.</option><option value="60">1 min.</option></select></label>
+          </div>
+          <div class="seg" data-s-seg="region" style="margin-top:10px"><button data-v="center">Midten af billedet</button><button data-v="full">Hele billedet</button></div>
+          <div class="group">
+            <label class="row"><span>Vis søger (træning)</span><input type="checkbox" class="switch" data-s="viewfinder"></label>
+            <div class="row"><span>OCR-motor</span><span class="muted" id="s-ocr">–</span></div>
+            <div class="row"><span>Sidst læst</span><span class="muted" id="s-lastread">–</span></div>
+          </div>
+          <p class="sub-note">Start: tryk øverst på skærmen (numerisk blok: over tallet · lommeregner: mellem de to runde knapper). Tryk igen = stop.</p>
+        </div>
+      </details>
+
+      <!-- Ordbog -->
+      <details class="sec" data-sec="dict">
+        <summary>
+          <i class="sec-ico" style="--c:#ff9f0a"><svg viewBox="0 0 24 24"><path d="M5 4h11a3 3 0 0 1 3 3v13H8a3 3 0 0 1-3-3z"/><path d="M5 17a3 3 0 0 1 3-3h11"/></svg></i>
+          <span class="sec-t">Ordbog</span><span class="sec-v" id="sum-dict"></span><i class="chev"></i>
+        </summary>
+        <div class="sec-body">
+          <div class="group">
+            <label class="row"><span>Kendte personer</span><input type="checkbox" class="switch" data-s="dCelebs"></label>
+            <label class="row"><span>Fornavne og efternavne</span><input type="checkbox" class="switch" data-s="dNames"></label>
+            <label class="row"><span>Danske ord (25.000)</span><input type="checkbox" class="switch" data-s="dWords"></label>
+          </div>
+          <p class="sub-note">Egne navne – én pr. linje, vinder altid</p>
+          <textarea id="s-custom" rows="4" placeholder="fx Bedstemor Inge&#10;Fido" autocapitalize="words" autocorrect="off" spellcheck="false"></textarea>
+          <p class="sub-note">Test</p>
+          <div class="group">
+            <label class="row"><span>Tal</span><input type="text" inputmode="numeric" id="t-digits" placeholder="fx 546527736" autocomplete="off"></label>
+            <div class="row"><span>Bliver</span><span class="muted" id="t-digits-out">–</span></div>
+            <label class="row"><span>Ord</span><input type="text" id="t-word" placeholder="fx Kim Larsen" autocomplete="off" autocorrect="off" spellcheck="false"></label>
+            <div class="row"><span>Tastes som</span><span class="strong" id="t-word-out">–</span></div>
+          </div>
+        </div>
+      </details>
+
+      <!-- Andet -->
+      <details class="sec" data-sec="misc">
+        <summary>
+          <i class="sec-ico" style="--c:#8e8e93"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.2"/><path d="M12 3v2.5M12 18.5V21M3 12h2.5M18.5 12H21M5.6 5.6l1.8 1.8M16.6 16.6l1.8 1.8M5.6 18.4l1.8-1.8M16.6 7.4l1.8-1.8"/></svg></i>
+          <span class="sec-t">Andet</span><span class="sec-v"></span><i class="chev"></i>
+        </summary>
+        <div class="sec-body">
+          <div class="group">
+            <label class="row"><span>Tastetoner (numerisk blok)</span><input type="checkbox" class="switch" data-s="tones"></label>
+            <label class="row"><span>Tastede tal på blokken peekes</span><input type="checkbox" class="switch" data-s="typedPeek"></label>
+            <label class="row"><span>Lodret justering (px)</span><input type="number" inputmode="numeric" data-s="vAdjust"></label>
+          </div>
+          <p class="sub-note" id="s-screen"></p>
+          <p class="sub-note">Log</p>
+          <pre id="s-log"></pre>
+        </div>
+      </details>
+
+      <p class="foot">Åbn: 5 hurtige tryk øverst til højre · Peek-skærm: ✱ · Scan: tryk øverst</p>
+    </div>
+  </div>
+
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>

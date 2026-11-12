@@ -1,0 +1,473 @@
+# Kendte personer – én pr. linje. Højest oppe = højest prioritet ved ens tal.
+# Danske
+Kim Larsen
+Mads Mikkelsen
+Dronning Margrethe
+Kong Frederik
+Dronning Mary
+Kronprins Christian
+Prinsesse Isabella
+Prins Joachim
+Prinsesse Marie
+H.C. Andersen
+Søren Kierkegaard
+Karen Blixen
+Niels Bohr
+Tycho Brahe
+Carl Nielsen
+Victor Borge
+Dirch Passer
+Ove Sprogøe
+Poul Bundgaard
+Morten Grunwald
+Olsen Banden
+Egon Olsen
+Lise Nørgaard
+Benny Andersen
+Piet Hein
+Storm P
+Jørgen Leth
+Lars von Trier
+Thomas Vinterberg
+Susanne Bier
+Nikolaj Coster-Waldau
+Nikolaj Lie Kaas
+Ulrich Thomsen
+Sidse Babett Knudsen
+Connie Nielsen
+Viggo Mortensen
+Pilou Asbæk
+Trine Dyrholm
+Paprika Steen
+Anders Matthesen
+Casper Christensen
+Frank Hvam
+Mette Frederiksen
+Lars Løkke Rasmussen
+Helle Thorning-Schmidt
+Anders Fogh Rasmussen
+Poul Nyrup Rasmussen
+Margrethe Vestager
+Pia Kjærsgaard
+Inger Støjberg
+Morten Messerschmidt
+Jakob Ellemann
+Lars Ulrich
+Mø
+Lukas Graham
+Medina
+Christopher
+Tobias Rahim
+Gilli
+Andreas Odbjerg
+Thomas Helmig
+Anne Linnet
+Sanne Salomonsen
+Rasmus Seebach
+Nik og Jay
+Aqua
+Volbeat
+Michael Poulsen
+Burhan G
+Rasmus Nøhr
+Tina Dickow
+Agnes Obel
+Sebastian
+Shu-bi-dua
+Michael Bundesen
+Tommy Seebach
+Søs Fenger
+Lis Sørensen
+Kurt Ravn
+Peter Schmeichel
+Kasper Schmeichel
+Michael Laudrup
+Brian Laudrup
+Christian Eriksen
+Simon Kjær
+Pernille Harder
+Caroline Wozniacki
+Holger Rune
+Viktor Axelsen
+Mikkel Hansen
+Niklas Landin
+Jonas Vingegaard
+Bjarne Riis
+Mads Pedersen
+Kevin Magnussen
+Tom Kristensen
+Morten Olsen
+Åge Hareide
+Kasper Hjulmand
+Rasmus Højlund
+Pierre-Emile Højbjerg
+Allan Simonsen
+Preben Elkjær
+Jens Lehmann
+Jesper Grønkjær
+Thomas Gravesen
+Dan Jørgensen
+Claus Meyer
+René Redzepi
+Adam Price
+Jan Gintberg
+Mick Øgendahl
+Christian Fuhlendorff
+Huxi Bach
+Sofie Linde
+Mikkel Kessler
+Lasse Spang Olsen
+Jakob Haugaard
+Jørgen Clevin
+Bamse
+Kylling
+Rasmus Klump
+Cirkeline
+Hugo
+Gustav
+Martin Brygmann
+Bubber
+Søren Østergaard
+Peter Mygind
+Lars Mikkelsen
+Iben Hjejle
+Bodil Udsen
+Ghita Nørby
+Lars Hjortshøj
+Jacob Riising
+Mikael Bertelsen
+Clement Kjersgaard
+Felix Smith
+Signe Molde
+Sebastian Klein
+Emil Thorup
+Joachim B
+Natasja
+Kesi
+Specktors
+Tessa
+Ukendt Kunstner
+Barbara Moleko
+Szhirley
+Saveus
+Jonah Blacksmith
+Malte Ebert
+Ida Laurberg
+Thomas Skov
+Uffe Holm
+Uffe Ellemann
+Niels Hausgaard
+Povl Dissing
+Gasolin
+Bjarke Ingels
+Arne Jacobsen
+Hans Wegner
+Lego
+Ole Kirk
+Jens Galschiøt
+Hans Christian Ørsted
+Ole Rømer
+Rasmus Rask
+NFS Grundtvig
+Holberg
+Ludvig Holberg
+Johannes V Jensen
+Tove Ditlevsen
+Peter Høeg
+Jussi Adler-Olsen
+Sara Blædel
+Elsebeth Egholm
+Hella Joof
+Puk Elgård
+Jesper Klein
+Sven Brinkmann
+Lone Hertz
+Vilhelm Hammershøi
+Asger Jorn
+Olafur Eliasson
+Bertel Thorvaldsen
+Jeppe Hein
+Martin Jensen
+Lukas Forchhammer
+Oh Land
+Zappa
+Jesper Buch
+Lars Seier
+Chris Holsten
+# Internationale
+Donald Trump
+Barack Obama
+Joe Biden
+Kamala Harris
+Elon Musk
+Bill Gates
+Steve Jobs
+Mark Zuckerberg
+Jeff Bezos
+Warren Buffett
+Taylor Swift
+Beyonce
+Rihanna
+Madonna
+Adele
+Ed Sheeran
+Justin Bieber
+Billie Eilish
+Harry Styles
+Lady Gaga
+Shakira
+Eminem
+Drake
+Kanye West
+Kim Kardashian
+Ariana Grande
+Dua Lipa
+Bruno Mars
+Elvis Presley
+Michael Jackson
+Freddie Mercury
+David Bowie
+John Lennon
+Paul McCartney
+Ringo Starr
+George Harrison
+Mick Jagger
+Bob Dylan
+Bob Marley
+Elton John
+Prince
+Whitney Houston
+Celine Dion
+Tina Turner
+Frank Sinatra
+Johnny Cash
+Kurt Cobain
+Abba
+Agnetha
+Benny
+Björn
+Bjorn
+Avicii
+Zlatan
+Zlatan Ibrahimovic
+Lionel Messi
+Messi
+Cristiano Ronaldo
+Ronaldo
+Neymar
+Kylian Mbappe
+Erling Haaland
+Haaland
+David Beckham
+Pele
+Maradona
+Zinedine Zidane
+Roger Federer
+Rafael Nadal
+Novak Djokovic
+Serena Williams
+Usain Bolt
+Michael Jordan
+LeBron James
+Tiger Woods
+Muhammad Ali
+Mike Tyson
+Lewis Hamilton
+Max Verstappen
+Michael Schumacher
+Albert Einstein
+Isaac Newton
+Charles Darwin
+Stephen Hawking
+Nikola Tesla
+Marie Curie
+Leonardo da Vinci
+Leonardo
+Michelangelo
+Picasso
+Pablo Picasso
+Van Gogh
+Vincent van Gogh
+Rembrandt
+Mozart
+Beethoven
+Bach
+Shakespeare
+William Shakespeare
+Napoleon
+Julius Caesar
+Cleopatra
+Jesus
+Moses
+Buddha
+Gandhi
+Nelson Mandela
+Martin Luther King
+Martin Luther
+Winston Churchill
+Abraham Lincoln
+John F Kennedy
+Kennedy
+Queen Elizabeth
+Dronning Elizabeth
+King Charles
+Kong Charles
+Prinsesse Diana
+Prinsesse Diana
+Diana
+Prins William
+Prins Harry
+Vladimir Putin
+Putin
+Zelensky
+Volodymyr Zelensky
+Angela Merkel
+Emmanuel Macron
+Greta Thunberg
+Brad Pitt
+Angelina Jolie
+Tom Cruise
+Tom Hanks
+Leonardo DiCaprio
+Johnny Depp
+Will Smith
+Morgan Freeman
+Robert De Niro
+Al Pacino
+Marlon Brando
+Denzel Washington
+Keanu Reeves
+Arnold Schwarzenegger
+Sylvester Stallone
+Bruce Willis
+Jackie Chan
+Bruce Lee
+Charlie Chaplin
+Marilyn Monroe
+Audrey Hepburn
+Meryl Streep
+Julia Roberts
+Jennifer Aniston
+Jennifer Lopez
+Scarlett Johansson
+Emma Watson
+Daniel Radcliffe
+Margot Robbie
+Ryan Gosling
+Ryan Reynolds
+Zendaya
+Tom Holland
+Timothee Chalamet
+Kristen Stewart
+Robert Pattinson
+Hugh Jackman
+Nicole Kidman
+George Clooney
+Matt Damon
+Ben Affleck
+Harrison Ford
+Mel Gibson
+Jim Carrey
+Adam Sandler
+Eddie Murphy
+Rowan Atkinson
+Mr Bean
+Sean Connery
+Daniel Craig
+James Bond
+Oprah Winfrey
+Oprah
+Walt Disney
+Steven Spielberg
+Quentin Tarantino
+Alfred Hitchcock
+Christopher Nolan
+Stanley Kubrick
+Gordon Ramsay
+Jamie Oliver
+David Attenborough
+Dalai Lama
+Pave Frans
+Paven
+Mona Lisa
+Mickey Mouse
+Anders And
+Fedtmule
+Mickey
+Harry Potter
+Hermione
+Voldemort
+Dumbledore
+Gandalf
+Frodo
+Batman
+Superman
+Spiderman
+Spider-Man
+Iron Man
+Hulk
+Thor
+Wonder Woman
+Darth Vader
+Luke Skywalker
+Yoda
+Sherlock Holmes
+Pippi Langstrømpe
+Pippi
+Peter Pan
+Pinocchio
+Askepot
+Snehvide
+Rapunzel
+Elsa
+Olaf
+Shrek
+Simba
+Pikachu
+Mario
+Super Mario
+Sonic
+Barbie
+Ken
+Julemanden
+Rudolf
+Garfield
+Tintin
+Asterix
+Obelix
+Rasmus Klump
+Emil fra Lønneberg
+Ronja Røverdatter
+Astrid Lindgren
+J K Rowling
+Tolkien
+Stephen King
+Agatha Christie
+Hemingway
+Ernest Hemingway
+Mark Twain
+Dickens
+Charles Dickens
+Freud
+Sigmund Freud
+Karl Marx
+Platon
+Aristoteles
+Sokrates
+Galileo
+Kopernikus
+Columbus
+Christoffer Columbus
+Marco Polo
+Neil Armstrong
+Buzz Aldrin
+Yuri Gagarin
+Houdini
+Harry Houdini
+David Copperfield
+David Blaine
+Dynamo
+Derren Brown
+Penn og Teller
+Uri Geller
+Lars Bom
