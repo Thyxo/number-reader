@@ -244,7 +244,6 @@ $('#pd-call').addEventListener('click', () => {});
 
 // Tryk øverst (over nummeret) = start/stop scanning
 $('#pd-display').addEventListener('pointerdown', (e) => {
-  if (e.target.closest('#pd-add')) return;
   toggleScan();
 });
 

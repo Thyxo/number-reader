@@ -24,8 +24,10 @@
   <div id="pad">
     <section class="pd-display" id="pd-display">
       <div class="pd-num" id="pd-num"></div>
-      <button class="pd-add" id="pd-add" hidden>Tilføj nummer</button>
     </section>
+    <button class="pd-add" id="pd-add" aria-label="Tilføj kontakt" hidden>
+      <svg viewBox="0 0 30 30"><circle cx="18" cy="12.5" r="10.6" class="o"/><circle cx="18" cy="10" r="3.6" class="f"/><path d="M11.4 19.6c1.3-2.6 3.8-3.9 6.6-3.9s5.3 1.3 6.6 3.9" class="o"/><circle cx="8.6" cy="20.6" r="6.4" class="bg"/><circle cx="8.6" cy="20.6" r="5.4" class="o"/><path d="M8.6 17.6v6M5.6 20.6h6" class="o"/></svg>
+    </button>
 
     <main class="pd-keys" id="pd-keys">
       <button class="pk" data-d="1"><b>1</b><small class="blank">&nbsp;</small></button>
@@ -37,28 +39,25 @@
       <button class="pk" data-d="7"><b>7</b><small>PQRS</small></button>
       <button class="pk" data-d="8"><b>8</b><small>TUV</small></button>
       <button class="pk" data-d="9"><b>9</b><small>WXYZ</small></button>
-      <button class="pk sym" data-d="*" aria-label="Stjerne"><svg viewBox="0 0 24 24"><path d="M12 3.2v17.6M4.4 7.6l15.2 8.8M4.4 16.4l15.2-8.8"/></svg></button>
+      <button class="pk sym" data-d="*" aria-label="Stjerne"><b class="star">*</b></button>
       <button class="pk" data-d="0"><b>0</b><small class="plus">+</small></button>
-      <button class="pk sym" data-d="#" aria-label="Firkant"><svg viewBox="0 0 24 24"><path d="M9.6 3.5L7.6 20.5M16.4 3.5l-2 17M4 8.8h16.4M3.4 15.2h16.4"/></svg></button>
+      <button class="pk sym" data-d="#" aria-label="Firkant"><b class="hash">#</b></button>
     </main>
 
-    <div class="pd-callrow">
-      <span></span>
-      <button class="pd-call" id="pd-call" aria-label="Ring op">
-        <svg viewBox="0 0 24 24"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.6 21 3 13.4 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1z"/></svg>
-      </button>
-      <button class="pd-del" id="pd-del" aria-label="Slet" hidden>
-        <svg viewBox="0 0 30 24"><path class="f" d="M10.2 3h15.3A2.5 2.5 0 0 1 28 5.5v13a2.5 2.5 0 0 1-2.5 2.5H10.2a2.5 2.5 0 0 1-1.9-.9L2.6 13.3a2 2 0 0 1 0-2.6l5.7-6.8a2.5 2.5 0 0 1 1.9-.9z"/><path class="x" d="M13.5 8.2l7.6 7.6M21.1 8.2l-7.6 7.6"/></svg>
-      </button>
-    </div>
+    <button class="pd-call" id="pd-call" aria-label="Ring op">
+      <svg viewBox="0 0 24 24"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.6 21 3 13.4 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1z"/></svg>
+    </button>
+    <button class="pd-del" id="pd-del" aria-label="Slet" hidden>
+      <svg viewBox="0 0 34 24"><path class="f" d="M11 1.5h19.5a2.5 2.5 0 0 1 2.5 2.5v16a2.5 2.5 0 0 1-2.5 2.5H11L1.6 12z"/><path class="x" d="M16.6 7.6l8.8 8.8M25.4 7.6l-8.8 8.8"/></svg>
+    </button>
 
     <nav class="pd-tabbar">
       <div class="pd-tabs">
-        <button class="pd-tab"><svg viewBox="0 0 28 28"><circle cx="14" cy="14" r="11.2" class="fill"/><path d="M14 7.6V14l4.2 2.6" class="hand"/></svg><span>Opkald</span></button>
-        <button class="pd-tab"><svg viewBox="0 0 28 28"><circle cx="14" cy="14" r="11.2" class="fill"/><circle cx="14" cy="11.2" r="4" class="cut"/><path d="M6.6 21.6c1.6-3 4.3-4.4 7.4-4.4s5.8 1.4 7.4 4.4" class="cut"/></svg><span>Kontakter</span></button>
-        <button class="pd-tab on"><svg viewBox="0 0 28 28" class="grid"><circle cx="6.5" cy="5" r="2.6"/><circle cx="14" cy="5" r="2.6"/><circle cx="21.5" cy="5" r="2.6"/><circle cx="6.5" cy="12" r="2.6"/><circle cx="14" cy="12" r="2.6"/><circle cx="21.5" cy="12" r="2.6"/><circle cx="6.5" cy="19" r="2.6"/><circle cx="14" cy="19" r="2.6"/><circle cx="21.5" cy="19" r="2.6"/><circle cx="14" cy="26" r="2.6"/></svg><span>Tastatur</span></button>
+        <button class="pd-tab"><svg viewBox="0 0 28 28"><circle cx="14" cy="14" r="11.5" class="fill"/><path d="M13.4 7.4v7h-4.6" class="hand"/></svg><span>Opkald</span></button>
+        <button class="pd-tab"><svg viewBox="0 0 28 28"><circle cx="14" cy="14" r="11.5" class="fill"/><circle cx="14" cy="11" r="4.2" class="cut"/><path d="M6.4 22c1.7-3.3 4.4-4.8 7.6-4.8s5.9 1.5 7.6 4.8a11.5 11.5 0 0 1-15.2 0z" class="cut"/></svg><span>Kontakter</span></button>
+        <button class="pd-tab on"><svg viewBox="0 0 30 26" class="grid"><circle cx="6" cy="4.5" r="3.4"/><circle cx="15" cy="4.5" r="3.4"/><circle cx="24" cy="4.5" r="3.4"/><circle cx="6" cy="13" r="3.4"/><circle cx="15" cy="13" r="3.4"/><circle cx="24" cy="13" r="3.4"/><circle cx="10.5" cy="21.5" r="3.4"/><circle cx="19.5" cy="21.5" r="3.4"/></svg><span>Numerisk blok</span></button>
       </div>
-      <button class="pd-search" aria-label="Søg"><svg viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.3"/><path d="M15.2 15.2l5 5"/></svg></button>
+      <button class="pd-search" aria-label="Søg"><svg viewBox="0 0 24 24"><circle cx="10.2" cy="10.2" r="7"/><path d="M15.4 15.4l5.6 5.6"/></svg></button>
     </nav>
 
     <div class="peek-line" id="pad-peek" aria-hidden="true"></div>
