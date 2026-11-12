@@ -145,14 +145,14 @@ body[data-mode="calc"] #pad { display: none; }
   height: calc(77 * var(--p));
   margin-left: calc(-38.5 * var(--p));
   border-radius: 50%;
-  background: #367a37;
-  box-shadow: inset 0 0 0 calc(1 * var(--p)) #74d272;
+  background: #387837;
+  box-shadow: inset 0 0 0 calc(.67 * var(--p)) #80d889, inset 0 0 0 calc(1.33 * var(--p)) #59a55e;
   display: grid;
   place-items: center;
   transition: background-color .5s;
 }
 .pd-call:active { background: #4e9a4e; transition: none; }
-.pd-call svg { width: calc(38 * var(--p)); height: calc(38 * var(--p)); fill: #fff; }
+.pd-call img { width: calc(33.67 * var(--p)); height: calc(33.67 * var(--p)); display: block; pointer-events: none; -webkit-user-drag: none; }
 .pd-del {
   position: absolute;
   left: calc(296.5 * var(--p) - 17 * var(--p));

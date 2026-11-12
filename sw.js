@@ -1,12 +1,12 @@
 // Service worker: appen virker offline. Hæv VERSION ved ændringer.
 // vendor/ (OCR-motor, ca. 11 MB) caches første gang den hentes – derefter offline.
-const VERSION = 'numberreader-v6';
+const VERSION = 'numberreader-v7';
 const VENDOR = 'numberreader-vendor-v1';
 const ASSETS = [
   './', 'index.html', 'styles.css', 'pad.css', 'manifest.webmanifest',
   'src/app.js', 'src/calcui.js', 'src/ocr.js', 'src/t9.js', 'src/words.js', 'src/force.js',
   'src/calc/calculator.js', 'src/calc/force.js', 'src/calc/format.js', 'src/calc/settings.js',
-  'icons/apple-touch-icon.png', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/maskable-512.png', 'icons/favicon-32.png',
+  'icons/apple-touch-icon.png', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/maskable-512.png', 'icons/favicon-32.png', 'icons/handset.png',
   ...['back', 'pct', 'pm', 'comma', 'div', 'mul', 'sub', 'add', 'eq', 'clock', 'calc',
     'm-check', 'm-basic', 'm-sci', 'm-notes', 'm-conv'].map((g) => `glyphs/${g}.png`),
 ];
