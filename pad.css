@@ -1,14 +1,17 @@
 /* Numerisk blok (Telefon, mørk tilstand) + peek + peek-skærm + panel-tilføjelser. */
 
+/* iOS-højde (se fixHeight i src/calcui.js): html må ikke være fixed, body er fixed, appen absolut */
+html, body { height: 100%; overflow: hidden; overscroll-behavior: none; }
+body { position: fixed; inset: 0; }
+#app, #pad { position: absolute; top: 0; bottom: 0; left: 0; right: 0; }
+
 body[data-mode="pad"] #app,
 body[data-mode="calc"] #pad { display: none; }
 
 #pad {
-  /* Mål i pt fra rigtige skærmbilleder (393 × 852 pt). --p = 1 pt skaleret til skærmbredden.
+  /* (position sættes øverst i filen) Mål i pt fra rigtige skærmbilleder (393 × 852 pt). --p = 1 pt skaleret til skærmbredden.
      Tal og tilføj-ikon måles fra toppen, resten fra bunden (som i iOS). */
   --p: calc(var(--W) / 393);
-  position: fixed;
-  inset: 0;
   width: var(--W);
   margin: 0 auto;
   background: #000;

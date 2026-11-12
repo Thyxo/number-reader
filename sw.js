@@ -1,6 +1,6 @@
 // Service worker: appen virker offline. Hæv VERSION ved ændringer.
 // vendor/ (OCR-motor, ca. 11 MB) caches første gang den hentes – derefter offline.
-const VERSION = 'numberreader-v2';
+const VERSION = 'numberreader-v3';
 const VENDOR = 'numberreader-vendor-v1';
 const ASSETS = [
   './', 'index.html', 'styles.css', 'pad.css', 'manifest.webmanifest',

@@ -203,29 +203,41 @@ export function initCalc({ onArmTap = () => {}, isSecretOpen = () => false } = {
   // Tryk mellem de to runde knapper = start/stop scanning
   $('#arm-zone').addEventListener('pointerdown', () => onArmTap());
 
-  // ---------- højde: iOS-fejl i hjemmeskærm-apps (se Calcplus) ----------
+  // ---------- højde: iOS-fejl i hjemmeskærm-apps ----------
+  // Fra hjemmeskærmen (black-translucent + viewport-fit=cover) bliver siden ca. 59 pt (statuslinjen)
+  // for lav, og iOS melder det ikke altid i innerHeight. Derfor får html, body og alle faste lag
+  // ALTID skærmens fulde højde i px, når appen kører fra hjemmeskærmen i portræt (som Stopwatchplus).
   const isStandalone = () => navigator.standalone === true || matchMedia('(display-mode: standalone)').matches;
   let heightFixed = false;
   let vAdjust = 0;
+  const LAYERS = ['#app', '#pad', '#secret', '#history', '#peek-screen', '#menu-scrim'];
   function fixHeight(adj = vAdjust) {
     vAdjust = Number(adj) || 0;
-    const portrait = innerHeight > innerWidth;
-    heightFixed = isStandalone() && portrait && screen.height > innerHeight + 20;
-    for (const el of [app, $('#pad')]) {
-      el.style.height = heightFixed ? screen.height + 'px' : '';
+    heightFixed = isStandalone() && innerHeight > innerWidth && screen.height >= innerHeight;
+    const h = heightFixed ? screen.height + 'px' : '';
+    document.documentElement.style.height = h;
+    for (const el of [document.body, ...LAYERS.map((q) => $(q))]) {
+      if (!el) continue;
+      el.style.height = h;
       el.style.bottom = heightFixed ? 'auto' : '';
-      el.style.setProperty('--v-adjust', vAdjust + 'px');
     }
+    for (const el of [app, $('#pad')]) el.style.setProperty('--v-adjust', vAdjust + 'px');
   }
-  window.addEventListener('resize', () => { fixHeight(); render(); });
-  window.addEventListener('orientationchange', () => setTimeout(fixHeight, 300));
+  const refit = () => { fixHeight(); render(); };
+  window.addEventListener('resize', refit);
+  window.addEventListener('orientationchange', () => setTimeout(refit, 300));
+  window.addEventListener('pageshow', refit);
+  document.addEventListener('visibilitychange', () => { if (!document.hidden) refit(); });
+  // iOS kan ændre højden lige efter start uden at sende resize
+  [100, 400, 1000, 2500].forEach((ms) => setTimeout(refit, ms));
 
   function screenInfo() {
     const probe = document.createElement('div');
     probe.style.cssText = 'position:fixed;top:env(safe-area-inset-top);bottom:env(safe-area-inset-bottom)';
     document.body.appendChild(probe);
     const st = getComputedStyle(probe);
-    const info = `vindue ${innerWidth}×${innerHeight}, skærm ${screen.width}×${screen.height}, safe ${parseFloat(st.top) || 0}/${parseFloat(st.bottom) || 0}, ${isStandalone() ? 'hjemmeskærm' : 'browser'}${heightFixed ? ', højde rettet' : ''}`;
+    const shown = document.body.dataset.mode === 'calc' ? app : $('#pad');
+    const info = `skærm ${screen.width}×${screen.height} · vindue ${innerWidth}×${innerHeight} · app ${Math.round(shown.getBoundingClientRect().height)} · safe ${parseFloat(st.top) || 0}/${parseFloat(st.bottom) || 0} · ${isStandalone() ? 'hjemmeskærm' : 'browser'} · ${heightFixed ? 'højde RETTET' : 'ikke rettet'}`;
     probe.remove();
     return info;
   }
