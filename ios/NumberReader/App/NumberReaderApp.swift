@@ -1,4 +1,5 @@
 // Number Reader – native iOS-version af webappen (numerisk blok + lommeregner der scanner T9-tal).
+import AVFoundation
 import SwiftUI
 
 @main
@@ -37,15 +38,7 @@ struct RootView: View {
             if app.peekScreenOpen { PeekScreen().zIndex(60) }
             // Lille søger (træning)
             if app.s.viewfinder && app.scanning {
-                CameraPreview(session: app.scanner.session)
-                    .frame(width: 120, height: 160)
-                    .clipShape(RoundedRectangle(cornerRadius: 12))
-                    .overlay(RoundedRectangle(cornerRadius: 12).strokeBorder(Color(hex: 0x0a84ff), lineWidth: 2))
-                    .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topTrailing)
-                    .padding(.trailing, 10)
-                    .padding(.top, 50 + max(0, 14 - app.insets.top))
-                    .allowsHitTesting(false)
-                    .zIndex(70)
+                Viewfinder(session: app.scanner.session, topPad: 50 + max(0, 14 - app.insets.top)).zIndex(70)
             }
             TouchObserver(onTouchDown: secretTap, onInsets: { i in
                 app.insets = EdgeInsets(top: i.top, leading: i.left, bottom: i.bottom, trailing: i.right)
@@ -70,5 +63,23 @@ struct RootView: View {
             app.menuOpen = false
             DispatchQueue.main.asyncAfter(deadline: .now() + 0.17) { app.openSecret(tapTime: now) }
         }
+    }
+}
+
+/// Lille søger (træning) øverst til højre
+struct Viewfinder: View {
+    var session: AVCaptureSession
+    var topPad: CGFloat
+    var body: some View {
+        let shape = RoundedRectangle(cornerRadius: 12)
+        let blue = Color(hex: 0x0a84ff)
+        return CameraPreview(session: session)
+            .frame(width: 120, height: 160)
+            .clipShape(shape)
+            .overlay(shape.strokeBorder(blue, lineWidth: 2))
+            .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topTrailing)
+            .padding(.trailing, 10)
+            .padding(.top, topPad)
+            .allowsHitTesting(false)
     }
 }

@@ -139,7 +139,7 @@ struct DebugScreen: View {
 struct DebugImage: View {
     var frame: DebugFrame
     var body: some View {
-        let w = CGFloat(frame.image.width), h = CGFloat(frame.image.height)
+        let w = CGFloat(frame.image.width)
         Image(decorative: frame.image, scale: 1)
             .resizable()
             .aspectRatio(contentMode: .fit)

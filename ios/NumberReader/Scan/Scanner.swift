@@ -3,6 +3,7 @@
 // ignoreres), samme tal skal læses `confirm` gange blandt de sidste 6, eller hurtig accept.
 import AVFoundation
 import CoreImage
+import SwiftUI
 import UIKit
 import Vision
 
