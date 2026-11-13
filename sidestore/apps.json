@@ -20,7 +20,21 @@
           "NSCameraUsageDescription": "Kameraet bruges til at læse tal."
         }
       },
-      "versions": []
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "2",
+          "date": "2026-11-13T14:20:33Z",
+          "localizedDescription": "Build 2",
+          "downloadURL": "https://github.com/Thyxo/number-reader/releases/download/v1.0.0-2/NumberReader.ipa",
+          "size": 1643619,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "version": "1.0.0",
+      "versionDate": "2026-11-13T14:20:33Z",
+      "downloadURL": "https://github.com/Thyxo/number-reader/releases/download/v1.0.0-2/NumberReader.ipa",
+      "size": 1643619
     }
   ],
   "news": []
