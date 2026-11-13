@@ -23,6 +23,15 @@
       "versions": [
         {
           "version": "1.1.0",
+          "buildVersion": "5",
+          "date": "2026-11-13T23:58:30Z",
+          "localizedDescription": "Build 5",
+          "downloadURL": "https://github.com/Thyxo/number-reader/releases/download/v1.1.0-5/NumberReader.ipa",
+          "size": 2666504,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.1.0",
           "buildVersion": "4",
           "date": "2026-11-13T23:36:10Z",
           "localizedDescription": "Build 4",
@@ -50,8 +59,8 @@
         }
       ],
       "version": "1.1.0",
-      "versionDate": "2026-11-13T23:36:10Z",
-      "downloadURL": "https://github.com/Thyxo/number-reader/releases/download/v1.1.0-4/NumberReader.ipa",
+      "versionDate": "2026-11-13T23:58:30Z",
+      "downloadURL": "https://github.com/Thyxo/number-reader/releases/download/v1.1.0-5/NumberReader.ipa",
       "size": 2666504
     }
   ],
