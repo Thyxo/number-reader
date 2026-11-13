@@ -1,0 +1,6860 @@
+# Navn|ÅÅÅÅ-MM-DD fra Wikidata. Genereres af ios/scripts/fetch-data.py
+H.C. Andersen|1805-04-02
+Niels Bohr|1885-10-07
+Søren Kierkegaard|1813-05-05
+Tycho Brahe|1546-12-24
+H.C. Ørsted|1777-08-14
+Camille Pissarro|1830-07-10
+Karen Blixen|1885-04-17
+Karl Gjellerup|1857-06-02
+Henrik Pontoppidan|1857-07-24
+Johannes V. Jensen|1873-01-20
+Anders Fogh Rasmussen|1953-01-26
+Mette Frederiksen|1977-11-19
+Vitus Bering|1681-08-05
+Viggo Mortensen|1958-10-20
+Lars von Trier|1956-04-30
+Aage Bohr|1922-06-19
+Ole Rømer|1644-09-25
+Lars Ulrich|1963-12-26
+Mads Mikkelsen|1965-11-22
+Caroline Wozniacki|1990-07-11
+Ben Roy Mottelson|1926-07-09
+Michael Laudrup|1964-06-15
+Niels Ryberg Finsen|1860-12-15
+Christian Eriksen|1992-02-14
+Asta Nielsen|1881-09-11
+Helle Thorning-Schmidt|1966-12-14
+Lars Løkke Rasmussen|1964-05-15
+Bjarne Stroustrup|1950-12-30
+Emmelie de Forest|1993-02-28
+Peter Schmeichel|1963-11-18
+Saxo Grammaticus|1150-01-01
+Kasper Schmeichel|1986-11-05
+August Krogh|1874-11-15
+Fredrik Bajer|1837-04-21
+Dietrich Buxtehude|1637-01-01
+Nicklas Bendtner|1988-01-16
+Alexandra af Danmark|1844-12-01
+Carl Th. Dreyer|1889-02-03
+Henrik Dam|1895-02-21
+Ludvig Holberg|1684-12-03
+Johannes Fibiger|1867-04-23
+Jens Christian Skou|1918-10-08
+Inge Lehmann|1888-05-13
+Niels K. Jerne|1911-12-23
+Emil Nolde|1867-08-07
+Andreas Christensen|1996-04-10
+Anna Karina|1940-09-22
+Simon Kjær|1989-03-26
+Daniel Agger|1984-12-12
+Hardeknud|1018-01-01
+Nikolaj Coster-Waldau|1970-07-27
+Georg Brandes|1842-02-04
+Otto Jespersen|1860-07-16
+Dronning Mary|1972-02-05
+Bertel Thorvaldsen|1770-11-19
+Jørn Utzon|1918-04-09
+Nicolaus Steno|1638-01-11
+Kevin Magnussen|1992-10-05
+Aaron Nimzowitsch|1886-11-07
+Lili Elbe|1882-12-28
+Ejnar Hertzsprung|1873-10-08
+Prins Henrik|1934-06-11
+Carl Nielsen|1865-06-09
+N.F.S. Grundtvig|1783-09-08
+Rasmus Rask|1787-11-22
+Anna af Danmark|1574-12-22
+Allan Simonsen|1952-12-15
+Erik af Pommern|1381-01-01
+Michael Krohn-Dehli|1983-06-06
+J.P. Jacobsen|1847-04-07
+Hans af Danmark|1455-02-11
+Andreas af Grækenland|1882-02-02
+Brian Laudrup|1969-02-22
+Jon Dahl Tomasson|1976-08-29
+Dronning Ingrid|1910-03-28
+Brigitte Nielsen|1963-07-15
+Martin Braithwaite|1991-06-05
+Margrethe Vestager|1968-04-13
+Yussuf Poulsen|1994-06-15
+Morten Meldal|1954-01-16
+Poul Nyrup Rasmussen|1943-06-15
+Mikkel Hansen|1987-10-22
+Connie Nielsen|1965-07-03
+Rasmus Lerdorf|1968-11-22
+Christian Gram|1853-09-13
+Kasper Dolberg|1997-10-06
+Pierre-Emile Højbjerg|1995-08-05
+Christian Poulsen|1980-02-28
+Anders Lindegaard|1984-04-13
+Bent Larsen|1935-03-04
+Johan Christian Fabricius|1745-01-07
+MØ|1988-08-13
+Rasmus Højlund|2003-02-04
+Valdemar den Store|1131-01-14
+Kronprins Christian|2005-10-15
+Dronning Anne-Marie|1946-08-30
+Knud den Hellige|1043-01-01
+Louise af Sverige-Norge|1851-10-31
+Christoffer af Bayern|1416-02-26
+Brian Steen Nielsen|1968-12-28
+Peter Naur|1928-10-25
+Emre Mor|1997-07-24
+Thomas Delaney|1991-09-03
+Victoria Kjær Theilvig|2003-11-13
+Lasse Schöne|1986-05-27
+John Louis Emil Dreyer|1852-02-13
+Valdemar Sejr|1170-01-01
+Jonas Vingegaard|1996-12-10
+Piet Hein|1905-12-16
+Valdemar Atterdag|1320-01-01
+Jeppe Aakjær|1866-09-10
+Jannik Vestergaard|1992-08-03
+Anja Andersen|1969-02-15
+Thomas Vinterberg|1969-05-19
+Christine af Danmark|1521-11-01
+Dennis Rommedahl|1978-07-22
+Knud Rasmussen|1879-06-07
+Nicolai Abildgaard|1743-09-11
+Prinsesse Isabella|2007-04-21
+Abel af Danmark|1218-01-01
+Martin Andersen Nexø|1869-06-26
+Ulrikke Eleonore af Danmark|1656-09-11
+Daniel Wass|1989-05-31
+Adam Oehlenschläger|1779-11-14
+Joakim Mæhle|1997-05-20
+Victor Borge|1909-01-03
+Poul Schlüter|1929-04-03
+William Kvist|1985-02-24
+Arne Jacobsen|1902-02-11
+Paul Elvstrøm|1928-02-25
+Christian Jürgensen Thomsen|1788-12-29
+Prins Joachim|1969-06-07
+Erik Bruhn|1928-10-03
+Louise af Hessen|1817-09-07
+Jørgen af Danmark|1653-04-21
+Barthold Georg Niebuhr|1776-08-27
+Johannes Nicolaus Brønsted|1879-02-22
+P.S. Krøyer|1851-07-23
+Nadia Nadim|1988-01-02
+Gerda Wegener|1885-03-15
+Dronning Alexandrine|1879-12-24
+Susanne Bier|1960-04-15
+Thomas Sørensen|1976-06-12
+Anker Jørgensen|1922-07-13
+Viktor Fischer|1994-06-09
+Sidse Babett Knudsen|1968-11-22
+Viktor Axelsen|1994-01-04
+Sophie Brahe|1556-10-02
+Mikkel Damsgaard|2000-07-03
+Svend Estridsen|1020-01-01
+Svend Grathe|1125-01-01
+Prinsesse Josephine|2011-01-08
+Pilou Asbæk|1982-03-02
+Andreas Cornelius|1993-03-16
+Anna Ancher|1859-08-18
+Harald Bohr|1887-04-22
+Pernille Harder|1992-11-15
+Pione Sisto|1995-02-04
+Erik Ejegod|1056-01-01
+Christian Heinrich Friedrich Peters|1813-09-19
+Erik Plovpenning|1216-01-01
+Helena Christensen|1968-12-25
+Douglas Sirk|1897-04-26
+Nicolas Winding Refn|1970-09-29
+Oluf Hunger|1050-01-01
+Soluna Samay|1990-08-27
+Preben Elkjær|1957-09-11
+Erik Emune|1090-01-01
+Jacob A. Riis|1849-05-03
+Prinsesse Ingeborg af Danmark|1878-08-02
+Prins Vincent|2011-01-08
+Morten Olsen|1949-08-14
+Jesper Grønkjær|1977-08-12
+S.P.L. Sørensen|1868-01-09
+Jonas Wind|1999-02-07
+C.W. Eckersberg|1783-01-02
+Kim Kielsen|1966-11-30
+Joachim Christian Andersen|1996-05-31
+Thorvald Stauning|1873-10-26
+Jens-Frederik Nielsen|1991-06-22
+Mathias Jensen|1996-01-01
+Thomas Kahlenberg|1983-03-20
+Wilson Kipketer|1972-12-12
+Kronprins Pavlos af Grækenland|1967-05-20
+Prinsesse Alexia af Grækenland|1965-07-10
+Jens Otto Krag|1914-09-15
+Ole Kirk Christiansen|1891-04-07
+Harald Hen|1041-01-01
+Erik Klipping|1249-01-01
+Erik Lam|1100-01-01
+Johann Friedrich Struensee|1737-08-05
+Kuupik Kleist|1958-03-31
+Christian Nørgaard|1994-03-10
+Prinsesse Benedikte|1944-04-29
+Thomas Gravesen|1976-03-11
+Sophie Magdalene af Danmark|1746-07-03
+Martin Jørgensen|1975-10-06
+Olafur Eliasson|1967-02-05
+Frederik Rønnow|1992-08-04
+Kurt Westergaard|1935-07-13
+Holger Rune|2003-04-29
+Michael Peter Ancher|1849-06-09
+Robert Skov|1996-05-20
+Lars Jacobsen|1979-09-20
+Peter Gade|1976-12-14
+Bille August|1948-11-09
+Richard Møller Nielsen|1937-08-19
+Jens Fink-Jensen|1956-12-19
+Niels af Danmark|1065-01-01
+Charlotte af Danmark|1789-10-30
+William Heinesen|1900-01-15
+Nicolai Jørgensen|1991-01-15
+Magnus den Stærke|1106-01-01
+Hans Enoksen|1956-08-07
+Jens Stryger Larsen|1991-02-21
+Lukas Lerager|1993-07-12
+Vilhelm Thomsen|1842-01-25
+Ebbe Sand|1972-07-19
+Ari Behn|1972-09-30
+Morten Hjulmand|1999-06-25
+Gabriel Axel|1918-04-18
+Eugen Warming|1840-11-03
+Jonas Lössl|1989-02-01
+Alexandra af Frederiksborg|1964-06-30
+Patrick Dorgu|2004-10-26
+Aleqa Hammond|1965-09-23
+Margrete af Danmark|1456-07-02
+Kaj Leo Johannesen|1964-08-28
+Agnes Obel|1980-10-28
+Niels W. Gade|1817-02-22
+Daniel Jensen|1979-06-25
+Louis Hjelmslev|1899-10-03
+Inger Christensen|1935-01-16
+Simon Poulsen|1984-10-07
+Erik Pontoppidan den yngre|1698-08-24
+Erik Menved|1274-01-01
+Rasmus Nissen|1997-07-11
+Bjørn Lomborg|1965-01-06
+Wilhelm Johannsen|1857-02-03
+Stephan Andersen|1981-11-26
+Jacob Bruun Larsen|1998-09-19
+H.C. Hansen|1906-11-08
+Jan Mølby|1963-07-04
+Jonas Knudsen|1992-09-16
+Bjarne Riis|1964-04-03
+Arveprins Knud|1900-07-27
+King Diamond|1956-06-14
+Prinsesse Marie|1976-02-06
+Jesper Lindstrøm|2000-02-29
+Emil Aarestrup|1800-12-04
+Lene Vestergaard Hau|1959-11-13
+Vilhelm Hammershøi|1864-05-15
+Jakob Poulsen|1983-07-07
+Søren Lerby|1958-02-01
+Peter Høeg|1957-05-17
+Absalon|1128-01-01
+Henrik Dalsgaard|1989-07-27
+Herman Bang|1857-04-20
+Victor Nelsson|1998-10-14
+Andreas Mogensen|1976-11-02
+Poul Hartling|1914-08-14
+David Andersen|1980-06-23
+Ingeborg af Danmark|1174-01-01
+Lars Mikkelsen|1964-05-06
+Alexander Bah|1997-12-09
+Kasper Hjulmand|1972-04-09
+Jean Hersholt|1886-07-12
+Niki Zimling|1985-04-19
+Frank Arnesen|1956-09-30
+Caspar Wessel|1745-06-08
+Aksel Sandemose|1899-03-19
+Martin Laursen|1977-07-26
+Bjarke Ingels|1974-10-02
+Nina Agdal|1992-03-26
+Magnus af Øsel|1540-09-05
+Jørgen Ingmann|1925-04-26
+Prinsesse Thyra|1853-09-29
+Carl Bloch|1834-05-23
+Nicolai Boilesen|1992-02-16
+Jesper Olsen|1961-03-20
+Jakob Fuglsang|1985-03-22
+Jan Heintze|1963-08-17
+Thomas Christiansen|1973-03-11
+John Sivebæk|1961-10-25
+Anna Sophie af Danmark|1647-09-01
+Jens Juel|1745-05-12
+Valdemar Poulsen|1869-11-23
+Viggo Kampmann|1910-07-21
+Frederik Sørensen|1992-04-14
+Kjeld Abell|1901-08-25
+Hilmar Baunsgaard|1920-02-26
+Jan Magnussen|1973-07-04
+Basim|1992-07-04
+Dorothea af Sachsen-Lauenburg|1511-07-19
+Ulrich Thomsen|1963-12-06
+Sophie Magdalene af Brandenburg-Kulmbach|1700-11-28
+Morten Thrane Brünnich|1737-09-30
+Lars Olsen|1961-02-02
+Anja Nissen|1995-11-06
+Lars Saabye Christensen|1953-09-21
+Sophie Amalie af Braunschweig-Lüneburg|1628-03-24
+Viggo Jensen|1874-06-22
+Wilhelm Marstrand|1810-12-24
+Thomas Enevoldsen|1987-07-27
+Reiley|1997-11-24
+Leonora|1998-10-03
+Philip Billing|1996-06-11
+Anna Cathrine af Brandenburg|1575-06-26
+Peter Ankersen|1990-09-22
+Thomas Frank|1973-10-09
+Nicolaus Bruhns|1665-12-01
+Knud Lavard|1096-03-18
+Sissal|1995-03-13
+Holger Pedersen|1867-04-07
+Karl af Flandern|1084-01-01
+Kim Bodnia|1965-04-12
+Aksel V. Johannesen|1972-11-08
+Grethe Ingmann|1938-06-17
+Louise af Danmark|1750-01-30
+Clara Tauson|2002-12-21
+Mathias Gidsel|1999-02-08
+Freja Beha Erichsen|1987-10-18
+Lars-Emil Johansen|1946-09-24
+Jesper Kyd|1972-02-03
+Filip Jørgensen|2002-04-16
+Holger Drachmann|1846-10-09
+Anders Hejlsberg|1960-12-02
+Pernille Blume|1994-05-14
+Niklas Landin Jacobsen|1988-12-19
+Hans Hedtoft|1903-04-21
+Jonathan Motzfeldt|1938-09-25
+Michael Rasmussen|1974-06-01
+Birthe Wilke|1936-03-19
+Steen Steensen Blicher|1782-10-11
+Mads Hermansen|2000-07-11
+Gunnar Nielsen|1986-10-07
+Arveprins Frederik|1753-10-11
+Tobias Lindholm|1977-07-05
+Josephine Skriver|1993-04-14
+J.B.S. Estrup|1825-04-16
+Thomas Helveg|1971-06-24
+Flemming Povlsen|1966-12-03
+Søren Larsen|1981-09-06
+Christina Chanée|1979-01-06
+Anders Dreyer|1998-05-02
+Asger Jorn|1914-03-03
+Peter Løvenkrands|1980-01-29
+Susanne Georgi|1976-07-27
+Louise Augusta af Danmark|1771-07-07
+Per Krøldrup|1979-07-31
+Adam Wilhelm Moltke|1785-08-25
+Ole Nydahl|1941-03-19
+Nicolas Kiesa|1978-03-03
+Mads Pedersen|1995-12-18
+Karl Verner|1846-03-07
+Rasmussen|1985-11-28
+Erik Eriksen|1902-11-20
+Jesper Christiansen|1978-04-24
+Sophie af Pommern|1498-01-10
+Marie Sophie Frederikke af Hessen-Kassel|1767-10-28
+Charlotte Amalie af Hessen-Kassel|1650-04-27
+Prins Valdemar|1858-10-27
+Andreas Bjelland|1988-07-11
+Harald Nielsen|1941-10-26
+Margaretha af Sverige|1899-06-25
+Lotte Friis|1988-02-09
+Tove Ditlevsen|1917-12-14
+Per Nørgård|1932-07-13
+Harald Høffding|1843-03-11
+Friedrich Kuhlau|1786-09-11
+Holger Louis Nielsen|1866-12-18
+Stig Tøfting|1969-08-14
+Oliver Christensen|1999-03-22
+Ali Abbasi|1981-10-28
+Caroline Amalie af Augustenborg|1796-06-28
+Prins Harald af Danmark|1876-10-08
+Prinsesse Louise af Danmark|1875-02-17
+Greta Andersen|1927-05-01
+Frederikke Amalie af Danmark|1649-04-11
+Klaus Rifbjerg|1931-12-15
+Michael Mørkøv|1985-04-30
+Ole Worm|1588-05-23
+Søren Torpegaard Lund|1998-12-23
+Rasmus Lauge|1991-06-20
+Sofia af Minsk|1141-01-01
+Vilhelmine Caroline af Danmark|1747-07-10
+Nathaniel Wallich|1786-01-28
+Sofie Gråbøl|1968-07-30
+Otto E. Neugebauer|1899-05-26
+Patrick Mtiliga|1981-01-28
+Otto Friedrich Müller|1730-03-11
+Michael Valgren|1992-02-07
+Kim Vilfort|1962-11-15
+Jakob Nielsen|1957-10-05
+Andreas Skov Olsen|1999-12-29
+Sven Hazel|1917-04-19
+Ida Corr|1977-03-14
+Tom Kristensen|1967-07-07
+Mikkel Beckmann|1983-10-24
+Jacob Aagaard|1973-07-31
+Malthe Conrad Bruun|1775-08-12
+Bengt Strömgren|1908-01-21
+Whigfield|1970-04-11
+Mogens Lykketoft|1946-01-09
+Peter Madsen|1971-01-12
+Prins Nikolaos af Grækenland|1969-10-01
+Margrete Sambiria|1230-01-01
+Dorothea af Danmark|1546-07-09
+Sherin Khankan|1974-10-13
+Erik Scavenius|1877-07-13
+Connie Hedegaard|1960-09-15
+Nicklas Pedersen|1987-10-10
+Joachim B. Olsen|1977-05-31
+Adolf af Slesvig-Holsten-Gottorp|1526-02-04
+Ludvig Lorenz|1829-01-18
+Jan Gehl|1936-09-17
+Henrik Larsen|1966-05-17
+Kasper Asgreen|1995-02-08
+Dronning Dagmar|1186-01-01
+Christian Bohr|1855-02-14
+Kenneth Zohore|1994-01-31
+Poul Nielsen|1891-12-25
+Naja Marie Aidt|1963-12-24
+Martin Knudsen|1871-02-15
+Prinsesse Elisabeth|1935-05-08
+Thure Lindhardt|1974-12-24
+William Osula|2003-08-04
+Elisabeth af Danmark|1573-09-14
+Trine Dyrholm|1972-04-15
+Edel af Flandern|1065-01-01
+Medina|1982-11-30
+Aura Dione|1985-01-21
+Pia Kjærsgaard|1947-02-23
+Kent Nielsen|1961-12-28
+Michael Silberbauer|1981-07-07
+Paprika Steen|1964-11-03
+Anis Ben Slimane|2001-03-16
+Lasse Norman Leth|1992-02-11
+Prins Axel|1888-08-12
+Tomas N'evergreen|1969-11-12
+Chris Anker Sørensen|1984-09-05
+Margrethe af Danmark|1895-09-17
+Saba|1997-08-11
+Anders Christiansen|1990-06-08
+Johan Ludvig William Valdemar Jensen|1859-05-08
+Mads Larsen|1991-08-12
+Nikolaj Ehlers|1996-02-14
+Henning Jensen|1949-08-17
+Sara Slott Petersen|1987-04-09
+Benjamin Christensen|1879-09-28
+Lucas Andersen|1994-09-13
+Gustav Winckler|1925-10-13
+Julius Petersen|1839-06-16
+Henrik Toft Hansen|1986-12-18
+Christen Købke|1810-05-26
+Ingeborg Magnusdatter af Sverige|1277-01-01
+B.S. Ingemann|1789-05-28
+Margrete Fredkulla|1080-01-01
+Nicklas Helenius|1991-05-08
+Venceslaus Ulricus Hammershaimb|1819-03-25
+Prinsesse Thyra af Danmark|1880-03-14
+Edvard Eriksen|1876-03-10
+Hans Lindberg|1981-08-01
+Claes Bang|1967-04-28
+Lasse Svan Hansen|1983-08-31
+Anders Thomas Jensen|1972-04-06
+Ivan Nielsen|1956-10-09
+Karen Margrethe Harup|1924-11-20
+Magnus Landin Jacobsen|1995-08-20
+Constantin Hansen|1804-11-03
+Tobias Mikkelsen|1986-09-18
+Julie Marie Vinter Hansen|1890-07-20
+Christian Mortensen|1882-08-16
+Rasmus Paludan|1982-01-02
+Anna Sophie Reventlow|1693-04-16
+Anja Cetti Andersen|1965-09-25
+Inge Sørensen|1924-07-18
+Nikolaj Lie Kaas|1973-05-22
+Svend Knutsson|1016-01-01
+Tage Reedtz-Thott|1839-03-13
+Niels Neergaard|1854-06-27
+Ghita Nørby|1935-01-11
+Magnus Cort|1993-01-16
+Chido Obi|2007-11-29
+Christen Raunkiær|1860-03-29
+Leon Andreasen|1983-04-23
+Nathalie zu Sayn-Wittgenstein-Berleburg|1975-05-02
+Uffe Ellemann-Jensen|1941-11-01
+Knud Kristensen|1880-10-26
+Boethius de Dacia|1240-01-01
+Simon Pytlick|2000-12-11
+Helle Helle|1965-12-14
+Sigvard Bernadotte|1907-06-07
+Herluf Bidstrup|1912-09-10
+Laurits Tuxen|1853-12-09
+Leonora Christina Ulfeldt|1621-07-08
+Jesper Christensen|1948-05-16
+Rolf Sørensen|1965-04-20
+Jens Baggesen|1764-02-15
+René Toft Hansen|1984-11-01
+Jussi Adler-Olsen|1950-08-02
+Lone Scherfig|1959-05-02
+Prinsesse Dagmar af Danmark|1890-05-23
+August Bournonville|1805-08-21
+Niclas Jensen|1974-08-17
+Agnes af Brandenburg|1257-10-06
+Cecil Bødker|1927-03-27
+Michael Maze|1981-09-01
+Jens Jønsson|1993-01-10
+Søren Kragh Andersen|1994-08-10
+Mohamed Daramy|2002-01-07
+Sophus Nielsen|1888-03-15
+Victor Kristiansen|2002-12-16
+Christian Albrecht Bluhme|1794-12-27
+Henrik Møllgaard|1985-01-02
+Hans Tausen|1494-01-01
+Sandra Toft|1989-10-18
+Jørgen Leth|1937-06-14
+Carl Theodor Zahle|1866-01-19
+Johannes Ewald|1743-11-18
+Eugenio Barba|1936-10-29
+Verner Panton|1926-02-13
+Anne-Marie Rindom|1991-06-14
+J.C. Christensen|1856-11-21
+Lise Rønne|1978-11-01
+Kasper Bøgelund|1980-10-08
+Amanda Collin|1986-03-04
+Troels Rasmussen|1961-04-07
+Steven Lustü|1971-04-13
+Thomas Madsen-Mygdal|1876-12-24
+Sandi Toksvig|1958-05-03
+Bodil Ipsen|1889-08-30
+René Henriksen|1969-08-27
+Klaus Berntsen|1844-06-12
+Thue Christiansen|1940-02-25
+Ellen Winther|1933-08-11
+Edgar Aabye|1865-09-01
+Morten Wieghorst|1971-02-25
+Christinna Pedersen|1986-05-12
+Signe Bruun|1998-04-06
+Amalie Dideriksen|1996-05-24
+Niklas Larsen|1997-03-22
+Joshua Oppenheimer|1974-09-23
+Claus Jensen|1977-04-29
+Tommy Seebach|1949-09-14
+Niels Brinck|1974-09-24
+Tom Belsø|1942-08-27
+Hilde Krahwinkel Sperling|1908-03-26
+Carsten Jensen|1952-07-24
+Malene Mortensen|1982-05-23
+Jesper Nøddesbo|1980-10-23
+Casper U. Mortensen|1989-12-14
+David Dencik|1974-10-31
+René Redzepi|1977-12-16
+Marie Krøyer|1867-06-11
+Palle Huld|1912-08-02
+Raquel Rastenni|1915-08-21
+Yahya Hassan|1995-05-19
+Anna af Brandenburg|1487-09-05
+Mika Biereth|2003-02-08
+Valdemar den Unge|1209-01-01
+Sussi la Cour|1968-02-07
+Dan Jørgensen|1975-06-12
+Nicki Bille Nielsen|1988-02-07
+Birgitte Hjort Sørensen|1982-01-16
+Frederik Magle|1977-04-17
+Jacob Gade|1879-11-29
+Torben Ulrich|1928-10-04
+Lauritz Melchior|1890-03-20
+Peter Georg Bang|1797-10-07
+Magdalena Sibylla af Sachsen|1617-12-23
+Vilhelm Buhl|1881-10-16
+Henry Hansen|1902-03-16
+Rikke Møller Pedersen|1989-01-09
+Mathias Boe|1980-07-11
+Eugen Schmidt|1862-02-17
+Richard M. West|1941-02-10
+Elisabeth Jerichau Baumann|1818-11-27
+Agner Krarup Erlang|1878-01-01
+Michael Damgaard|1990-03-18
+Julius Thomsen|1826-02-16
+Riza Durmisi|1994-01-08
+Lise Nørgaard|1917-06-14
+Ebbe Schwartz|1901-05-03
+Kenneth Carlsen|1973-04-17
+Peter Wilhelm Lund|1801-06-14
+Kim Milton Nielsen|1960-08-03
+Otto Jahn|1813-06-16
+Lasse Andersson|1994-03-11
+Johan Kjeldahl|1849-08-16
+Lasse Vibe|1987-02-22
+Flemming Rasmussen|1958-01-01
+Johan Ludvig Heiberg|1854-11-27
+Matti Breschel|1984-08-31
+Natasja Saad|1974-10-31
+Ole Beich|1955-01-01
+Danica Curcic|1985-08-27
+Carsten Mogensen|1983-07-24
+Carl Christian Hall|1812-02-25
+Poul-Erik Høyer Larsen|1965-09-20
+C.A. Fonnesbech|1817-07-07
+Prins Philippos af Grækenland|1986-04-26
+Max Heindel|1865-07-23
+Ivan Osiier|1888-12-16
+John Lauridsen|1959-04-02
+Augusta af Danmark|1580-04-18
+Sergei Sviatchenko|1952-10-07
+Lars Høgh|1959-01-14
+Margrete Auken|1945-01-06
+Ludvig Holstein-Holsteinborg|1815-07-18
+Jan Michaelsen|1970-11-28
+Anders Samuelsen|1967-08-01
+Lars Bak|1980-01-16
+John Angelo Hansen|1924-06-24
+Anders Sandøe Ørsted|1778-12-21
+Jeanette Ottesen|1987-12-30
+Thomas Kingo|1634-12-25
+Simon Hald Jensen|1994-09-28
+Niclas Kirkeløkke|1994-03-26
+Katrine Fruelund|1978-07-12
+Frederik Andersen|1989-10-02
+Ditlev Gothard Monrad|1811-11-24
+Urban Gad|1879-02-12
+Karen Hoff|1921-05-29
+Paul Fischer|1860-07-22
+Rued Langgaard|1893-07-28
+Rikke Skov|1980-09-07
+Charles Winckler|1867-04-09
+Kamilla Rytter Juhl|1983-11-23
+Willy Falck Hansen|1906-04-04
+Bent Christensen Arensøe|1967-01-04
+Inger Støjberg|1973-03-16
+Frans Dhia Putros|1993-07-14
+Kenneth Brylle Larsen|1959-05-22
+Bertha Wegmann|1847-12-16
+Arveprinsesse Caroline-Mathilde|1912-04-27
+Peter Møller|1972-03-23
+Victor Froholdt|2006-02-25
+Bo Svensson|1979-08-04
+Birthe Kjær|1948-09-01
+Simon Mathew|1983-05-17
+Prins Gustav af Danmark|1887-03-04
+Vilhelmine af Danmark|1808-01-18
+Marc Rieper|1968-06-05
+Viggo Larsen|1880-08-14
+Frans Nielsen|1984-04-24
+Marcus Ingvartsen|1996-01-04
+Sophie af Slesvig-Holsten-Gottorp|1569-06-11
+Henrik Lund|1875-09-29
+Mechthilde af Holsten|1218-01-01
+Ellen Osiier|1890-08-13
+Ragnhild Hveger|1920-12-10
+Anders Eggert|1982-05-14
+Kurt Nielsen|1930-11-19
+Kaj Munk|1898-01-13
+Dar Salim|1977-08-18
+Mark Overgaard Madsen|1984-09-23
+Svend Asmussen|1916-02-28
+Eufemia af Pommern|1285-01-01
+Joachim Fischer|1978-11-23
+Eskild Ebbesen|1972-05-27
+Kim Leine|1961-08-28
+Martin Hansen|1990-06-15
+Vilhelmine Ernestine af Danmark|1650-06-20
+Thorkild Hansen|1927-01-09
+Carl Værnet|1893-04-28
+Bo Hamburger|1970-05-24
+Alexander Scholz|1992-10-24
+Mads Christiansen|1986-05-03
+Lorenz Frølich|1820-10-25
+Prins Konstantin-Alexios|1998-10-29
+Linda Villumsen|1985-04-09
+Lene Rantala|1968-08-10
+Mikkel Kessler|1979-03-01
+Johan Nicolai Tetens|1736-09-16
+Niels Fredborg|1946-10-28
+Per Kirkeby|1938-09-01
+Katy Bødtger|1932-12-28
+Niels-Henning Ørsted Pedersen|1946-05-27
+Henning Carlsen|1927-06-04
+Bassel Jradi|1993-07-06
+Ingegerd Haraldsdatter|1046-01-01
+Kasper Søndergaard|1981-06-09
+Frederik Løchte Nielsen|1983-08-27
+Jørgen Jürgensen|1780-03-29
+Prins Aage|1887-06-10
+Leif Mortensen|1946-05-05
+Alex Rasmussen|1984-06-09
+Magnus Saugstrup|1996-07-12
+J.P.E. Hartmann|1805-05-14
+Jess Thorup|1970-02-21
+Gustav Isaksen|2001-04-19
+Emil Jakobsen|1998-01-24
+Kasper Høgh|2000-12-06
+Bodil Jørgensen|1961-03-03
+Jannick Green|1988-09-29
+Sven Aggesen|1140-01-01
+Trentemøller|1972-10-16
+Mike Jensen|1988-02-19
+Erik Sviatchenko|1991-10-04
+Jens Albinus|1965-01-03
+Mikkel Boe Følsgaard|1984-05-01
+Johannes Jørgensen|1866-11-06
+Ingolf af Rosenborg|1940-02-17
+Carl Christopher Georg Andræ|1812-10-14
+Lis Hartel|1921-03-14
+Mariann Fischer Boel|1943-04-15
+Johan Henrik Deuntzer|1845-05-20
+Charlotte Amalie af Danmark|1706-10-06
+Hans den Yngre|1545-04-04
+Stefanie Fryland Clausen|1900-04-01
+Karl Dane|1886-10-12
+Mærsk Mc-Kinney Møller|1913-07-13
+Peter Freuchen|1886-02-20
+Janus Friis|1976-06-26
+Eleonora af Portugal|1211-01-01
+Vivi Bak|1939-09-03
+Ulla Pia|1945-02-17
+Helvig af Slesvig|1320-01-01
+Pia Tafdrup|1952-05-29
+Karin Mortensen|1977-09-26
+Mariane af Mecklenburg-Strelitz|1821-01-10
+Peder Mønsted|1859-12-10
+Carl-Henning Pedersen|1913-09-23
+Hans-Henrik Ørsted|1954-12-13
+Vivian Motzfeldt|1972-06-10
+Malmfrid Mstislavlsdatter|1090-01-01
+H.C. Lumbye|1810-05-02
+Gert Frank|1956-03-15
+Ole Eduard Fischer Madsen|1934-12-21
+Birte Christoffersen-Hanson|1924-03-28
+Søren Kragh-Jacobsen|1947-03-02
+Lasse Vigen Christensen|1994-08-15
+John Eriksen|1957-11-20
+Hannibal Sehested|1842-11-16
+Svend Grundtvig|1824-09-09
+Maurits Kjærgaard|2003-06-26
+Simon Makienok Christoffersen|1990-11-21
+Ada Adler|1878-02-18
+Knud Enemark|1936-11-30
+Søren Colding|1972-09-02
+Frederik Rodenberg|1998-01-22
+Cecilie Uttrup Ludwig|1995-08-23
+Sophie Hedevig af Danmark|1677-08-28
+Japetus Steenstrup|1813-03-08
+Rie Rasmussen|1976-02-14
+Troels Lund Poulsen|1976-03-30
+Dan Laustsen|1954-06-15
+Casper Nielsen|1994-04-29
+Christen Sørensen Longomontanus|1562-10-14
+Brian Holm|1962-10-02
+Flemming Christensen|1958-04-10
+Michael Schjønberg|1967-01-19
+Ludvig Holstein-Ledreborg|1839-06-10
+Andrew Hjulsager|1995-01-15
+C.E. Frijs|1817-12-08
+Julie Berthelsen|1979-06-07
+Otto Liebe|1860-05-24
+Sofie Junge Pedersen|1992-04-24
+Kristian Jensen|1971-05-21
+Henrik Andersen|1965-05-07
+Mads Bidstrup|2001-02-25
+Inger Andersen|1958-05-23
+Henrik Nordbrandt|1945-03-21
+Hugo Egmont Hørring|1842-08-17
+Gitte Hænning|1946-06-29
+Klaus Berggreen|1958-02-03
+Caroline af Danmark|1793-10-28
+Jakob Piil|1973-03-09
+Theodor Philipsen|1840-06-10
+Carl Lange|1834-12-04
+Ida Auken|1978-04-22
+Uffe Manich Bech|1993-01-13
+Per Frandsen|1970-02-06
+Emil Christian Hansen|1842-05-08
+P.A. Heiberg|1758-11-16
+Thomas Bo Larsen|1963-11-27
+Birgit Brüel|1927-10-06
+Emil Nielsen|1997-03-10
+Dario Campeotto|1939-02-01
+Mads Reinholdt Rasmussen|1981-11-24
+Pia Olsen Dyhr|1971-11-30
+Magnus Samuelsson|1969-12-21
+C.A. Jensen|1792-06-26
+Jørgen Pedersen Gram|1850-06-27
+Allan Nielsen|1971-03-13
+Brian Priske|1977-05-14
+Johann Adolph Scheibe|1708-05-05
+Anders Antonsen|1997-04-27
+Jes Høgh|1966-05-07
+Nicki Sørensen|1975-05-14
+Bjarne Goldbæk|1968-10-06
+Peter Heine Nielsen|1973-05-24
+Nikolaj Arcel|1972-08-25
+Holger Bech Nielsen|1941-08-25
+Erik Balling|1924-11-29
+Ritt Bjerregaard|1941-05-19
+Peter Seeberg|1925-06-22
+Georg Mohr|1640-04-01
+Mie Ø. Nielsen|1996-09-25
+Carl Aage Præst|1922-02-26
+Nikolaj Koppel|1969-03-06
+Johanne Schmidt-Nielsen|1984-02-22
+Iben Hjejle|1971-03-22
+Jacob Ellehammer|1871-06-14
+Lukas Jørgensen|1999-03-31
+Lars Christiansen|1972-04-18
+Jakob Ellemann-Jensen|1973-09-25
+Mattias Skjelmose|2000-09-26
+Jakob Busk|1993-09-12
+Hans Adolph Brorson|1694-06-20
+Camilla Andersen|1973-07-05
+Ove Høegh-Guldberg|1731-09-01
+Ernst Schultz|1879-05-15
+Ole Ritter|1941-08-29
+Trine Bramsen|1981-03-26
+Nicolaus Nissen|1761-01-22
+Trine Østergaard Jensen|1991-10-17
+Kenneth Perez|1974-08-29
+DQ|1972-09-03
+J.C. Jacobsen|1811-09-02
+Lars Eller|1989-05-08
+Louise Burgaard|1992-10-17
+J.F. Willumsen|1863-09-07
+Niels Helveg Petersen|1939-01-17
+Martin Albrechtsen|1980-03-31
+Betty Nansen|1873-03-19
+Mogens Krogh|1963-10-31
+Lene Espersen|1965-09-26
+Jakob Lange|1864-04-02
+Kris Stadsgaard|1985-08-01
+Gus Hansen|1974-02-13
+Niviaq Korneliussen|1990-01-27
+Oh Land|1985-05-02
+Casper von Folsach|1993-03-30
+Lauge Koch|1892-07-05
+Jeppe Kofod|1974-03-14
+David Heinemeier Hansson|1979-10-15
+Lucile Grahn-Young|1819-06-30
+Høgni Hoydal|1966-03-28
+Peter Regin|1986-04-16
+Nicolai Brock-Madsen|1993-01-09
+Jacob Vandsø Rasmussen|1997-05-28
+Jakob Jakobsen|1864-02-22
+Daniel Iversen|1997-07-19
+Vagn Holmboe|1909-12-20
+Hans Nielsen|1899-09-02
+Jens-Erik Madsen|1981-03-30
+Karen Brødsgaard|1978-03-10
+Camilla Martin|1974-03-23
+Lone Dybkjær|1940-05-23
+Arveprins Ferdinand|1792-11-22
+Viggo Johansen|1851-01-03
+Christian August Lorentzen|1749-08-10
+Wilhelm Bendz|1804-03-20
+Johan Otto von Spreckelsen|1929-05-04
+Ole Bornedal|1959-05-26
+Morten Østergaard|1976-06-17
+Anne Mette Hansen|1994-08-25
+Gertrud af Sachsen og Bayern|1154-01-01
+Janne Kolling|1968-07-12
+Villy Sørensen|1929-01-13
+Torben Piechnik|1963-05-21
+Daeg Faerch|1995-09-27
+Nils Asther|1897-01-17
+Nive Nielsen|1979-01-01
+Katrine Veje|1991-06-19
+Michala Petri|1958-07-07
+Søren Busk|1953-04-10
+Wessam Abou Ali|1999-01-01
+Miklos Molnar|1970-04-10
+Lars Elstrup|1963-03-24
+Kristian Thulesen Dahl|1969-07-30
+Althea Reinhardt|1996-09-01
+Rasmus Lund Pedersen|1998-07-09
+Jens Jørn Bertelsen|1952-02-15
+Søren Pape Poulsen|1971-12-31
+August Blom|1869-12-26
+Adam Gottlob Moltke|1710-11-10
+Frits Clausen|1893-11-12
+Hans J. Wegner|1914-04-02
+Lars Jørgen Madsen|1871-07-19
+Hilde Levi|1909-05-09
+Else Alfelt|1910-09-16
+Jens Galschiøt|1954-06-04
+Heinrich Christian Friedrich Schumacher|1757-11-15
+Anne Dorthe Tanderup|1972-04-24
+Henning Enoksen|1935-09-26
+Oliver Abildgaard|1996-06-10
+Roland Møller|1972-05-28
+Henning Larsen|1925-08-20
+Christian Winther|1796-07-29
+Kristian Zahrtmann|1843-03-31
+Kim Christofte|1960-08-24
+Robert Jacobsen|1912-06-04
+Pascal Gregor|1994-02-18
+Rasmus Quist Hansen|1980-04-05
+Bjørn Tidmand|1940-01-24
+Rasmus Quaade|1990-01-07
+Andreas Maxsø|1994-03-18
+Søren Kam|1921-11-02
+Alex Høgh Andersen|1994-05-20
+Niels Arden Oplev|1961-03-26
+C.F. Hansen|1756-02-29
+Kathrine Heindahl|1992-03-26
+Sofie Petersen|1955-11-23
+Christopher Juul-Jensen|1989-07-06
+Grevinde Danner|1815-04-21
+Kristoffer Lund|2002-05-14
+Bjørn Hasløv|1941-05-18
+Karen Aabye|1904-09-19
+Nikolas Nartey|2000-02-22
+M.P. Friis|1857-10-22
+Cort Adeler|1622-12-16
+Stephanie Corneliussen|1987-04-28
+Viggo af Rosenborg|1893-12-25
+Johan Lange|1818-03-20
+Ester Boserup|1910-05-18
+Louise Bager Due|1982-04-23
+Casper Tengstedt|2000-06-01
+Per Frimann|1962-06-04
+Linnea Berthelsen|1993-07-13
+Mikkel Norsgaard Bjerg|1998-11-03
+Hans Aabech|1948-11-01
+Jannik Hansen|1986-03-15
+Anders Golding|1984-05-12
+Emma Aastrand Jørgensen|1996-01-30
+Thomas Poulsen|1970-02-16
+Hallur Hansson|1992-07-08
+Christian Matras|1900-12-07
+Ludvig Mylius-Erichsen|1872-01-15
+Peter Christensen|1975-04-25
+Jan Bartram|1962-03-06
+Karl Aage Hansen|1921-07-04
+Julie Norman Leth|1992-07-13
+L.A. Ring|1854-08-15
+Jesper Hansen|1985-03-31
+Dagmar Overby|1887-04-23
+Nils Middelboe|1887-10-05
+Erik Hansen|1939-11-15
+Nicolai Eigtved|1701-06-17
+Frederik Børsting|1995-02-13
+Ole Ernst|1940-05-16
+Nicolaj Thomsen|1993-05-08
+Annika Langvad|1984-03-22
+Jens Odgaard|1999-03-31
+Hieronymus Georg Zeuthen|1839-02-15
+Morten Jørgensen|1985-06-23
+Dan Frost|1961-05-22
+Theodor Brorsen|1819-07-29
+Naser Khader|1963-07-01
+Rasmus Falk Jensen|1992-01-15
+Johanne Luise Heiberg|1812-11-22
+Karl Madsen|1855-03-22
+Turpal Bisultanov|2001-10-14
+Alexander af Slesvig-Holsten-Sønderborg|1573-01-30
+Finn Pedersen|1925-07-30
+Kurt Helmudt|1943-12-07
+Mikkel Bødker|1989-12-16
+Karen Lachmann|1916-05-30
+Espen Andersen Bråthen|1983-10-19
+John Ørsted|1938-10-08
+Cornelius Gurlitt|1820-02-10
+Marita Petersen|1940-10-21
+Mikkel Duelund|1997-06-29
+Nicklas Jensen|1993-03-06
+Helene af Danmark|1180-01-01
+Sally Salminen|1906-04-25
+Christian Møller|1904-12-22
+C.E.F. Weyse|1774-03-05
+Morten Green|1981-03-19
+Jacob Laursen|1971-10-06
+Peter Kjær|1965-11-05
+Ole Qvist|1950-02-25
+Asmus Jacob Carstens|1754-05-10
+J.J.A. Worsaae|1821-03-14
+Carsten Hauch|1790-05-12
+Czeslaw Kozon|1951-11-17
+Theodore Edward Cantor|1809-01-01
+Frederik Stamm Vesti|2002-01-13
+Hannah Nydahl|1946-04-17
+John Tchicai|1936-04-28
+Mikkel Honoré|1997-01-21
+Ulrik Frederik Gyldenløve|1638-07-20
+Niels Juel|1629-05-08
+Anette Hoffmann|1971-05-05
+Philip Larsen|1989-12-07
+Lars Michaelsen|1969-03-13
+Christen Dalsgaard|1824-10-30
+William Wain Prior|1876-07-18
+May el-Toukhy|1977-08-17
+Natasha Thomas|1986-09-27
+Trine Hansen|1973-02-19
+Bodil Joensen|1944-09-25
+Jesper Skibby|1964-03-21
+Mads Kruse Andersen|1978-03-25
+August Enna|1859-05-13
+Hans Henning Ørberg|1920-04-21
+Christian Frederik Ecklon|1795-12-17
+Poul Heegaard|1871-11-02
+Axel Olrik|1864-07-03
+Ole Rasmussen|1952-03-19
+Poul Jensen|2000-01-01
+John Danielsen|1939-07-13
+Henrik Svensmark|1958-02-19
+Jac Nelleman|1944-04-19
+Mads Roerslev|1999-06-24
+Christian af Rosenborg|1942-10-22
+Erling Mandelmann|1935-11-18
+Kasper Junker|1994-03-05
+Nicolas Bro|1972-03-16
+Lasse Nielsen|1988-01-08
+Anfinn Kallsberg|1947-11-19
+Johan Nicolai Madvig|1804-08-07
+Elvira Madigan|1867-12-04
+Erik af Rosenborg|1890-11-08
+Jakob Cedergren|1973-01-10
+Aase Madsen|1914-01-13
+Wahid Faghir|2003-07-29
+Sophie Castenschiold|1882-02-01
+J.Th. Lundbye|1818-09-01
+Holger Thiele|1878-09-25
+Leo Nielsen|1909-03-05
+Dorrit Willumsen|1940-08-31
+Morten Arnfred|1945-08-02
+Johannes Schmidt|1877-01-02
+Harald Christensen|1907-04-09
+Sebastian Dahm|1987-02-28
+Morten Bisgaard|1974-06-25
+Henning Christophersen|1939-11-08
+Ingrid Vang Nyman|1916-08-21
+Kim Andersen|1958-02-10
+Søren Petersen|1894-12-06
+Gustav Wied|1858-03-06
+Adele af Meissen|1101-01-01
+Steen Thychosen|1958-09-22
+Annette Strøyberg|1936-12-07
+Jan Ø. Jørgensen|1987-12-31
+Mogens Frey|1941-07-02
+Ebbe Parsner|1922-06-06
+Oliver Bjorkstrand|1995-04-10
+Ditlev Blunck|1798-06-22
+Preben Isaksson|1943-01-22
+Johnny Terney Hansen|1943-11-14
+Magdalene Thoresen|1819-06-03
+Oluf Borch|1626-04-07
+Mikael Salomon|1945-02-24
+Orla Jørgensen|1904-05-25
+Annemarie Selinko|1914-09-01
+Martinus Rørbye|1803-05-17
+Per Fly|1960-01-14
+Christiern Pedersen|1480-01-01
+Philip Zinckernagel|1994-12-16
+Harald Slott-Møller|1864-08-17
+Georg Jensen|1866-08-31
+Anders Petersen|1899-12-16
+Jørgen Hansen|1890-08-14
+Ronnie Schwartz|1989-08-29
+Jens Stage|1996-11-08
+Gunnar Asmussen|1944-05-10
+Claus Christiansen|1967-10-19
+Christian Holst|1981-12-25
+Lea Wermelin|1985-05-10
+Line Røddik|1988-01-31
+Anders Peter Nielsen|1867-05-25
+Jens-Peter Bonde|1948-03-27
+Jørgen-Frantz Jacobsen|1900-11-29
+Albert Küchler|1803-05-02
+Niels Henriksen|1966-02-04
+Reno Olsen|1947-02-19
+Clara Pontoppidan|1883-04-23
+Casper Jørgensen|1985-08-20
+Jacob Barrett Laursen|1994-11-17
+Michael Jakobsen|1986-01-02
+Debbie Cameron|1958-09-14
+Jutta af Sachsen|1223-01-01
+Frank Høj|1973-01-04
+Edi Hrnic|2003-12-26
+Harald Hansen|1884-03-14
+Benny Andersen|1929-11-07
+Jakob Blåbjerg|1995-01-11
+Hans Abrahamsen|1952-12-23
+Marco Sørensen|1990-09-06
+Carl Eduard Rotwitt|1812-03-02
+Søren Malling|1964-02-03
+Herman Møller|1850-01-13
+Karen Hækkerup|1974-06-12
+Mads Würtz Schmidt|1994-03-31
+Nicolai Stokholm|1976-04-01
+Kjeld Kirk Kristiansen|1947-12-27
+Niels Holst-Sørensen|1922-12-19
+Catharina Svensson|1982-07-24
+Bodil Kjer|1917-09-02
+Per Stig Møller|1942-08-27
+Aage Birch|1926-09-23
+Tommy Troelsen|1940-07-10
+Sofie Svava|2000-08-11
+Lily Carlstedt|1926-03-05
+Mikael Uhre|1994-09-30
+Thomas Ebert|1973-07-23
+Lotte Kiærskou|1975-06-23
+Jens Eriksen|1969-12-30
+Flemming Jørgensen|1947-02-07
+Axel Schandorff|1926-03-03
+Stephan Mølvig|1979-02-13
+Kasper Larsen|1993-01-25
+Mads Bech Sørensen|1999-01-07
+Christopher|1992-01-31
+B. Lindhardt|1804-08-30
+Nils Kromann Nielsen|1971-11-03
+Rikke Schmidt|1975-01-14
+Casper Pedersen|1996-03-15
+Jonas Høgh-Christensen|1981-05-21
+Kristian Pless|1981-02-09
+Vilhelm Wolfhagen|1889-11-11
+Jimmi Madsen|1969-01-04
+Thit Jensen|1876-01-19
+Teitur Lassen|1977-01-04
+Mikkel Thygesen|1984-10-22
+Nina Bang|1866-10-06
+Christian de Meza|1792-01-14
+Emil Larsen|1991-06-22
+Bent Hansen|1933-09-13
+Michael Gravgaard|1978-04-03
+Helena af Sverige|1130-01-01
+Kim Larsen|1945-10-23
+Poul Henningsen|1894-09-09
+Carl-Frederik Bévort|2003-11-24
+Erik Bo Andersen|1970-11-14
+Eduard Lassen|1830-04-13
+Jonny Jakobsen|1963-11-17
+Erik Petersen|1939-09-23
+Jytte Abildstrøm|1934-03-25
+Svend Wad|1928-02-03
+Viktor Bromer|1993-04-20
+Henriette Mikkelsen|1980-09-21
+Susanne Munk Wilbek|1967-10-12
+Kristian Pedersen|1994-08-04
+Jacob Neestrup|1988-03-08
+Sara Olsvig|1978-09-26
+Herman Wilhelm Bissen|1798-10-13
+Knud Jeppesen|1892-08-15
+Martinus Thomsen|1890-08-11
+Bashkim Kadrii|1991-07-09
+Carlo Holse|1999-06-02
+Mette Schjoldager|1977-04-21
+Henrik Dam Kristensen|1957-01-31
+Trine Schmidt|1988-06-03
+Madeleine Dupont|1987-05-26
+Andreas Jungdal|2002-02-22
+Harry Larsen|1915-09-04
+Per Brinch Hansen|1938-11-13
+Sophus Hansen|1889-11-16
+Birgitte Federspiel|1925-09-06
+Christian Bernstorff|1769-04-03
+Olaf Fønss|1882-10-17
+Knudåge Riisager|1897-03-06
+Frans Blom|1893-08-09
+Viljormur Davidsen|1991-07-19
+Lærke Berg Rasmussen|1993-12-22
+Max Josef Hansen|1897-12-22
+Stine Fischer Christensen|1985-02-03
+Johann Abraham Peter Schulz|1747-03-31
+Gøsta Esping-Andersen|1947-11-24
+Carl Møller|1887-08-24
+Ejler Allert|1881-11-27
+Olaf Rye|1791-11-16
+Jørgen Marcussen|1950-05-15
+Viktor Hald Thorup|1994-08-14
+Finn Haunstoft|1928-07-08
+Thorvald Bindesbøll|1846-07-21
+Emil Hartmann|1836-02-21
+Willy Gervin|1903-11-28
+René Holten Poulsen|1988-11-28
+Finn Tugwell|1976-03-18
+Frank Jensen|1961-05-28
+Søren Marinus Jensen|1879-05-05
+Elisabeth af Hessen-Kassel|1861-06-13
+Carl Locher|1851-11-21
+Lili Beck|1885-12-29
+Ole Lund Kirkegaard|1940-07-29
+Ukaleq Slettemark|2001-09-09
+Kristine Andersen|1976-04-02
+Thomasine Gyllembourg|1773-11-09
+Thor Kristensen|1980-06-04
+Maja Jager|1991-12-22
+Isa Munayev|1966-12-20
+Niels Ebbesen|1308-01-01
+Lars Brygmann|1957-02-17
+Line Haugsted|1994-11-11
+Kaare Klint|1888-12-15
+Anders Primdahl Vistisen|1987-11-12
+Janne Teller|1964-04-08
+Else Jacobsen|1911-05-31
+Jens Martin Knudsen|1967-06-11
+Klæmint Olsen|1990-07-17
+Mike Tramp|1961-01-14
+Mikkel Beck|1973-05-12
+Victor Feddersen|1968-01-31
+Christian af Danmark|1603-04-10
+Ole Berntsen|1915-01-22
+Kristina Jørgensen|1998-01-17
+Line Luplau|1823-04-22
+Morten Skoubo|1980-06-30
+Jørgen Roed|1808-01-13
+Verner Blaudzun|1946-03-23
+Emma Friis|1999-10-31
+Susanne Nielsson|1960-07-08
+Johannes Theodor Reinhardt|1816-12-03
+Aneela Mirza|1974-10-08
+Nicolai Reedtz|1995-09-08
+Ole Kjær|1954-08-16
+Pernille Fischer Christensen|1969-12-24
+Villy Søvndal|1952-04-04
+Abraham Kurland|1912-06-10
+Maria Theresia Ahlefeldt|1755-01-16
+Thomas Mogensen|1983-01-30
+Helena Patursson|1864-08-27
+Jonas Bager|1996-07-18
+Brian Vandborg|1981-12-04
+Ann Eleonora Jørgensen|1965-10-16
+Bent Peder Rasch|1934-05-31
+Anders Bodelsen|1937-02-11
+Lasse Boesen|1979-09-18
+Søren Rieks|1987-04-07
+Emiliano Marcondes|1995-03-09
+Nick Hækkerup|1968-04-03
+Jonas Gregaard|1996-07-30
+Vilhelm Herman Oluf Madsen|1844-04-11
+Edmund Hansen|1900-09-09
+Halfdan Mahler|1923-04-21
+Christel Schaldemose|1967-08-04
+Christian Gytkjær|1990-05-06
+Sven-Ole Thorsen|1944-09-24
+Alexander Kamp|1993-12-14
+Hans Hækkerup|1945-12-03
+Henry Petersen|1900-10-01
+Mie Højlund|1997-10-24
+Michael Færk Christensen|1986-02-14
+Bernhard Ernst von Bülow|1815-08-02
+Ole Sørensen|1937-11-25
+Per Røntved|1949-01-27
+Poul Dalsager|1929-03-05
+Poul Ruders|1949-03-27
+Anders Sunesen|1167-01-01
+Pernille Vermund|1975-12-03
+Palle Lykke Jensen|1936-11-04
+Theresa Eslund|1986-07-20
+Hinrich Rink|1819-08-26
+Carl Christian Rafn|1795-01-16
+Edgar Rubin|1886-09-06
+Sanne Troelsgaard Nielsen|1988-08-15
+Astrid Henning-Jensen|1914-12-10
+Sophus Claussen|1865-09-12
+Dorthe Nors|1970-05-20
+Aage Ernst Larsen|1923-08-03
+Kirsten Munk|1598-07-06
+Mia Blichfeldt|1997-08-19
+Svend Ove Pedersen|1920-10-31
+Lars Bastrup|1955-07-31
+Kevin Møller|1989-06-20
+Michael V. Knudsen|1978-09-04
+Martin Lidegaard|1966-12-12
+Jens Jørgen Hansen|1939-01-04
+Per Lyngemark|1941-05-23
+Andreas Peter Bernstorff|1735-08-28
+Denice Klarskov|1986-04-18
+Frederik Vermehren|1823-05-12
+Ole Henrik Laub|1937-12-03
+Michael Poulsen|1975-04-01
+Hans Fogh|1938-03-08
+H.C. Branner|1903-06-23
+Harald Kesja|1080-01-01
+Nielsine Nielsen|1850-06-10
+Trine Qvist|1966-06-08
+Mette Vestergaard Larsen|1975-11-27
+Søren Andersen|1970-01-31
+Tine Baun|1979-07-21
+Adam Daghim|2005-09-28
+Line Myers|1989-12-31
+Fritze Nathansen|1925-07-18
+Peter Eastgate|1985-12-13
+Kjell Rodian|1942-06-30
+Morten Bødskov|1970-05-01
+Johanna Rasmussen|1983-07-02
+Peter Nansen|1861-01-20
+Carl Brosbøll|1816-08-07
+Peter Jørgensen|1907-04-02
+Christian Bakkerud|1984-11-03
+Louise Danneskiold-Samsøe|1796-09-22
+Martin Pedersen|1983-04-15
+Kevin Ray Mendoza|1994-09-29
+Carl Schenstrøm|1881-11-13
+Frode Sørensen|1912-02-08
+Henrik Nikolai Krøyer|1799-03-22
+Kay Nielsen|1886-03-12
+Kirsten Thorup|1942-02-09
+Rikke Hørlykke|1976-05-02
+Lucas Høgsberg|2006-06-23
+Simone Boye Sørensen|1992-03-03
+Poul Svendsen|1927-04-21
+Etta Cameron|1939-11-21
+Kim Christensen|1979-07-16
+Kasper Hvidt|1976-02-06
+Patrick Banggaard|1994-04-04
+Herman Severin Løvenskiold|1815-07-30
+Emma Norsgaard Bjerg|1999-07-26
+Agnes Slott-Møller|1862-06-10
+Jamal Bhuyan|1990-04-10
+Tage Henriksen|1925-04-08
+Holger Juul Hansen|1924-08-14
+Asger Hamerik|1843-04-08
+Carl-Ebbe Andersen|1929-01-19
+Suzanne Brøgger|1944-11-18
+Rudolph Bergh|1824-10-15
+Christian Lundgaard|2001-07-23
+Curt Hansen|1964-09-18
+Lykke May Andersen|1982-06-16
+Tina Bøttzau|1971-08-29
+Nikolai Baden Frederiksen|2000-05-18
+Clara Rugaard-Larsen|1997-12-05
+Sarah Iversen|1990-04-10
+Sarah-Sofie Boussnina|1990-12-28
+Peder Pedersen|1945-11-03
+Grete Heckscher|1901-11-08
+Heri Joensen|1973-02-21
+Henrik Fisker|1963-08-10
+Oscar Højlund|2005-01-04
+Eva Arndt-Riise|1919-11-27
+Alf Ross|1899-06-10
+Thomas Bjørn|1971-02-18
+Brian Jensen|1975-06-08
+Peter Heise|1830-02-11
+Ulla Tørnæs|1962-09-04
+Ellen Trane Nørby|1980-02-01
+Lau Lauritzen junior|1910-06-26
+Younes Namli|1994-06-20
+Solvej Balle|1962-08-16
+Kasper Winther Jørgensen|1985-03-21
+Søren Pind|1969-11-20
+Ludvig Schytte|1848-04-28
+Rasmus Guldhammer|1989-03-09
+Cæcilie Norby|1964-09-09
+Kaspar Rostrup|1940-04-27
+Brian Hamalainen|1989-05-29
+Birger Jensen|1951-03-01
+Hans Kirk|1898-01-11
+Prinsesse Maria af Rumænien|1964-07-13
+Hank Shermann|1958-07-11
+Peter Mikkelsen|1960-05-01
+Mogens Glistrup|1926-05-28
+Mette Tranborg|1996-01-01
+Henrik Pedersen|1975-06-10
+Jacob Steen Christensen|2001-06-25
+Anne Linnet|1953-07-30
+Henry Larsen|1916-07-21
+Fie Udby Erichsen|1985-04-23
+Prinsesse Feodora af Danmark|1910-07-03
+Brian Mikkelsen|1966-01-31
+Tonje Kjærgaard|1975-06-11
+Wilhelm Freddie|1909-02-07
+Amalie Iuel|1994-04-17
+Camilla Dalby|1988-05-15
+Ruth Smith|1913-04-05
+Camille Jones|1973-06-25
+Martin Jensen|1991-09-29
+Knud Lundberg|1920-05-14
+Brian Nielsen|1965-04-01
+Jakob Rønning-Haugaard|1992-05-01
+Nils Malmros|1944-10-05
+Peter C. Gøtzsche|1949-11-26
+Andreas Bube|1987-07-13
+Peter Christiansen|1941-04-04
+Abraham Løkin|1959-06-16
+Erik Clausen|1942-03-07
+Jesper Bank|1957-04-06
+Niels Viggo Bentzon|1919-08-24
+Ulrik le Fevre|1946-06-25
+Margit Pörtner|1972-02-16
+Jesper Worre|1959-06-05
+Anthon Olsen|1889-09-14
+Andrass Samuelsen|1873-07-01
+Arthur Christensen|1875-01-09
+Poul Petersen|1921-04-11
+Hans Scherfig|1905-04-08
+Daniel Høegh|1991-01-06
+Rasmus Nicolaisen|1997-03-16
+Joachim Sutton|1995-05-15
+Grethe Rask|1930-01-01
+Rasmus Seebach|1980-03-28
+Jakob Sveistrup|1972-03-08
+Søren Alfred Jensen|1891-05-22
+Peter Richard Olsen|1911-10-31
+Erik Bisgaard|1890-01-25
+Ejnar Mikkelsen|1880-12-23
+Henning Holst|1891-10-25
+Karen Ellemann|1969-08-26
+Kian Hansen|1989-03-03
+Johannes Gandil|1873-05-21
+Søren Pilmark|1955-10-16
+Oliver Sørensen|2002-03-10
+Anne Dsane Andersen|1992-11-10
+Axel Andersen|1891-12-20
+Holger-Madsen|1878-04-11
+Frederik Ludvig Norden|1708-10-22
+Charles Buchwald|1880-10-22
+Bent Mejding|1937-01-14
+Jacob Larsen|1988-06-13
+Helge Rosvænge|1897-08-29
+Otto Bache|1839-08-21
+Kirstine Meyer|1861-10-12
+Uffe Elbæk|1954-06-15
+Svend Olsen|1908-10-17
+Kim Astrup Sørensen|1992-03-06
+C.F. Aagaard|1833-01-29
+Hans von Linstow|1787-05-04
+Paul Berth|1890-04-07
+Peter Nielsen|1968-06-03
+Princess Tatiana Blatnik|1980-08-28
+Magnus Warming|2000-06-08
+Regine Olsen|1822-01-23
+Carl Frederik Pedersen|1884-09-30
+Poul Hartmann|1878-05-01
+Conrad Reventlow|1644-04-21
+Tove af Danmark|1000-01-01
+Mads Glæsner|1988-10-18
+Bernardo Eberhart Keilhau|1624-01-01
+Stephan Sinding|1846-08-04
+Anne van Olst|1962-03-25
+Peer Hultberg|1935-11-08
+Jacob Holm|1995-09-05
+Asii Chemnitz Narup|1954-06-27
+Martin Kirketerp|1982-07-13
+Bjørn Rasmussen|1885-05-19
+Mikkel Aagaard|1995-10-18
+Peter Mygind|1963-08-28
+Michael Lumb|1988-01-09
+Niels Petersen|1885-07-12
+Andreas Kron|1998-06-01
+Poul Pedersen|1932-10-31
+Nicolai Wammen|1971-02-07
+Woldemar Løvendal|1700-04-06
+Jerry Lucena|1980-08-11
+Thorvald Aagaard|1877-06-08
+Poul Martin Møller|1794-03-21
+Peter Christian Abildgaard|1740-12-22
+Carl Hansen Ostenfeld|1873-08-03
+Jan Bo Petersen|1970-07-28
+Morten Bruun|1965-06-28
+Mikkel Kaufmann|2001-01-03
+Aral Simsir|2002-06-19
+Torben Frank|1968-06-16
+Samuel Kleinschmidt|1814-02-27
+Frederik Liebmann|1813-10-10
+Jane Aamund|1936-11-08
+Thorvald Nicolai Thiele|1838-12-24
+Heidi Astrup|1972-05-31
+Carl Krebs|1889-02-11
+Christian Hansen|1803-04-20
+Britta Thomsen|1954-01-23
+René Dif|1967-10-17
+Pauli Jørgensen|1905-12-04
+Lukas Forchhammer|1988-09-18
+Rasmus Würtz|1983-09-18
+Brandur Olsen|1995-12-19
+Claus Hjort Frederiksen|1947-09-04
+Prins Hans af Glücksborg|1825-12-05
+Nikolaj Jacobsen|1971-11-22
+Bernhard Bang|1848-06-07
+Morten Madsen|1987-01-16
+Victor Bendix|1851-05-17
+Svend Åge Madsen|1939-11-02
+Atli Gregersen|1982-06-15
+Charles Jensen|1885-12-24
+Thor Pedersen|1945-06-14
+Leif Davidsen|1950-07-25
+Johannes Flintoe|1787-01-01
+Carl af Danmark|1680-10-26
+Gitte Madsen|1969-03-24
+Kristian Levring|1957-05-09
+Bo Spellerberg|1979-07-24
+Elias Jelert|2003-06-12
+Abdulhadi al-Khawaja|1961-04-05
+Ane Halsboe-Jørgensen|1983-05-04
+Kira Marie Peter-Hansen|1998-02-23
+Joachim Frederik Schouw|1789-02-07
+Dronning Bodil|1068-01-01
+Mikkel Desler|1995-02-19
+Henrik Hertz|1797-08-25
+Peder Lykkeberg|1878-02-11
+Laura Christensen|1984-01-26
+Fallulah|1985-02-06
+Kåre Bluitgen|1959-05-10
+Niels Fuglsang|1985-06-29
+Jeppe Kjær Jensen|2004-03-01
+Anton Melbye|1818-02-13
+Christian Ditlev Reventlow|1671-06-21
+Robert Dinesen|1874-10-23
+Michala Møller|2000-02-16
+Hans Adolf Bjerrum|1899-09-08
+Jacob Lungi Sørensen|1998-03-03
+Svend Korsfarer|1050-01-01
+Harry Jørgensen|1945-12-07
+Emilie Ullerup|1984-10-27
+Peter Marius Andersen|1885-04-25
+Stefan Gartenmann|1997-02-02
+Frederik Kobberup Andersen|1920-01-24
+Andrew av Fløtum|1979-06-13
+Else Marie Pade|1924-12-02
+Frederik Storm|1989-02-20
+Jørn Riel|1931-07-23
+David Jensen|1992-03-25
+Flemming Rose|1958-03-11
+Poul Hansen|1891-10-20
+Morten Suurballe|1955-03-08
+Emilie Mundt|1842-08-22
+Beinir Johannesen|1997-02-12
+Asbjørn Kragh Andersen|1992-04-09
+Julius Johansen|1999-09-13
+Wilhelm Grimmelmann|1893-01-15
+Christian Thomas|1896-02-07
+George Falcke|1891-03-02
+Christoffer Remmer|1993-01-16
+Tom Søndergaard|1944-01-02
+Jacques d'Agar|1640-03-09
+Caroline Mikkelsen|1906-11-20
+Halvor Birch|1885-02-21
+Tove Søby|1933-01-23
+Friederike Brun|1765-06-03
+Josephine Touray|1979-10-06
+Ludwig Drescher|1881-07-21
+Franz Neruda|1843-12-03
+August Lindgren|1883-08-01
+Annette Vilhelmsen|1959-10-24
+Mille Dinesen|1974-03-17
+Mikael Simonsen|1882-11-20
+Søren Peter Christensen|1884-10-30
+Godtfred Kirk Christiansen|1920-07-08
+Jørn Krab|1945-12-03
+Hanne Eriksen|1960-09-20
+Ingvald Eriksen|1884-09-03
+Jens Kirkegaard|1889-06-01
+Carl Pedersen|1883-07-25
+Conrad Harder|2005-04-07
+Oskar Nørland|1882-10-04
+Christian Nielsen|1873-04-07
+Arvor Hansen|1886-11-05
+Jens Adolf Jerichau|1816-04-17
+Kathrine Kühl|2003-07-05
+Martin Kampmann|1982-04-17
+Ole Thestrup|1948-03-12
+Jane Bidstrup|1955-08-21
+Pia Juul|1962-05-30
+Friederich Münter|1761-10-14
+Jørgen Leschly Sørensen|1922-09-24
+Henrik Rantzau|1526-03-21
+Janni Arnth Jensen|1986-10-15
+Kay Fisker|1893-02-14
+Jørn Sloth|1944-09-05
+Paul Metz|1892-11-17
+Frederic Vystavel|1993-08-29
+Andreas Rasmussen|1893-03-15
+Thorvald Ellegaard|1877-03-07
+Peter Rasmussen|1967-05-16
+Carl Marinus Jensen|1882-09-13
+Nicolaj Agger|1988-10-23
+Stine Larsen|1996-01-24
+Aksel Sørensen|1891-10-05
+Jens Wilken Hornemann|1770-03-06
+Christian von Bülow|1917-12-14
+Eddi Gomes|1988-11-17
+Thomas Jacobsen|1972-09-13
+Ejvind Blach|1895-12-31
+Grethe Bartram|1924-02-23
+Ellen Hillingsø|1967-03-09
+Martin Zandvliet|1971-01-07
+Bodil Rasmussen|1957-12-12
+Steen Secher|1959-04-09
+Johnny Mølby|1969-02-04
+Carl Christensen|1872-01-16
+Melchior Lorck|1526-01-01
+Paul Neergaard|1907-02-19
+Bo Henriksen|1975-02-07
+Carl Brisson|1893-12-24
+Jørn Lund|1944-08-26
+Jens Okking|1939-12-18
+Otto Fabricius|1744-03-06
+Sonja Richter|1974-01-04
+Anne Marie Carl Nielsen|1863-06-21
+Line Kjærsfeldt|1994-04-20
+Anders Frandsen|1960-12-08
+Aki-Matilda Høegh-Dam|1996-10-17
+Atli Dam|1932-09-12
+Bent Fabricius-Bjerre|1924-12-07
+Peder Nielsen Horrebow|1679-05-14
+Henry From|1926-06-01
+Kasper Nielsen|1975-06-09
+Rasmus Thelander|1991-07-09
+Thora Daugaard|1874-10-22
+Andreas Stokbro|1997-04-08
+Mathias Ross|2001-01-15
+Halfdan Rasmussen|1915-01-29
+Lily Weiding|1924-10-22
+Anja Nielsen|1975-04-12
+Viggo Fausbøll|1821-09-22
+Carl Jacobsen|1842-03-02
+Cristine Storm Lassen|1975-03-12
+Jacob B. Winsløw|1669-04-17
+Victor Jørgensen|1924-06-12
+Peter Villemoes Andersen|1884-04-09
+Mads Christensen|1984-04-06
+Jesper Klein|1944-11-13
+Jesper Jensen|1991-07-30
+Vilhelm Pedersen|1820-01-28
+Julian Jakobsen|1987-04-11
+Thomas Stuer-Lauridsen|1971-04-29
+Ludvig Dam|1884-03-24
+Mathilde Fibiger|1830-12-13
+Carsten Bjørnlund|1973-06-28
+Erik Andersen|1904-04-10
+Emil Jørgensen|1882-02-07
+Joachim Andersen|1847-04-29
+Søren Abildgaard|1718-02-18
+Kim Wraae|1977-09-19
+Jan Sørensen|1955-05-14
+Mathias Norsgaard|1997-05-05
+Steen Lerche Olsen|1886-06-17
+G.F. Hetsch|1788-09-28
+Victor Jensen|2000-02-08
+Kurt Thiim|1958-08-03
+Jena Hansen|1988-12-10
+Finn Juhl|1912-01-30
+Hermann Ernst Freund|1786-10-15
+Magnus Christensen|1997-08-20
+Jacob Paludan|1896-02-07
+Casper Ankergren|1979-11-09
+Jesper Juul|1948-04-18
+Kristian Djurhuus|1895-02-12
+Mads Junker|1981-04-21
+Harald Kidde|1878-08-14
+Ann Grete Nørgaard|1983-09-15
+Leif Panduro|1923-04-18
+Ronnie Ekelund|1972-08-21
+Martin Toft Madsen|1985-02-20
+Sofie Carsten Nielsen|1975-05-24
+Rasmus Rasmussen|1871-08-13
+Carl Bertelsen|1937-11-15
+Leif Nielsen|1942-05-28
+Ole Olsen|1863-05-05
+Else Marie Friis|1947-06-18
+Allan Hyde|1989-12-20
+Jan B. Poulsen|1946-03-23
+Allan Johansen|1971-07-14
+Hark Olufs|1708-01-01
+Michael Jacob Michaelsen|1899-04-11
+Gotfred Johansen|1895-05-04
+Jenis av Rana|1953-01-07
+Vilhelm Lange|1893-12-20
+Morten Grunwald|1934-12-09
+Rikke Iversen|1993-05-18
+Bjarne Henriksen|1959-01-18
+Oscar Fraulo|2003-12-06
+Martin Mortensen|1984-11-05
+Magnus Kofod Andersen|1999-05-10
+Herold Jansson|1899-11-13
+Stellan Rye|1880-07-04
+Peter Vindahl Jensen|1998-02-16
+Poul Nielson|1943-04-11
+Nikolaj Markussen|1988-08-01
+P.C. Skovgaard|1817-04-04
+Jeppe Højbjerg|1995-04-30
+Anton Gaaei|2002-11-19
+Ove Sprogøe|1919-12-21
+Frederik Winther|2001-01-04
+Gabriel Lundberg|1994-12-04
+Victoria Carmen Sonne|1994-04-23
+Edvard Brandes|1847-10-21
+Christian Frederik von Schalburg|1906-04-15
+Aage Marius Hansen|1890-09-27
+Sidsel Ben Semmane|1988-10-09
+Jesper Langberg|1940-10-20
+Niels Larsen|1889-11-21
+Vilhelm Bergsøe|1835-02-08
+Christoffer Boe|1974-05-07
+Stine Jørgensen|1990-09-03
+Albert Grønbæk Erlykke|2001-05-23
+Zidan Sertdemir|2005-02-04
+Astrid Krag|1982-11-17
+Finn Laudrup|1945-07-31
+Peder Marcussen|1894-11-26
+William Christopher Zeise|1789-10-15
+Asger Strømgaard Sørensen|1996-06-05
+Mogens Jensen|1963-10-31
+Tomas Thordarson|1974-01-01
+Michael Blaudzun|1973-04-30
+Kristina Kristiansen|1989-07-13
+Frederikke Thøgersen|1995-07-24
+Thomas Arnoldsen|2002-01-11
+Harry Knudsen|1919-03-04
+Emilie Demant Hatt|1873-01-21
+Michael Sandstød|1968-06-23
+Per Rasmussen|1959-02-02
+Casper Sloth|1992-03-26
+Nicklas Nielsen|1997-02-06
+Anders Lund|1985-02-14
+Johan Peter Koch|1870-01-15
+Anders Skaarup Rasmussen|1989-02-15
+Vera Gebuhr|1916-05-15
+Ken Ilsø|1986-12-02
+Frederik af Hessen|1771-05-24
+Arild Huitfeldt|1546-09-21
+Anders W. Berthelsen|1969-09-28
+Birgitte Hanel|1954-04-25
+Arne Nielsson|1962-05-11
+Henning Munk Jensen|1947-01-12
+Oscar Schwartau|2006-05-17
+Charlotta Dorothea Biehl|1731-06-02
+Camilla Ingemann Thomsen|1974-11-01
+Jacob Jensen|1926-04-29
+Patrick Olsen|1994-04-23
+Caroline Brasch Nielsen|1993-06-21
+Jane Horney|1918-07-08
+Johann af Slesvig-Holsten-Gottorp|1606-03-18
+Tobias Aagaard Hansen|2002-03-10
+Andreas Poulsen|1999-10-13
+Jonas Aaen Jørgensen|1986-04-20
+Aaja Chemnitz Driefer|1977-12-02
+Uni Arge|1971-01-21
+Rasmus Hansen|1885-01-13
+P.E. Lange-Müller|1850-12-01
+Rasmus Nordqvist|1975-07-18
+Peter Skov-Jensen|1971-06-09
+Anthon Charmig|1998-03-25
+Søren Thorborg|1889-03-10
+Ulrik Neumann|1918-10-23
+Ken Frost|1967-02-15
+Peter Lang|1989-06-12
+Torkil Nielsen|1964-01-26
+Helle Virkner|1925-09-15
+Aka Høegh|1947-12-16
+Mogens Wieth|1919-09-16
+Ivar Lykke|1889-03-07
+Jørgen Skafte Rasmussen|1878-07-30
+Jens Kristian Jensen|1885-03-22
+A.W. Sandberg|1887-05-22
+Jonas Warrer|1979-03-22
+Sanne Salomonsen|1955-12-30
+Otto Malling|1848-06-01
+Georg af Danmark|1920-04-16
+Louis Gurlitt|1812-03-08
+Louis Glass|1864-03-23
+Flemming Nielsen|1934-02-24
+Atli Danielsen|1983-08-15
+Oluf Olsson|1873-05-30
+Anne-Cathrine Herdorf|1967-07-10
+Axel Pilmark|1925-11-23
+Hans Pedersen|1887-11-05
+Ulrich Vinzents|1976-11-04
+John Amdisen|1934-07-08
+P.V. Glob|1911-02-20
+Børge Raahauge Nielsen|1920-03-26
+Lisbeth Movin|1917-08-25
+Johannes Hansen|1882-12-06
+Ludvig Harboe|1709-08-16
+Mads Albæk|1990-01-14
+Herluf Winge|1857-03-19
+Birger Larsen|1942-03-27
+Tobias Slotsager|2006-01-01
+Mike Tullberg|1985-12-25
+Ambrosius Stub|1705-05-01
+Cecilie Thomsen|1974-10-29
+Carl Otto Laurits Larsen|1886-06-03
+Trine Troelsen|1985-05-02
+Charlotte Koefoed|1957-09-17
+Nicholas Jensen|1989-04-08
+Patrick Galbraith|1986-03-11
+Christian Frederiksen|1965-01-31
+Karl Kirk|1890-04-05
+Hugo Helsten|1894-09-15
+Torkild Garp|1883-01-31
+Einar Olsen|1893-03-11
+Rudolf Andersen|1899-08-11
+Simon Emil Ammitzbøll-Bille|1977-10-20
+Knud Vermehren|1890-12-19
+Kristen Vadgaard|1886-06-02
+Valdemar Bøggild|1883-09-30
+Kasper Kusk|1991-11-10
+Ida Bobach|1991-07-30
+Nikolaj Sørensen|1989-02-18
+Stine Stengade|1972-06-01
+Olaf Pedersen|1884-07-06
+Lis Sørensen|1955-05-28
+Rikard Nordstrøm|1893-04-23
+Kristian Middelboe|1881-03-24
+Oliver Provstgaard|2003-06-04
+Louise Frevert|1953-05-31
+Bendt Bendtsen|1954-03-25
+Jørn Sørensen|1936-10-17
+Søren Rasted|1969-06-13
+Lau Lauritzen Sr.|1878-03-13
+Gry Bay|1974-08-15
+Per Pedersen|1964-04-05
+Theodor Holmskiold|1731-06-14
+Morten Frendrup|2001-04-07
+Eva Kjer Hansen|1964-08-22
+Birthe Neumann|1947-04-30
+Peter Gantzler|1958-09-28
+Erik Larsen|1928-02-20
+Matias Lassen|1996-03-15
+Birte Weiss|1941-05-01
+Helge Rode|1870-10-16
+Søren Lilholt|1965-09-22
+Harro Harring|1798-08-28
+Maja Alm|1988-07-10
+Kim Fupz Aakeson|1958-09-12
+Mette Gjerskov|1966-07-28
+Gry Johansen|1964-08-28
+Bjarne Corydon|1973-03-01
+Jacob Barsøe|1988-09-21
+Erik Christiansen|1956-09-20
+Trine Jepsen|1977-09-29
+Ejvind Hansen|1924-07-28
+Lene Brøndum|1947-06-26
+Arnold Peter Møller|1876-10-02
+Viggo Dibbern|1900-07-10
+Ib Melchior|1917-09-17
+Thyge Petersen|1902-05-28
+Anders Zachariassen|1991-09-04
+H.J. Hansen|1855-08-10
+Morten Løkkegaard|1964-12-20
+Franz Joseph Glæser|1798-04-19
+Jens Rohde|1970-04-18
+Helena Blach Lavrsen|1963-06-07
+William Clem|2004-06-20
+Jørgen V. Pedersen|1959-10-08
+Stine Bosse|1960-12-21
+Frederik af Nør|1800-08-23
+Erik Husted|1900-01-03
+Katja Salskov-Iversen|1994-08-19
+Lis Jacobsen|1882-01-29
+Mikkel Andersen|1988-12-17
+Klaus Bondam|1963-11-19
+Claus Michael Møller|1968-10-03
+Holger K. Nielsen|1950-04-23
+Johan Price-Pejtersen|1999-05-26
+Thomas Rytter|1974-01-06
+Jan Kristiansen|1981-08-04
+Julian Johnsson|1975-02-24
+Claus Bo Larsen|1965-10-28
+Hanne Smyrner|1934-11-03
+Jesper Seier|1965-09-21
+Søren Gade|1963-01-27
+Søren Norby|1470-01-01
+Oliver Goethe|2004-10-14
+Per Bak|1948-12-08
+Mikkel Bro Hansen|2009-01-25
+Christen Friis Rottbøll|1727-03-03
+Johann Ewald|1744-03-31
+Daniel Rantzau|1529-01-01
+Hans Christian Sørensen|1900-10-11
+Henrik Blakskjær|1971-07-08
+Morten Messerschmidt|1980-11-13
+Anne Grethe Törnblad|1951-11-07
+Mille Gejl|1999-09-23
+Brian Riemer|1978-09-22
+Harry Holm|1902-09-14
+Bertel Haarder|1944-09-07
+Harry Sørensen|1892-04-19
+Morten Nordstrand|1983-06-08
+Edmund Joensen|1944-09-19
+Hans den Ældre|1521-06-29
+Gottlieb Bindesbøll|1800-09-05
+Albert Bertelsen|1921-11-17
+Henning Wind|1937-01-19
+Henrik Hansen|1920-05-26
+Mathias Møller Nielsen|1994-03-19
+Svend Aage Rask|1935-07-14
+Kristian Bak Nielsen|1982-10-20
+Paul Hüttel|1935-07-13
+Kai Nielsen|1882-11-26
+Simon Andreassen|1997-08-30
+Frederik Paludan-Müller|1809-02-07
+Emil Berggreen|1993-05-10
+Edvard Ehlers|1863-03-26
+Hack Kampmann|1856-09-06
+Alfred Lind|1879-03-27
+Kevin Stuhr Ellegaard|1983-05-23
+Renée Toft Simonsen|1965-05-12
+Manuel Alberto Claro|1970-04-03
+Jakob Ahlmann Nielsen|1991-01-18
+Martin Vingaard|1985-03-20
+Lukas Nielsen|1884-12-23
+Anders Lassen|1920-09-22
+Nicolai Larsen|1991-03-09
+Valdemar Psilander|1884-05-09
+Johannes Birk|1893-09-05
+Arnbjørn T. Hansen|1986-02-27
+Mads Hansen|2002-07-28
+Eigil Clemmensen|1890-06-21
+Jørgen Frantzen|1935-05-09
+Zenia Stampe|1979-03-30
+Andreas Skovgaard|1997-03-27
+Asbjørn Andersen|1903-08-30
+Jason Watt|1970-02-24
+Johan Ludvig Holstein|1694-09-07
+Jørgen Emil Hansen|1942-12-07
+Robert Johnsen|1896-06-23
+Johnny Weltz|1962-03-20
+Jørgen Brønlund|1877-12-14
+Lucie Ingemann|1792-02-13
+Jørgen Sonne|1801-06-24
+Matilde Bajer|1840-01-04
+Marie Luplau|1848-12-07
+Marco Ilsø|1994-09-29
+Karl Augustesen|1945-05-19
+Matti Lund Nielsen|1988-05-08
+Louise Schack Elholm|1977-10-26
+Joachim Boldsen|1978-04-30
+Jens Veggerby|1962-10-20
+Johannes Pløger|1922-04-03
+Thomas L. Thompson|1939-01-07
+Peder Als|1725-05-16
+Joy Mogensen|1980-08-11
+Jeppe Bruus Christensen|1978-04-20
+Prins Gorm|1919-02-24
+Pauli Ellefsen|1936-04-20
+Martin A. Hansen|1909-08-20
+Asger Christensen|1958-01-08
+Tobias Lund Andresen|2002-08-20
+Adda Djørup|1972-08-18
+Steen Eiler Rasmussen|1898-01-09
+Gustav Frederik Holm|1849-08-06
+Severin From|1828-04-08
+Christian Rasmussen|2003-01-19
+Johannes Wiedewelt|1731-07-01
+Richard Mortensen|1910-10-23
+Niels Flemming Hansen|1974-05-16
+J.C. Schiødte|1815-04-20
+Mona Juul|1967-09-20
+Michael Schønwandt|1953-09-10
+Samira Nawa|1988-03-30
+Sophie Holten|1858-08-12
+Carl Holsøe|1863-03-12
+Just Mathias Thiele|1795-12-13
+Niels Aagaard|1612-01-01
+Hans Meulengracht-Madsen|1885-09-09
+Jens Christian Grøndahl|1959-11-09
+Lars Nielsen|1960-11-03
+Lars Ranthe|1969-08-26
+Axel Bonde Hansen|1918-05-29
+Hjalmar Christoffersen|1889-12-01
+Georg Albertsen|1889-07-12
+Prinsesse Alexandrine-Louise|1914-12-12
+Werner Fenchel|1905-05-03
+Christian Svendsen|1890-07-13
+Christian Tafdrup|1978-04-08
+Peter Meinert|1966-05-24
+Asger Aaboe|1922-04-26
+Preben Krab|1952-07-15
+Abu Laban|1946-01-01
+Lee Oskar|1948-03-24
+Steen Due|1898-02-27
+Jesper Juelsgård Kristensen|1989-01-26
+Jakob Engel-Schmidt|1983-10-24
+Thorvald Eigenbrod|1892-12-02
+Rasmus Peter Frandsen|1886-04-17
+Poul Thymann|1888-05-10
+Frederik Alves Ibsen|1999-11-08
+Augusta af Hessen-Kassel|1823-10-30
+Frands Faber|1897-06-22
+Claus Thomsen|1970-05-31
+Kjeld Thorst|1940-05-13
+Jonas Rasmussen|1977-10-28
+Victor Torp|1999-07-30
+Thorvaldur Thoroddsen|1855-06-06
+Stine Ballisager Pedersen|1994-01-03
+Anders Andersen|1881-10-26
+Harald Madsen|1890-11-20
+Peder Møller|1897-02-28
+Nicolai Kielstrup|1991-10-04
+Peder Larsen Pedersen|1880-11-30
+Anders Arrebo|1587-01-02
+Carl Ploug|1813-10-29
+Carina Rosenvinge Christiansen|1991-03-17
+Erik Christoffersen|1307-01-01
+Line Fruensgaard|1978-07-17
+Sebastian Jørgensen|2000-06-08
+Peder Syv|1631-02-22
+Helle Fagralid|1976-05-11
+Rasmus Carstensen|2000-11-10
+Johannes Eriksen|1889-06-12
+Lone Hertz|1939-04-23
+Katrine Engberg|1975-06-29
+Mette Bock|1957-07-26
+Ole Poulsen|1941-12-16
+Ivar Hansen|1938-11-01
+Peter Nymann Mikkelsen|1982-08-22
+Sophie Keller|1850-11-14
+Lene Tranberg|1956-11-29
+Sebastian Svärd|1983-01-15
+Niels Erik Nørlund|1885-10-26
+Michael Teschl|1971-06-30
+Ida Karstoft|1995-10-29
+Jakob Knudsen|1858-09-14
+Albert Gottschalk|1866-07-03
+Pelle Dragsted|1975-04-13
+Jørgen Kristensen|1946-12-12
+Gerda Neumann|1915-12-14
+Elsebeth Gerner Nielsen|1960-01-05
+Amalie Bruun|1985-01-06
+Alexander True|1997-07-17
+Martin Lindstrøm|1970-01-01
+Hjalmar Peter Johansen|1892-11-01
+Bent Christensen|1929-05-28
+Britta Schall Holberg|1941-07-25
+Allan Nørregaard|1981-03-19
+Maria Reumert Gjerding|1978-08-03
+Rasmus Svane|1997-05-21
+Allan Hansen|1956-04-21
+Søren Stryger|1975-02-07
+Lars Jørgensen|1978-02-03
+Aksel Larsen|1897-08-05
+Poul Preben Jørgensen|1892-02-17
+Orla Lehmann|1810-05-19
+Marianne Vind|1970-12-03
+Peter Aalbæk Jensen|1956-04-08
+Susanne Augustesen|1956-05-10
+Christian Drejer|1982-12-08
+Mogens Ballin|1871-03-20
+Sunleif Rasmussen|1961-03-19
+Georges Ulmer|1919-02-16
+Marguerite Viby|1909-06-25
+Gitte Aaen|1981-11-07
+Aage Frandsen|1890-10-18
+Stephanie Lose|1982-12-14
+Tine Scheuer-Larsen|1966-03-13
+Agnethe Davidsen|1947-08-29
+Kjeld Rasmussen|1954-11-10
+J.L. Lund|1777-10-16
+Willy Breinholst|1918-06-27
+Niels Turin Nielsen|1887-01-22
+Jens Grand|1260-01-01
+Skipper Clement|1485-11-13
+Andreas Laudrup|1990-11-10
+Özlem Cekic|1976-05-07
+Aage Walther|1897-04-21
+Hjalmart Andersen|1889-10-11
+Michelle Karvinen|1990-03-27
+Aage Høy-Petersen|1898-11-04
+Jakob Erlandsen|1250-01-01
+Ellen Price|1878-06-21
+Peter Thonning|1775-10-09
+Rasmus Stoklund|1984-03-17
+Rikke Læntver Sevecke|1996-06-15
+Mikael Birkkjær|1958-09-14
+Katarina af Pommern|1390-01-01
+Julius Exner|1825-11-30
+Susan Thorsgaard|1988-10-13
+Ingi Højsted|1985-11-12
+Henning Lynge Jakobsen|1962-03-06
+Jesper Tørring|1947-09-27
+Roald Poulsen|1950-11-28
+Jacob Peter Mynster|1775-11-08
+Hans Christian Cornelius Mortensen|1856-08-27
+Ærkebiskop Eskil|1111-01-01
+Axel Thufason|1889-11-11
+Peter Schlütter|1893-11-25
+Christian Horrebow|1718-04-15
+Peter Ilsted|1861-02-14
+Søren Spanning|1951-05-30
+Thyra Haraldsdatter|1000-01-01
+Troels Lyby|1966-10-15
+Frits Helmuth|1931-07-03
+Knud Børge Martinsen|1905-11-30
+Hans van Steenwinckel den yngre|1587-06-24
+P.O. Brøndsted|1780-11-17
+Lars Simonsen|1963-09-19
+Mads Emil Madsen|1998-01-14
+Ejler Bille|1910-03-06
+Tina Dickow|1977-10-14
+Anja Byrial Hansen|1973-11-01
+Thora Hallager|1821-02-03
+Jonas Poher Rasmussen|1981-05-19
+Knud Degn|1880-05-11
+Gitte Sunesen|1971-12-11
+Conny Hamann-Boeriths|1969-09-16
+Charles Meyer|1868-03-16
+Christian Frederik Lütken|1827-10-04
+Emil Riis Jakobsen|1998-06-24
+Gustaf Munch-Petersen|1912-02-18
+Peter Frederik Suhm|1728-10-18
+Max Rée|1889-10-07
+Ulrik Wilbek|1958-04-13
+Anette Støvelbæk|1967-07-27
+Pernille Holst Holmsgaard|1984-09-06
+Elis Strömgren|1870-05-31
+Hans Stig Trappaud Rønne|1887-12-30
+Maja Grønbæk|1971-01-30
+Olaf Kjems|1880-05-31
+Christian Willumsen Juhl|1898-04-29
+Christina Otzen|1975-10-04
+Bent Løfqvist|1936-02-26
+Niels Otto Møller|1897-11-07
+Denise Dupont|1984-05-24
+Lucas Lynggaard Tønnesen|2000-07-13
+Lonnie Devantier|1972-11-28
+Sara Blædel|1964-08-06
+Børge Jessen|1907-06-19
+Mikkel Rygaard|1990-12-25
+Anne Louise Hassing|1967-09-17
+Enevold Brandt|1738-09-07
+Vilhelm Kyhn|1819-03-30
+Vilhelm Vett|1879-12-31
+Maja Kildemoes|1996-08-15
+Nicoline Sørensen|1997-08-15
+Frank Aaen|1951-07-25
+Harald Hirschsprung|1830-12-14
+Nicolai Vallys|1996-09-04
+Erling Olsen|1927-04-18
+Mathias Lauridsen|1984-01-13
+Casper Crump|1977-07-11
+Torben Lund|1950-11-06
+Christina Roslyng|1978-07-10
+Kai Larsen|1926-11-15
+Oliver Sonne|2000-11-10
+Svend Blach|1893-12-06
+Dorthe Holm|1972-07-03
+Kristoffer Nyrop|1858-01-11
+Viggo Stuckenberg|1863-09-17
+Andreas Helgstrand|1977-10-02
+Carl Holst|1970-04-29
+Thor Lange|1851-04-09
+Elise Konstantin-Hansen|1858-05-04
+Ole Klæstrup Christensen|1955-05-07
+Peder Schumacher Griffenfeld|1635-08-24
+Arne Weel|1891-01-15
+Holger Seebach|1922-03-17
+Knud Andersen|1867-04-29
+Dorte O. Jensen|1972-10-20
+Laura Drasbæk|1974-12-22
+Anna Unterberger|1985-09-23
+Trine Nielsen|1980-10-16
+John Helt|1959-12-29
+Allan Bentsen|1968-08-21
+Nini Theilade|1915-06-15
+Hans Peter Christian Møller|1810-11-10
+Morten Andersen|1960-08-19
+Helle Jespersen|1968-02-12
+Poul Kjærholm|1929-01-08
+Henrik Dahl|1960-02-20
+Bjørt Samuelsen|1965-03-02
+Inga Nielsen|1946-06-02
+Kim Staal|1978-03-10
+Dyveke Sigbrittsdatter|1490-01-01
+Mathias Kvistgaarden|2002-04-15
+Nanna Christiansen|1989-06-17
+Thomas Augustinussen|1981-03-20
+Svend Madsen|1897-03-17
+Mette Jacobsen|1973-03-24
+Jakob Kehlet|1980-09-05
+Mathias Hebo Rasmussen|1995-08-02
+Flemming af Rosenborg|1922-03-09
+Nichlas Hardt|1988-07-06
+Mads Bødker|1987-08-31
+Ilselil Larsen|1934-07-01
+Carlo Wieth|1885-12-11
+Gitte Lillelund Bech|1969-01-21
+Ivan Jensen|1922-11-10
+Peter Elfelt|1866-01-01
+Carl Ferdinand Allen|1811-04-23
+Christian Gottlieb Kratzenstein|1723-01-30
+Grethe Sønck|1929-07-16
+Frederik Holst|1994-09-24
+Nicki Pedersen|1977-04-02
+Bjørn Paulsen|1991-07-02
+Valdemar Lund Jensen|2003-05-28
+Lorenz Spengler|1720-09-22
+C.Th. Sørensen|1893-07-24
+Natalie Zahle|1827-06-11
+Karsten Lauritzen|1983-10-14
+Kim Aabech|1983-05-31
+Ove Paulsen|1874-03-22
+Viggo Meulengracht-Madsen|1889-11-13
+Hans Lassen Martensen|1808-08-19
+Tomas Villum Jensen|1971-04-12
+Lars Bo|1924-05-29
+Knud Leif Thomsen|1924-09-02
+Valdemar Bandolowski|1946-02-17
+Erik Pauelsen|1749-10-14
+Kasper Lorentzen|1985-11-19
+Jens Risager|1971-04-09
+Rikke Marie Madsen|1997-08-09
+Christian Peder Kryssing|1891-07-07
+Nikolaj Szeps-Znaider|1975-07-05
+Anna Syberg|1870-01-07
+Magnus Heunicke|1975-01-28
+Heidi Albertsen|1976-09-01
+Kevin Conboy|1987-10-15
+Finn Gundelach|1925-04-23
+Svend Auken|1943-05-24
+Patrick Bjorkstrand|1992-07-01
+Eigil Nielsen|1918-09-15
+Freddy Eugen|1941-02-04
+Mikkel Kirkeskov|1991-09-05
+Klaus Kynde|1966-04-13
+Mattias Tesfaye|1981-03-31
+Martin Bernburg|1985-12-26
+Cathrine Laudrup-Dufour|1992-01-02
+Sophus Schandorph|1836-05-08
+Christian Keller|1980-08-17
+Jakob Kjeldbjerg|1969-10-21
+Nikolaj Villumsen|1983-02-28
+Said Abdullahi Mohamed|1967-07-01
+Hans Dahlerup|1790-08-25
+Nikolaj Øris Nielsen|1986-03-26
+Jeppe Curth|1984-03-21
+Elisabeth af Braunschweig-Grubenhagen|1550-04-14
+Michael Jessen|1960-04-04
+Allan K. Jepsen|1977-07-04
+Ulrik Christian Gyldenløve|1630-04-07
+Olga Ravn|1986-09-27
+Jens Christian Hostrup|1818-05-20
+Wiliam Bøving|2003-03-01
+Reinhardt Møbjerg Kristensen|1948-12-06
+Hans Trier Hansen|1893-05-15
+Ida Jessen|1964-09-25
+Mark Strudal|1968-04-29
+Paul von Klenau|1883-02-11
+Peter Hummelgaard|1983-01-17
+Jens Christian Djurhuus|1773-08-21
+Adolf Michaelis|1835-06-22
+Emil Lyng|1989-08-03
+Peter von Scholten|1784-05-17
+Olaf Olsen|1928-06-07
+Erik Tuxen|1902-07-04
+Andreas Aagesen|1826-08-05
+David Sakurai|1979-07-19
+Jimmy Nielsen|1977-08-06
+Sara Hjort Ditlevsen|1988-05-23
+Otto Brandenburg|1934-09-04
+Ronnie Atkins|1964-11-16
+Anna Emilie Møller|1997-07-28
+Rudolph Simonsen|1889-04-30
+Sophie Løhde|1983-09-11
+Johan Sundstein|1993-10-08
+Jens Jørgen Thorsen|1932-02-02
+Youssef Toutouh|1992-10-06
+Christian Christiansen|1843-10-09
+Pelle Gudmundsen-Holmgreen|1932-11-21
+Henrik Kauffmann|1888-08-26
+Søren Sveistrup|1968-01-07
+Herluf Trolle|1516-01-14
+Søren Rasmussen|1976-08-12
+Peter Mohr Dam|1898-08-11
+Caroline Møller Hansen|1998-12-19
+Biskop Valdemar|1157-01-01
+Jeppe Andersen|1992-12-06
+Ludvig Jacobson|1783-01-10
+Preben Kaas|1930-03-30
+Lene Maria Christensen|1972-04-10
+Carl Peter Holbøll|1795-12-31
+Mogens Camre|1936-03-29
+Michael Marcussen|1955-01-09
+Rudy Markussen|1977-07-24
+Jørgen Bojsen-Møller|1954-04-17
+Lukas Fernandes|1993-03-01
+Torsten Laen|1979-11-26
+Theodor Geiger|1891-11-09
+Mikkel Jensen|1994-12-31
+Kølig Kaj|1971-08-15
+Søren Søndergaard|1955-08-16
+Mia Lyhne|1971-07-06
+Patrick Russell|1993-01-04
+Helena Rosendahl Bach|2000-06-12
+Axel Petersen|1887-12-10
+Søren Madsen|1976-05-31
+Bjørn Kristensen|1963-10-10
+Sophie Amalie Moth|1654-03-28
+Valdemar Tofte|1832-10-21
+Carl Alstrup|1877-04-11
+Corfitz Ulfeldt|1606-07-10
+Lis Løwert|1919-12-07
+Ib Ivan Larsen|1945-04-01
+Leon Jessen|1986-06-11
+Torben Meyer|1884-12-01
+Helena Elver|1998-03-01
+Victor Lind|2003-06-12
+Christina Egelund|1977-12-09
+Mads Døhr Thychosen|1997-06-27
+Noah Nartey|2005-10-05
+Sebastian Lander|1991-03-11
+Clement Bischoff|2005-12-16
+Henry Brask Andersen|1896-06-23
+Stina Lykke Petersen|1986-02-09
+Annika Olsen|1975-03-13
+Poul F. Joensen|1898-11-18
+H.M. Lunding|1899-02-25
+Jens Peter Martinus Laursen|1888-01-01
+Christen Kold|1816-03-29
+Marcus Cleverly|1981-06-15
+Erland Kops|1937-01-14
+Tor Nørretranders|1955-06-20
+Monika Pedersen|1978-12-21
+Signe Livbjerg|1980-02-21
+Julius Paulsen|1860-10-22
+Carl Ewald|1856-10-15
+Emma Gad|1852-01-21
+Jakob Ankersen|1990-09-22
+Jens Christian Svabo|1746-01-01
+Hans Jørgen Hansen|1879-10-06
+Bjarne Reuter|1950-04-29
+Christina Nielsen|1992-01-10
+Carsten Hansen|1957-01-10
+Ludolf Nielsen|1876-01-29
+Vilhelm Melbye|1824-05-14
+Timi Hansen|1958-10-28
+Mikaela Engell|1956-10-04
+Johannes Lebech|1948-09-12
+Niklas Eg|1995-01-06
+Sonni Nattestad|1994-08-05
+Gerhard Pedersen|1912-04-09
+Shavon Shields|1994-06-05
+Ib Schønberg|1902-10-23
+Werner Abrahamson|1744-04-10
+Janni Thomsen|2000-02-16
+Mogens Pedersøn|1585-01-01
+P.C. Kierkegaard|1805-07-06
+Mathias Bau Hansen|1993-07-03
+Birgitte Thott|1610-06-17
+Jacob Friis|1976-12-11
+Magnus Mattsson|1999-02-25
+Lars Ulrik Mortensen|1955-11-09
+Kurt Østergaard|1955-12-06
+Jens Lambæk|1899-10-16
+Asbjørn Sennels|1979-01-17
+Helge Kragh|1944-02-13
+Helga Ancher|1883-08-19
+Corinna Cortes|1961-03-31
+Michael Mortensen|1961-03-12
+Pia Arke|1958-09-01
+Kay Bojesen|1886-08-15
+Henry Heerup|1907-11-04
+Sigrid Svendsdatter|1050-01-01
+Karina Bell|1898-09-26
+Jørgen Reenberg|1927-11-08
+Sverri Sandberg Nielsen|1993-10-14
+Knud Børge Overgaard|1918-03-21
+William Berntsen|1912-03-25
+Elisabeth af Holsten-Rendsborg|1300-01-01
+Sølvi Vatnhamar|1986-05-05
+Mariann Gajhede|1984-11-16
+Daniel Kreutzfeldt|1987-11-19
+Henni Forchhammer|1863-03-08
+Anders Sørensen Vedel|1542-11-19
+Merete Riisager|1976-03-01
+Daniel Nielsen|1980-10-31
+Astrid Holm|1893-03-09
+Jette Sørensen|1961-03-25
+Oskar Buur|1998-03-31
+Jens Nygaard Knudsen|1942-01-25
+Pernille Weiss|1968-03-12
+Solbjørg Højfeldt|1947-06-10
+Gyrithe Lemche|1866-04-17
+Benedikte Hansen|1958-09-24
+Nathalie Lind|1918-10-01
+Gunnar Seidenfaden|1908-02-24
+Rune Glifberg|1974-10-07
+Peder Palladius|1503-01-01
+Ulrik Plesner|1861-05-17
+Clara Tybjerg|1864-05-03
+Elmer Møller|2003-07-09
+Christoph von Krogh|1785-10-10
+Palle Kjærulff-Schmidt|1931-07-07
+Ib Storm Larsen|1925-09-28
+Lars Paaske|1976-01-18
+Helge Schrøder|1924-11-27
+Kasper Jørgensen|1999-11-07
+Mogens Wöldike|1897-07-05
+Peter Kofod Hristov|1990-02-27
+Johan Georg Forchhammer|1794-07-26
+Georg E. Hansen|1833-05-12
+Michael Carbel|1995-02-07
+Jonas Eika|1991-02-26
+Thorkild Jacobsen|1904-06-07
+Elsebeth Egholm|1960-09-17
+Helge Halkjær|1916-12-20
+Helge Jørgensen|1937-09-17
+Jonathan Asp Jensen|2006-01-14
+Alsing Andersen|1893-02-05
+Helle Thomsen|1970-11-30
+Tove Nielsen|1941-04-08
+Mary Steen|1853-10-28
+Launy Grøndahl|1886-06-30
+Ole Tobiasen|1975-07-08
+Søren Berg|1976-05-15
+Benedikte Kiær|1969-12-10
+Poul Schierbeck|1888-06-08
+Trine Pallesen|1969-06-19
+Peter Rothmann Rasmussen|1993-03-26
+Claus Berg|1475-01-01
+Thomas T. Kristensen|2002-01-17
+Jonas Kamper|1983-05-03
+Christian Kampmann|1939-07-24
+Janus Djurhuus|1881-02-26
+Bent Wolmar|1937-08-08
+Annestine Beyer|1795-05-04
+Lars Christian Lilleholt|1965-03-02
+Fini Henriques|1867-12-20
+Hans Gram|1685-10-28
+Lars Hedegaard|1942-09-19
+Søren Bobach|1989-04-25
+Palle Mikkelborg|1941-03-06
+Carl Frederik Wandel|1843-08-15
+Julie Laurberg|1856-09-07
+Hans Schack|1609-10-29
+Gitte Seeberg|1960-06-25
+Thomas Rasmussen|1977-04-16
+Frederik Ernst af Brandenburg-Kulmbach|1703-12-15
+Japhet Sery|2000-04-10
+Lise Østergaard|1924-11-18
+Jørgen Niclasen|1969-01-17
+Katrin Olsen|1978-01-05
+Troels Vinther|1987-02-24
+Kaare Dybvad|1984-08-05
+Laurids de Thurah|1706-03-04
+Jacob Langebek|1710-01-23
+Ludvig August Colding|1815-07-13
+André Rømer|1993-07-18
+Odmar Færø|1989-11-01
+Iver Rosenkrantz|1674-12-05
+Kamma Rahbek|1775-10-19
+Henrik Jørgensen|1961-10-10
+Lucas Hey|2003-04-13
+Vicki Berlin|1977-11-16
+Niels Ludvig Westergaard|1815-10-27
+Peder Skram|1503-01-01
+Erik Asmussen|1913-11-02
+Erwin Neutzsky-Wulff|1949-11-24
+Emil Kristensen|1992-09-20
+Henrik Ruben Genz|1959-11-07
+Nicolai Brøchner|1993-07-04
+Peter Bartram|1961-05-04
+Kurt Mørkøre|1969-02-20
+Oliver Rasmussen|2000-11-21
+Emil Frederiksen|2000-09-05
+Steen Herschend|1888-11-12
+Lene Lund Høy Karlsen|1979-06-08
+Dankvart Dreyer|1816-06-13
+Poul Mark|1889-06-19
+Hans Eiler Pedersen|1890-10-18
+Karl Mantzius|1860-02-20
+Heinrich Wenck|1851-03-10
+Thomas Laybourn|1977-09-30
+Knud Bartels|1952-04-08
+Thomas Bugge|1740-10-12
+Oluf af Rosenborg|1923-03-10
+Sophie Hæstorp Andersen|1974-09-26
+Hans Colberg|1921-12-14
+Simon Kollerup|1986-05-20
+Rasmus Nyerup|1759-03-12
+Johannes Vinther|1893-01-05
+Rasmus Berthelsen|1827-07-10
+Emil Rostrup|1831-01-28
+Louise Ambjørg Svalastog|1982-10-01
+Ruth Berlau|1906-08-24
+Davor Palo|1985-11-02
+Kristian Hansen|1895-01-25
+Rina Ronja Kari|1985-02-15
+Lars Larsen|1948-08-06
+Morten P. Porsild|1872-09-01
+Jørgen Rasmussen|1937-02-19
+Lars Bom|1961-04-08
+Ole Christian Madsen|1966-06-18
+Mathias Gehrt|1992-06-07
+Paul Erdmann Isert|1756-10-20
+Judy Gringer|1941-01-23
+Carsten Nørgaard|1963-03-03
+Andreas Møller|1684-11-30
+Martin Bergvold|1984-02-20
+Kirsten Olesen|1949-05-10
+Jesper Asholt|1960-05-11
+Arne Sørensen|1917-11-27
+Erling Nielsen|1935-01-02
+Pernille Mathiesen|1997-10-05
+Peter Flinth|1964-11-07
+Olaf Henriksen|1888-04-26
+Henry Nielsen|1910-10-02
+Karen Holmgaard|1999-01-28
+Beinta Broberg|1667-01-01
+Knud Kirkeløkke|1892-11-10
+Kaj Hansen|1940-08-16
+Jens Bojsen-Møller|1966-06-08
+Pernille Skipper|1984-07-10
+Per Clausen|1955-02-20
+Hans Laurids Sørensen|1901-08-13
+Klaus Baess|1924-11-10
+Tochi Chukwuani|2003-03-24
+Marianne Florman|1964-06-01
+Finn Andersen|1990-04-14
+Sven Bernth Thomsen|1884-09-07
+Johnny Thomsen|1982-02-26
+C.F.E. Horneman|1840-12-17
+Gerda Alexander|1908-02-15
+Thomas Dausgaard|1963-07-04
+Nabiha|1981-09-01
+Mogens Herman Hansen|1940-08-20
+Christian E. Christiansen|1972-12-14
+Paul Hagen|1920-03-19
+Kurt Trampedach|1943-05-13
+Jens August Schade|1903-01-10
+Jim Larsen|1985-11-06
+P.V. Jensen Klint|1853-06-21
+Adam Price|1967-05-07
+Dorte Mandrup|1961-07-26
+Erling Jepsen|1956-05-14
+Kristian Poulsen|1975-11-18
+Markus Lauridsen|1991-02-28
+Anna Petersen|1845-02-20
+Christian Møller Pedersen|1889-10-27
+Ole Birk Olesen|1972-12-21
+Karen Melchior|1980-10-15
+Poul Andersen|1930-01-02
+Marianne Jelved|1943-09-05
+Susse Wold|1938-11-17
+Flemming Kofod-Svendsen|1944-03-21
+Ulrik af Danmark|1611-02-02
+Morten Dahlin|1989-05-01
+Jacob Mark|1991-10-16
+Karin Nellemose|1905-08-03
+Nicki Thiim|1989-04-17
+Kresten Bjerre|1946-02-22
+Pierre Dørge|1946-02-28
+Hella Joof|1962-11-01
+Rikke Karlsson|1965-04-29
+Daniel Frederik Eschricht|1798-03-18
+Claudius Clavus|1388-09-14
+Amalie Vangsgaard|1996-11-29
+Sebastian Grønning|1997-02-03
+Asmaa Abdol-Hamid|1981-11-22
+Carl Dahl|1812-03-24
+Marco Lund|1996-06-30
+Benjamin Tiedemann Hansen|1994-02-07
+Carl Ludwig Jessen|1833-02-22
+Vilhelm Andersen|1864-10-16
+Martin Møller|1980-05-18
+Sara Omar|1986-08-21
+Teitur Gestsson|1992-08-19
+Poul Bundgaard|1922-10-27
+Hanne Boel|1957-08-31
+Karoline S. Nielsen|1994-05-12
+Christina Pedersen|1982-12-15
+Michael Denner|1958-11-05
+Mads Timm|1984-10-31
+Per Nielsen|1973-10-15
+Bogi Løkin|1988-10-22
+Olfert Fischer|1747-08-04
+Michael Christensen|1990-08-28
+Børge Ring|1921-02-17
+Lisbet Lundquist|1943-03-25
+Peder Gram|1881-11-25
+Anker Eli Petersen|1959-06-07
+Jørgen Beck|1914-12-13
+Jakob Axel Nielsen|1967-04-12
+Mai Mercado|1980-08-20
+David Nielsen|1976-12-01
+Arne Jørgensen|1897-07-15
+Lisbeth Bech-Nielsen|1982-12-01
+Per Aage Brandt|1944-04-26
+Freddy Milton|1948-04-18
+K.J.V. Steenstrup|1842-09-07
+Johan Jacobsen|1912-03-14
+Niels Krabbe|1951-07-01
+John Nielsen|1956-02-07
+Ferdinand Meldahl|1827-03-16
+Kasper Klostergaard|1983-05-22
+Allan Michaelsen|1947-11-02
+Karen Jespersen|1947-01-17
+Georg Vest|1896-07-18
+Anna David|1984-12-02
+Nasib Farah|1982-01-01
+Henrik af Sønderjylland|1342-01-01
+Johnny Anker Hansen|1966-07-11
+Victor Danielsen|1894-03-28
+Rasmus Malling-Hansen|1835-09-05
+Delia Sheppard|1960-07-29
+Jakob Friis-Hansen|1967-03-06
+Sara Thrige|1996-05-15
+Kirsten Brosbøl|1977-12-14
+Kristen Nygaard Kristensen|1949-09-09
+Johan Absalonsen|1985-09-16
+Dirch Passer|1926-05-18
+Lina Rafn|1976-08-12
+Jørn Dohrmann|1969-01-09
+André Valgren Steensen|1987-10-12
+Peder Winstrup|1605-04-30
+Fritz Syberg|1862-07-28
+Alexander Lind|2002-06-26
+David Ousted|1985-02-01
+Minik Wallace|1890-01-01
+John Christmas Møller|1894-04-03
+Frederik Hansen|1896-07-02
+Knud Lyne Rahbek|1760-12-18
+Natasha Arthy|1969-05-23
+Katrine S. Pedersen|1977-04-13
+Jeppe Okkels|1999-07-27
+Frede Hansen|1897-04-05
+Frederik Svane|2004-01-21
+Joakim Skovgaard|1856-11-18
+Arthur Jensen|1897-11-09
+Flemming Serritslev|1947-02-18
+Peter Adler Alberti|1851-06-10
+Oliver Lauridsen|1989-03-24
+Ingeborg Brams|1921-12-09
+Morten Poulsen|1988-09-09
+Line S. Jensen|1991-08-23
+Sonja Ferlov Mancoba|1911-11-01
+Jytte Hilden|1942-09-12
+Margarete Steffin|1908-03-21
+George Schnéevoigt|1893-12-23
+Henrik Ernst Peymann|1735-05-22
+Laurits Christian Lindhardt|1842-08-20
+Hanne Borchsenius|1935-11-30
+Ebbe Skovdahl|1945-07-05
+Nina van Pallandt|1932-07-15
+Emil Kornvig|2000-04-28
+Lars Barfoed|1957-07-04
+Battling Nelson|1882-06-05
+Jesper Petersen|1981-08-25
+Nicolaj Kopernikus|1967-08-09
+Jens Enevoldsen|1907-09-23
+Bjørn Nørgaard|1947-05-21
+Mogens Lüchow|1918-05-13
+Mads Juel Andersen|1997-12-27
+Lambert van Haven|1630-04-26
+Charlotte Sahl-Madsen|1964-08-26
+Lars Hansen|1954-09-27
+Flemming Møller Mortensen|1963-07-03
+Dynes Pedersen|1893-05-26
+Ebbe Langberg|1933-08-01
+Ib Olsen|1929-11-09
+Patrick Jørgensen|1991-05-31
+Ærkebiskop Asser|1055-01-01
+Poul Reumert|1883-03-26
+Henrik Holck|1599-04-18
+Finn Salomonsen|1909-01-31
+Erni Arneson|1917-09-12
+Emil Carlsen|1848-10-19
+Rezan Corlu|1997-08-07
+Jakob Andkjær|1985-05-07
+Bajram Fetai|1985-09-07
+Naaja Nathanielsen|1975-12-06
+Erik Møller|1909-11-07
+Henrik Djernis|1966-04-22
+Ove Verner Hansen|1932-07-20
+Kay Werner Nielsen|1921-05-28
+Bjørn Ibsen|1915-08-30
+Mahdi Fleifel|1979-10-25
+Lene Kaaberbøl|1960-03-24
+Carl Gottlob Rafn|1769-07-31
+Frederik Ahlefeldt|1623-01-01
+Fr. Winkel Horn|1845-07-19
+Christian Mejdahl|1939-12-31
+Morten Lange|1919-11-24
+Henrik Sass Larsen|1966-05-29
+Ernst Meyer|1797-05-11
+Jytte Stensgaard|1946-05-14
+Anna Catharina von Passow|1731-01-25
+Per Holst|1939-03-28
+Lotte Grigel|1991-04-05
+Elmelundemesteren|1500-01-01
+Jacob Vestergaard|1961-04-07
+Erik Dyreborg|1940-01-20
+Sisse Marie Welling|1986-02-25
+Bernhard Jensen|1912-02-16
+Simon Nielsen|1986-10-27
+Helga Pedersen|1911-06-24
+Christian Rabjerg Madsen|1986-03-24
+Frederik af Danmark|1529-01-01
+Thorvald Niss|1842-05-07
+Emil Bærentzen|1799-10-30
+Anna Rosbach Andersen|1947-02-02
+Eske Willerslev|1971-06-05
+Kitty Swan|1943-05-25
+Ebba Thomsen|1887-05-03
+Charlotte Norrie|1855-10-12
+Frank Hvam|1970-09-12
+Casper Christensen|1968-08-22
+Christian Jungersen|1962-07-10
+Emilie Beckmann|1997-02-04
+Svend Erik Hovmand|1945-12-08
+Bjørn Wiinblad|1918-09-20
+Jens Kristiansen|1952-05-25
+Christine Antorini|1965-05-23
+Kirsten Hastrup|1948-02-20
+Isak Steiner Jensen|2003-12-23
+Esben Lunde Larsen|1978-11-14
+Mads Brügger|1972-06-24
+Knut Jungbohn Clement|1803-12-04
+Karen Jeppe|1876-07-01
+Josefine Hasbo|2001-11-20
+Johanne Krebs|1848-04-21
+Malou Ejdesgaard|1991-03-13
+William Rosenberg|1920-02-12
+Beate Bille|1976-11-17
+Aron fra Kangeq|1822-04-09
+Laura Kieler|1849-01-09
+Jonathan Groth|1992-11-02
+Leif Kayser|1919-06-13
+Erik Jørgensen|1920-04-21
+Nikolai Laursen|1998-02-19
+Nicolas Madsen|2000-03-17
+Johannes Aagaard|1928-04-29
+Georg Carl Amdrup|1866-11-19
+Erhard Jakobsen|1917-02-25
+Frederik Christian Kaas|1727-12-01
+Margrete Asbjørnsdatter|1076-01-01
+Ove Gjedde|1594-12-17
+Henning Christiansen|1932-05-28
+Vincenzo Galeotti|1733-03-05
+Aage Jørgensen|1900-01-22
+Alexandra Bøje|1999-12-06
+Joachim Otto Voigt|1798-03-22
+Frode Kirkebjerg|1888-05-10
+Danny Olsen|1985-06-11
+Børge Gissel|1915-07-07
+Sankt Keld|1100-01-01
+Knut Ansgar Nelson|1906-10-01
+Mette Gravholt|1984-12-12
+Danny Amankwaa|1994-01-30
+Ellen Marsvin|1572-02-01
+Trine Michelsen|1966-01-21
+Ditte Hansen|1970-12-06
+Håkan Nyblom|1981-11-26
+Johann Hartmann|1726-12-24
+Just Juel|1664-10-14
+Hans Christian Herlak|1881-08-04
+Louise Ørnstedt|1985-03-23
+Kristian Riis|1997-02-17
+Ludvig Bødtcher|1793-04-22
+Sebastian|1949-12-19
+Hugo Rasmussen|1941-03-22
+Christina Scherwin|1976-07-11
+Kenny Lübcke|1966-06-20
+Sofie Lundgaard|2002-05-29
+Kenneth Jonassen|1974-07-03
+Jens Schelderup Sneedorff|1724-08-22
+Cyril Andresen|1929-11-23
+Hannes Finsen|1828-05-13
+Karin Riis-Jørgensen|1952-11-07
+G.F. Ursin|1797-06-22
+Ulf Pilgaard|1940-11-15
+Peder Hansen Resen|1625-06-17
+Vita Andersen|1942-10-29
+Nanna Ditzel|1923-10-06
+Caroline Hammer|1832-10-28
+Knud Holmboe|1902-04-22
+Thomas Dinesen|1892-08-09
+Morten Jensen|1982-12-02
+Ingegerd af Danmark|1080-01-01
+Ove Joensen|1948-12-03
+Henrik Stephansen|1988-08-06
+Martin Christensen|1987-12-23
+Kristian Madsen|1893-02-12
+Oluf Haraldsen|1150-01-01
+Peter Hirsch|1979-03-06
+Lisbet Dahl|1946-04-09
+Arne Høyer|1928-11-09
+Michael Tørnes|1986-01-08
+Mathias Jørgensen|2000-09-20
+Katrine Abel|1990-06-28
+Simone Christensen|1994-02-10
+Jannik Hastrup|1941-05-04
+Bjørn Watt-Boolsen|1923-06-20
+Margrete Heiberg Bose|1865-09-19
+Otte Thygesen Brahe|1518-10-12
+Lone Dröscher Nielsen|1964-11-04
+Marie Krogh|1874-12-25
+Flemming Andersen|1968-06-02
+Ole Krarup|1935-03-17
+John Carlsen|1961-12-31
+Rajko Lekic|1981-07-03
+Heinz Ehlers|1966-01-25
+W.C.E. Sponneck|1815-02-16
+Axel W. Gade|1860-05-28
+Thomas Laub|1852-12-05
+Linea Søgaard-Lidell|1987-03-30
+Benny Engelbrecht|1970-08-04
+Johannes Meyer|1884-05-28
+Dion Ørnvold|1921-10-17
+Lotte Wæver|1942-02-17
+Viggo Brøndal|1887-10-13
+Aske Adelgaard|2003-11-10
+Maibritt Kviesgaard|1986-05-15
+Jonas Buhl Bjerre|2004-06-26
+Svenn Crone|1995-05-20
+Torkil Veyhe|1990-01-09
+Fredrik Bjerrehuus|1990-01-14
+Monika Rubin|1987-12-20
+Alexander Jakobsen|1994-03-18
+Malene Schwartz|1936-08-10
+Anne Lolk Thomsen|1983-05-15
+Camilla Jensen|1982-10-25
+Mette Kierkgaard|1972-03-05
+Lily Broberg|1923-09-19
+Henning Moritzen|1928-08-03
+Lærke Møller|1989-01-14
+Angelina Jensen|1973-05-23
+Ejnar Dyggve|1887-10-17
+Morten Helveg Petersen|1966-09-14
+Torsten Schack Pedersen|1976-06-26
+Aage Dons|1903-08-19
+Kristian Osvald Viderø|1906-05-27
+Jens Berthel Askou|1982-08-19
+Peder Oxe til Nielstrup|1520-01-17
+Jørgen Peter Müller|1866-10-07
+Mikkel Adrup Poulsen|1984-10-17
+Demmus Hentze|1923-12-04
+Christian Grønborg|1962-06-29
+Rasmus Henning|1975-11-13
+Andreas Albers|1990-03-23
+Sven Holm|1940-04-13
+Greta Svabo Bech|1987-01-01
+Maria Jacobsen|1882-11-06
+John Sørensen|1934-10-05
+Alma Hinding|1882-02-11
+Frank Pingel|1964-05-09
+Knud Enggaard|1929-06-04
+Werner Wolf Glaser|1913-04-14
+Bent Sørensen|1958-07-18
+Jan Leschly|1940-09-11
+Mette Melgaard|1980-06-03
+Hakon Børresen|1876-06-02
+Heidi Sevdal|1989-03-06
+Karen Ankersted|1859-07-18
+Lene Køppen|1953-05-05
+Jens Oliver Lisberg|1896-12-24
+Emma Snerle|2001-03-23
+Louis Moe|1857-04-20
+Adam Sørensen|2000-11-11
+Hans Jakobsen|1895-02-20
+Nicklas Strunck Jakobsen|1999-08-17
+K.B. Andersen|1914-12-01
+Jan Trøjborg|1955-12-14
+Julie Kepp Jensen|2000-01-03
+Malte Amundsen|1998-02-11
+Emilie Turunen|1984-05-13
+Jeppe Tverskov|1993-03-12
+Erik Henningsen|1855-08-29
+August Winding|1835-03-24
+Matilde Lundorf|1999-01-19
+Storm P.|1882-09-19
+Peter Plaugborg|1980-04-12
+Andreas Peter Berggreen|1801-03-02
+Jan Frederiksen|1982-06-20
+Christian H. Grosch|1801-01-21
+Karen Berg|1906-05-28
+Rasmus Jarlov|1977-04-29
+Christian Molbech|1783-10-08
+Rasmus Helveg Petersen|1968-06-17
+Poul-Henning Kamp|1966-01-20
+Johannes Brøndsted|1890-10-05
+Kim J. Henriksen|1960-10-28
+Esben Hansen|1981-08-10
+Kjeld Olesen|1932-07-08
+Marcus Mathisen|1996-02-27
+Charlotte Fich|1961-09-26
+Osama Akharraz|1990-11-26
+Rasmus Nielsen|1809-07-04
+Sammy Skytte|1997-02-20
+Christian Ditlev Frederik Reventlow|1748-03-11
+Heinrich Hansen|1821-11-23
+Rasmus Christoffer Effersøe|1857-05-30
+Vilhelm Bissen|1836-08-05
+Hans Andrias Djurhuus|1883-10-20
+Joachim Godske Moltke|1746-07-25
+Morten Ramsland|1971-01-01
+J.V. Gertner|1818-03-10
+Gunnar Aagaard Andersen|1919-07-14
+Sigrid Horne-Rasmussen|1915-09-22
+Carsten Nielsen|1955-08-12
+Olaf Johannessen|1961-07-08
+Astrid Villaume|1923-11-03
+Niels Hansen Jacobsen|1861-09-10
+Ulla Poulsen Skou|1905-05-02
+Troels Troels-Lund|1840-09-05
+Claus Nielsen|1964-01-13
+Pola Gauguin|1883-12-06
+Hans Viggo Jensen|1921-03-29
+Frederik Fetterlein|1970-07-11
+Rasmus Stjerne|1988-05-26
+Poul Richard Høj Jensen|1944-06-02
+Thomas Thomasberg|1974-10-15
+Mie Leth Karshøj|1994-02-06
+Jeppe Tranholm-Mikkelsen|1962-10-30
+Peter Brandes|1944-03-05
+Mai Villadsen|1991-12-26
+Mads Fenger|1990-09-10
+Johan Frederik Classen|1725-02-11
+Lars Krogh Jeppesen|1979-03-05
+Thomas Søndergård|1969-10-04
+Finn Høffding|1899-03-10
+Ole Bjur|1968-09-13
+Sigrid Friis Frederiksen|1994-10-20
+Henriette Kjær|1966-05-03
+Kaj Birket-Smith|1893-01-20
+Ole Bjørn Kraft|1893-12-17
+Søren Nils Eichberg|1973-07-23
+Georg Rasch|1901-09-21
+Thomas Kristensen|1983-04-17
+Heidi Andreasen|1985-12-18
+Caroline Bondemand|1990-07-19
+Aage Fønss|1887-12-12
+Herman D. Koppel|1908-10-01
+Marie Bregendahl|1867-11-06
+Peter Erasmus Müller|1776-05-29
+Heinrich Carl von Schimmelmann|1724-07-13
+Søren Reese|1993-07-29
+Esben Smed|1984-07-13
+Alex Pedersen|1966-11-15
+Helmer Pedersen|1930-03-28
+Tom B. Hansen|1948-02-25
+Knud Valdemarsen|1211-01-01
+Rasmus Lauritsen|1996-02-27
+Édouard du Puy|1770-01-01
+Jørgen Bentzon|1897-02-14
+Ebbe Rode|1910-05-10
+Abdul Wahid Pedersen|1954-02-01
+Ole Riber Rasmussen|1955-09-28
+Sune Berg Hansen|1971-04-21
+Peter Due|1947-09-22
+Thyra Frank|1952-05-10
+Sophus Müller|1846-05-24
+Ole Andreasen|1939-07-30
+Rigmor Dam|1971-12-18
+Martin Frese|1998-01-04
+Mathias Christiansen|1994-02-20
+Christoffer Faarup|1992-12-28
+Thomas Danielsen|1983-06-24
+Louis-Augustin le Clerc|1688-11-30
+Willi Dansgaard|1922-08-30
+Anders Randrup|1988-07-16
+Agnes Adler|1865-02-19
+P. Munch|1870-07-25
+Christina Ørntoft|1985-07-02
+Lars Søndergaard|1959-04-05
+Anne E. Jensen|1951-08-17
+Ole Wæver|1960-09-17
+Jørgen Møller|1873-11-04
+Signe Munk|1990-03-10
+Christian Friis Bach|1966-04-29
+Stina Troest|1994-01-17
+Claus Norreen|1970-06-05
+Oliver Villadsen|2001-11-16
+Georg Gerlach|1797-08-31
+Finnur Justinussen|1989-03-30
+Sebastian Hausner|2000-04-11
+Hans Christian Schmidt|1953-08-25
+Maria Sten|1989-10-29
+C.F. Tietgen|1829-03-19
+Mary Thomas|1848-01-01
+Marcus Meibom|1630-01-01
+Manu Sareen|1967-05-16
+Dennis Cagara|1985-02-19
+Johanne Stockmarr|1869-04-21
+Alba Hurup Larsen|2008-12-12
+Arnarulunnguaq|1896-01-01
+Dennis Sørensen|1981-05-24
+Astrid Stampe Feddersen|1852-12-19
+Elga Olga Svendsen|1906-04-14
+Josephine Højbjerg|2003-01-14
+Niko Hansen|1994-09-14
+Niels Frederiksen|1970-11-05
+Rasmus Bøgh Wallin|1996-01-02
+Hans Christian Nielsen|1928-05-10
+Estrid Hein|1873-07-27
+Carl Erik Soya|1896-10-30
+Benny Nielsen|1951-03-17
+Maria Fisker Stokholm|1990-10-03
+Morten Frost|1958-04-04
+Henriette Rasmussen|1950-06-08
+Axel Graatkjær|1885-01-19
+Terji Skibenæs|1982-12-27
+Hans-Kristian Vittinghus|1986-01-16
+Jeppe Hein|1974-08-01
+Jonathan Fischer|2001-11-09
+Joachim Blichfeld|1998-07-17
+Adnan Mohammad|1996-07-02
+Martin Retov|1980-05-05
+Michael Rohde|1894-03-03
+Kasper Holten|1973-03-29
+Lucas Jacobsøn Debes|1623-01-01
+Ole Sohn|1954-09-12
+Nicolaj Bo Larsen|1971-11-10
+Marie Bjerre|1986-05-06
+Theodor Mortensen|1868-02-22
+Mathias Olesen|2001-03-21
+Erik Kuld Jensen|1925-06-10
+Edgar Babayan|1995-10-28
+Helge Sander|1950-08-27
+Louis Pio|1841-12-14
+Pernille Rosenkrantz-Theil|1977-01-17
+Helge Christian Bronée|1922-03-28
+Allan Mørkøre|1971-11-22
+Lasse Spang Olsen|1965-04-23
+Ingvar Cronhammar|1947-12-17
+Michel Nykjær|1979-09-17
+Henrik Agerbeck|1956-09-10
+Kevin Larsen|1993-07-17
+Jonathan Petersen|1881-05-07
+Nina Kreutzmann Jørgensen|1977-07-17
+Christine Løvmand|1803-03-19
+Caroline Stage Olsen|1990-11-10
+Anders Walter|1978-02-05
+Erik Schmedes|1868-08-27
+Harald Bergstedt|1877-08-10
+Ingrid Larsen|1909-07-01
+Anne Gadegaard|1991-11-07
+Peter Therkildsen|1998-06-13
+Alex Vanopslagh|1991-10-17
+Jakob Breum|2003-11-17
+Anna Hude|1858-07-26
+Sven Tito Achen|1922-07-29
+Patrick Mortensen|1989-07-13
+Ida Brun|1792-09-20
+Emil Vinjebo|1994-03-24
+P.O. Pedersen|1874-06-19
+Gyda Hansen|1938-02-07
+Agnes Henningsen|1868-11-18
+Betty Hennings|1850-10-26
+Jesper Sørensen|1973-06-10
+Albert Withen Philipsen|2006-09-03
+Oliver Olsen|2000-08-13
+Franciska Clausen|1899-01-07
+Jesper Damgaard|1975-05-06
+Elna Borch|1869-12-06
+Michael Falkesgaard|1991-04-09
+Christoffer Gabel|1617-01-06
+August Priske Flyger|2004-03-23
+Annelise Hovmand|1924-09-17
+Johanne Louise Schmidt|1983-10-16
+H.N. Clausen|1793-04-22
+Simone Böhme|1991-08-17
+Ida Ørskov|1922-01-08
+Bodil Koch|1903-10-25
+Anders Klynge|2000-10-14
+Jens Tang Olesen|1947-09-27
+Marc Nygaard|1976-09-01
+Vilhelm af Danmark|1687-02-21
+Julie Arenholt|1873-12-10
+Jesper Bech|1982-05-25
+Helgi Dam Ziska|1990-07-26
+Stefan Lassen|1985-11-01
+Thorbjørn Olesen|1989-12-21
+Franciska Rosenkilde|1976-03-19
+Jeanne Darville|1924-08-18
+Amin Chiakha|2006-03-12
+Emilie Sannom|1886-09-29
+Jan Pytlick|1967-06-05
+Søren Frederiksen|1972-01-27
+Janus Metz Pedersen|1974-09-01
+Thorkild Simonsen|1926-07-07
+Ulrik Laursen|1976-02-28
+Anders Refn|1944-04-08
+Horace Parlan|1931-01-19
+Jan Mathiasen|1957-05-09
+Anders Koppel|1947-07-17
+Kristoffer Storm|1989-01-26
+Anders Morgenthaler|1972-12-05
+Søren Elung Jensen|1928-07-07
+Luna Gevitz|1994-03-03
+Per Knudsen|1925-06-02
+C.F. Møller|1898-10-31
+Jesper Thilo|1941-11-28
+Povl Bang-Jensen|1909-04-06
+Heinrich Tønnies|1825-05-10
+Gunnar Vatnhamar|1995-03-29
+Ole Due|1931-02-10
+Christoffer Nygaard|1986-03-24
+Jutta af Danmark|1246-01-01
+Bent Kjær Jensen|1947-06-06
+Johannes Pedersen|1892-04-26
+Pelle Hvenegaard|1975-08-29
+Peer Nielsen|1942-06-25
+Anders Foldager|2001-07-27
+Schack von Staffeldt|1769-03-28
+Anders Due|1982-03-17
+Agnes af Danmark|1249-01-01
+George Stephens|1813-12-13
+Mads Alstrup|1808-01-01
+Anders Randolf|1870-12-18
+Vigilius Eriksen|1722-01-01
+Frederik Schmidt|1771-05-27
+Anton Ørskov Ipsen|1994-09-04
+Thorkil Kristensen|1899-10-09
+Mads Kikkenborg|1999-10-07
+Flemming Lentfer|1964-03-01
+Anders Bording|1619-01-21
+Lukas Engel|1998-12-14
+Jørgen Haagen Schmith|1910-12-18
+Tom Høyem|1941-10-10
+Poul Søgaard|1923-11-12
+Willy Skibby|1942-02-20
+Niels Lodberg|1980-10-14
+Anders Østergaard|1965-03-14
+Mia Wagner|1977-12-25
+Anna Kristensen|2000-10-25
+Frederikke Federspiel|1839-01-25
+Birgitte Raaberg|1954-09-26
+Birgitte Price|1934-04-29
+Birgitte Gøye|1511-01-01
+Sigbrit Villoms|1401-01-01
+Anita Bay Bundegaard|1963-10-31
+Otto Joachim Moltke|1770-06-11
+Salomon Drejer|1813-02-15
+Jessie Rindom|1903-10-04
+Frederik Moltke|1754-01-18
+Holger Simon Paulli|1810-02-22
+Frank Kristensen|1977-03-10
+Caius Gabriel Cibber|1630-01-01
+Mads Laudrup|1989-02-09
+Christian Colbiørnsen|1749-01-29
+Meinhard Olsen|1997-04-10
+Peter Riis Andersen|1980-07-25
+Alev Siesbye|1938-08-30
+Peter Buch Christiansen|1999-12-02
+Christian Gyldenløve|1674-02-28
+Henning Petersen|1939-09-03
+Georg Sørensen|1995-05-15
+Poul Reichhardt|1913-02-02
+Søren Kjeldsen|1975-05-17
+Arnold Krog|1856-03-18
+Josephine Fock|1965-09-05
+Annelise Reenberg|1919-09-16
+Carl Frederik Bricka|1845-07-10
+Ole Gammelgaard|1965-11-20
+Villads Nielsen|2005-01-29
+Nanna Skodborg Merrald|1993-10-08
+Sarah Boberg|1966-08-25
+Petur Alberg|1885-12-15
+Jenny Blicher-Clausen|1865-07-29
+Isam Bachiri|1977-08-01
+Anne Dot Eggers Nielsen|1975-11-06
+Charlotte Bournonville|1832-11-29
+Johannes Poulsen|1881-11-17
+Lotte Bundsgaard|1973-01-20
+Ove Jensen|1919-11-07
+Kid Williams|1893-12-05
+Elias Sørensen|1999-09-18
+Mikel Gogorza|2006-09-27
+Johan Gunder Adler|1784-03-05
+Sverre Patursson|1871-09-22
+Hans Nansen den ældre|1598-11-28
+Rasmus Prehn|1973-06-18
+Peter Skaarup|1964-05-01
+Rudolph Sophus Bergh|1859-09-22
+Peter Schønau Fog|1971-04-20
+Jakob Ejersbo|1968-04-06
+Peter Dorf Pedersen|1897-01-28
+Christian Richardt|1831-05-25
+C.F. Harsdorff|1735-05-26
+Hjalte Bo Nørregaard|1981-04-08
+Peter Brixtofte|1949-12-11
+Johanne Fritz-Petersen|1879-10-18
+Simon Graves|1999-05-22
+Eva Gredal|1927-02-19
+Lis Groes|1910-11-02
+Carsten Høi|1957-01-16
+Anna Bloch|1868-02-02
+Ole Monty|1908-10-22
+Hilda Sehested|1858-04-27
+Thomas Jørgensen|2005-09-30
+Regin Dahl|1918-11-05
+Gudrun Houlberg|1889-02-21
+Patrick Pedersen|1991-11-25
+Thomas Dalgaard|1984-04-13
+Jakob Michelsen|1980-09-30
+Yvonne Ingdal|1939-12-10
+Svend Gade|1877-02-09
+Signe Rink|1836-01-24
+Kirsten Justesen|1943-12-25
+Lirim Qamili|1998-06-04
+Kristina Bille|1986-04-03
+Ole Gunnar Petersen|1934-12-30
+Kasper Davidsen|2005-01-25
+Jann Sjursen|1963-10-20
+Søren Bjerg|1996-02-21
+Flemming Hansen|1939-08-09
+Ebbe Hamerik|1898-09-05
+Andreas Bang-Haas|1846-12-06
+Kasper Jensen|1982-10-07
+Per Hækkerup|1915-12-25
+Sebastian Fini|1995-03-26
+Caps|1999-11-17
+Peter Malberg|1887-09-21
+Sara Thygesen|1991-01-20
+Morten Kirkskov|1963-03-28
+Søren Jessen-Petersen|1945-01-01
+Henrik Danielsen|1966-01-21
+Henning Koppel|1918-05-08
+Karen Poulsen|1881-05-10
+H.V. Kaalund|1818-06-27
+Mathilde Norholt|1983-03-23
+Andreas Frederik Krieger|1817-10-04
+Svend Aage Castella|1890-03-15
+Thomas Overskou|1798-10-11
+Frants Henningsen|1850-06-22
+Oscar Stribolt|1873-02-12
+Andreas Bruus|1999-01-16
+Mathilde Arcel Fock|1996-07-25
+K.K. Steincke|1880-08-25
+Johnny Bredahl|1968-08-27
+Marie Tourell Søderberg|1988-07-26
+Valdemar Møller|1885-01-19
+Marie Jepsen|1940-03-27
+Eva Dyrberg|1980-02-17
+Niels Markussen|1934-09-06
+Peter Panum|1820-12-19
+Gertrud Vasegaard|1913-02-23
+Niels Kristian Nielsen|1897-01-10
+Gerda Madsen|1902-01-04
+Niels Erik Nielsen|1893-05-01
+Niels Andersen|1867-05-14
+Marie Henriques|1866-06-26
+Maria af Mecklenburg-Schwerin|1363-01-01
+Jørgen Kieler|1919-08-23
+Iben Dorner|1978-10-19
+Tommy Bechmann|1981-12-22
+Preben Mahrt|1920-07-28
+Kate Mundt|1930-01-09
+Frederik Læssøe|1811-09-23
+Magnus Millang|1981-07-20
+Thorkild Rovsing|1862-04-26
+Morten Wormskiold|1783-01-16
+Christian Felix Bauer|1667-01-01
+Mads Conrad-Petersen|1988-01-12
+Karen Barritza|1992-07-03
+Jørgen Bo Petersen|1970-04-11
+Casper Højer Nielsen|1994-11-20
+Louise Nørlund|1854-11-27
+Henrik Koefoed|1955-11-25
+Thorkild Bjørnvig|1918-02-02
+Steffen Højer|1973-05-22
+Lilli Gyldenkilde|1936-02-13
+Allan Arenfeldt Olesen|1982-05-20
+Henrik Grønvold|1858-09-06
+Kristoffer Gudmund Nielsen|1985-05-20
+Bror Blume|1992-01-22
+Rikard Long|1889-01-23
+Maria Garland|1889-05-16
+Kenneth Heiner-Møller|1971-01-17
+Aksel Schiøtz|1906-09-01
+Lotte Bjerre Knudsen|1964-03-10
+Mathilde Halse|1999-05-02
+Mette Dyre|1460-01-01
+Johannes Larsen|1867-12-27
+Athalia Schwartz|1821-02-22
+Magnus Kaastrup|2000-12-28
+Alfred Ollerup Jørgensen|1890-08-30
+Theodor Suhr|1896-01-24
+Alfred Frøkjær Jørgensen|1898-12-21
+Carl Busch|1862-03-29
+Karsten Hønge|1958-09-25
+Karina Lorentzen|1973-10-26
+Jacob Moe Rasmussen|1975-01-19
+Anders Holch Povlsen|1972-11-01
+Petrine Sonne|1870-11-25
+Karina Adsbøl|1976-11-28
+Henrik Malberg|1873-12-04
+Vilhelm Herold|1865-03-19
+Julie Brochorst Andersen|1993-05-27
+Hans Hedemann|1792-07-07
+Carl Wesenberg-Lund|1867-12-22
+Teddy Kristiansen|1964-01-01
+Jørgen Vig Knudstorp|1968-11-21
+Aage Krarup Nielsen|1891-07-30
+Jonas Dahl|1978-02-26
+Flemming Lund|1952-10-06
+Øystein Slettemark|1967-08-20
+Johannes Wilhjelm|1868-01-07
+Hans L. Martensen|1927-08-07
+Gerda Gilboe|1914-07-05
+Marie Gudme Leth|1895-10-05
+Georg Carstensen|1812-08-31
+Emilie Ulrich|1872-11-26
+Klaus Pagh|1935-07-29
+Claus Schall|1757-04-28
+Klavs Bruun Jørgensen|1974-04-03
+Hans Andresen|1927-10-03
+Adolph Ditlev Jørgensen|1840-06-11
+Mads Hvilsom|1992-08-23
+Bo Hansen|1972-06-16
+Jesper Kristensen|1971-10-09
+K.E. Løgstrup|1905-09-02
+Jeanette Dyrkjær|1963-11-26
+Anker Sørensen|1926-05-03
+Tammi Øst|1958-10-01
+Else Holmelund Minarik|1920-09-13
+Kasper Lunding|1999-07-17
+Christian Hee Hwass|1731-04-24
+Bodil Udsen|1925-01-12
+Mads Johansen Lange|1807-09-18
+Mia Rej|1990-02-02
+H.A. Brendekilde|1857-04-07
+Peter Balling|1990-04-05
+Jannik Pohl|1996-04-06
+Hans Hendrik|1832-06-02
+René Joensen|1993-02-08
+Johann Friderich Clemens|1749-11-29
+Therkel Mathiassen|1892-09-05
+Jens Sørensen|1941-04-04
+Albert af Orlamünde|1184-01-01
+David Kruse|2002-05-15
+Peter Steen|1936-01-22
+Jacob Bagersted|1987-03-25
+Jesper Duus|1967-11-24
+Ole Espersen|1934-12-20
+Mads Pieler Kolding|1988-01-27
+Henriette Engel Hansen|1982-04-15
+Hans Jacobsen|1938-11-29
+Jonas Elmer|1966-03-14
+Gerda Christophersen|1870-03-01
+Peter Hansen|1868-05-13
+Chris Terkelsen|1972-02-16
+Heinrich Hirschsprung|1836-02-07
+Arne Pedersen|1917-09-07
+Kim Magnusson|1965-09-29
+Grete Mogensen|1963-05-15
+Louise Lyksborg|1988-01-17
+Johannes Frederik Frølich|1806-08-21
+Peter Martins|1946-10-27
+Magda von Dolcke|1838-02-28
+Carl Aarsleff|1852-08-14
+Lars Ramkilde Knudsen|1962-02-21
+Olivia Holdt|2001-06-07
+Christian Ingerslev Baastrup|1885-01-24
+Mikkel Hindhede|1862-02-13
+Thorvald Julius Sørensen|1902-07-04
+Fie Woller|1992-09-17
+Kenn Hansen|1980-05-29
+Evan Klamer|1923-01-15
+Pierre Kanstrup|1989-02-21
+Charlotte Munck|1969-12-02
+Louise Bjørnsen|1824-04-09
+Christian Horneman|1765-08-15
+Luka Racic|1999-05-08
+Sophus Mads Jørgensen|1837-07-04
+Simon Steen-Andersen|1976-04-24
+Peter Ryom|1937-05-31
+Kevin Tshiembe|1997-03-31
+Hans Jørn Fogh Olsen|1943-11-16
+C.F. Sørensen|1818-02-08
+Erik Veje Rasmussen|1959-04-09
+Christian Traoré|1982-04-18
+Hans Henrik Andreasen|1979-01-10
+Valdemar Andreasen|2005-01-05
+Hans Christian Lyngbye|1782-06-29
+Else Hammerich|1936-09-07
+Charlotte Christiane von Krogh|1827-02-04
+Michael Larsen|1969-10-16
+Michelle Gatting|1993-12-31
+Michael Hansen|1971-09-22
+Kasper Risgård|1983-01-04
+Carina Christensen|1972-11-08
+Kristian Blak|1947-03-31
+Truid Aagesen|1593-01-01
+Niels Ditlev Riegels|1755-06-27
+Tommy Ahlers|1975-11-18
+Morten Hulgaard|1998-08-23
+Vibeke Kruse|1609-01-01
+Brandur Enni|1989-04-15
+Emanuel Larsen|1823-09-15
+Johannes Iversen|1904-12-27
+Knud Jessen|1884-11-29
+Merete Pedersen|1973-06-30
+Rasmus Videbæk|1973-02-21
+Niels Kaas|1534-01-01
+Hans Pauli Olsen|1957-08-24
+Valdemar Rørdam|1872-09-23
+H.J. Hammer|1815-12-29
+Jakob Ulfeldt|1535-01-01
+Hans-Henrik Krause|1918-03-13
+Martin Hammerich|1811-12-04
+Harald Giersing|1881-04-24
+Eva Fjellerup|1962-04-30
+David Boysen|1991-04-30
+Claus Larsen-Jensen|1953-05-09
+Carl Emil Christiansen|1937-12-31
+Rasmus Lyberth|1951-08-21
+Jane Schumacher|1988-08-27
+Henrik Breiner Pedersen|2004-12-03
+Børge Mogensen|1914-04-13
+William Buick|1988-07-22
+Christina Siggaard|1994-03-24
+Charlotte Sieling|1960-07-13
+Carsten Koch|1945-04-27
+Bjarne Henning-Jensen|1908-10-06
+Rakel Helmsdal|1966-09-25
+Dan Petersen|1972-05-06
+Povl Dissing|1938-01-27
+Carl Rasmussen|1841-08-31
+Bryan Rice|1978-05-29
+Jacob Sørensen|1983-02-12
+Mogens Schou|1918-11-24
+Augusta Dohlmann|1847-05-09
+Hans Tabor|1922-04-25
+Heini Vatnsdal|1991-10-18
+Johan Skjoldborg|1861-04-27
+Gunnar Sommerfeldt|1890-09-04
+Gunnar Lauring|1905-10-31
+Kristiane Konstantin-Hansen|1848-09-16
+Michael Noer|1978-12-27
+Anne-Marie Nielsen|1941-07-11
+Julius Lange|1838-06-19
+Bent Faurschou Hviid|1921-01-07
+Matias Malmberg|2000-08-31
+Emil Reif|1998-03-05
+Carl With|1877-12-11
+Line Arlien-Søborg|1966-07-25
+Malena Josephsen|1977-01-03
+Carl Ottosen|1918-07-19
+Kristian Erslev|1852-12-28
+Anders Hove|1956-01-16
+Mads Nissen|1979-11-17
+Harald T. Friis|1893-02-22
+Niels Peter Høeg Hagen|1877-10-15
+Enrico Dalgas|1828-07-16
+Oscar Fisker Mølgaard|2005-02-18
+Christian Franzen|1864-01-01
+Agon Mucolli|1998-09-26
+Christian Pedersen|1920-09-17
+Marie Askehave|1973-11-21
+Alexander Lynggaard|1990-03-27
+Carl Frederik Blixen Finecke|1822-08-15
+Kim Kold|1965-08-25
+Otto Gelsted|1888-11-04
+Ib Michael|1945-01-17
+Poul la Cour|1846-04-13
+Louise Mieritz|1971-04-30
+Henri Konow|1862-02-07
+Ferdinand Didrichsen|1814-06-03
+Mads Andersen|1995-03-01
+Ib Glindemann|1934-09-27
+Dea Trier Mørch|1941-12-09
+Pele Broberg|1972-11-03
+Andrias Christian Evensen|1874-12-06
+John Price|1913-09-15
+Lykke Friis|1969-10-27
+Lars Aagaard|1967-08-13
+Tobias Storm|2004-07-04
+Daniel Bachmann Andersen|1990-06-01
+Vilhelm Lauritzen|1894-09-10
+Bjørn Bisserup|1960-04-13
+Cecilie Sandvej|1990-06-13
+Johan Rohde|1856-11-01
+Johannes Reinhardt|1778-12-23
+Hanne-Vibeke Holst|1959-02-21
+Georg Christian Freund|1821-02-07
+Adam Müller|1811-08-16
+Janina Katz|1939-03-02
+Andreas Gottlob Rudelbach|1792-09-29
+Henriette Danneskiold-Samsøe|1776-08-12
+Hans Christensen Sthen|1544-12-15
+Kristjan Larsen|1895-02-02
+Sten Ziegler|1950-05-30
+Oliver Effersøe|1863-03-20
+Jonathan Richter|1985-01-16
+Katrin Kallsberg|1967-07-30
+Hasse Pavia Lind|1979-06-10
+Johan Ankerstjerne|1886-01-17
+Jens Vahl|1796-11-27
+Lars Bloch|1938-08-06
+Cæcilia af Danmark|1080-01-01
+Lars Boje Mathiesen|1975-05-21
+Rune RK|1977-02-09
+August Holmgren|1998-04-22
+Henrik Meister|2003-11-17
+Casper Elgaard|1978-04-05
+Jørgen Buckhøj|1935-01-10
+Georg Achen|1860-07-23
+Emma Klingenberg|1992-05-18
+Else Petersen|1910-04-26
+Niels-Christian Holmstrøm|1947-02-23
+Malthe Højholt|2001-04-16
+Torben Grimmel|1975-11-23
+Henning Haslund-Christensen|1896-08-31
+May Lifschitz|1995-05-17
+Niels Laurits Høyen|1798-06-04
+Juliane Elander Rasmussen|1979-02-17
+Anders Bille|1600-03-19
+Ib Friis|1945-01-12
+Birthe Rønn Hornbech|1943-10-18
+Svend Aage Jensby|1940-09-10
+Kenneth Emil Petersen|1985-01-15
+Greta Thyssen|1927-03-30
+Povl Ole Fanger|1934-07-16
+Jonas Troest|1985-03-04
+Jesper Just|1974-06-12
+Steffen Rasmussen|1982-09-30
+Leif Larsen|1942-09-30
+Christen Lauridsen Aagaard|1616-01-27
+Søren Tengstedt|2000-06-30
+Peter Graulund|1976-09-20
+Magnus Troest|1987-06-05
+Emil Højlund|2005-01-04
+Matthias Knutzen|1646-01-01
+Laurits Teodor Christian Larsen|1872-04-08
+Merete Van Kamp|1967-11-17
+Louise Mortensen|1979-12-11
+Egill Jacobsen|1910-12-16
+Bent Schmidt Hansen|1946-11-27
+Ejner Johansson|1922-03-07
+Ejner Federspiel|1896-08-12
+Andreas Schilling|1991-05-25
+Cyron Melville|1984-07-01
+Jakob Egholm|1998-04-27
+Mimi Jakobsen|1948-11-19
+Vilhelm Topsøe|1840-10-05
+Fanny Leander Bornedal|2000-07-24
+Sara Holmgaard|1999-01-28
+Søren Hjorth|1801-10-13
+Mikkel Mac|1992-12-18
+Julius Beck|2005-04-27
+Poul Mathias Thomsen|1955-05-21
+Mads Søgaard|2000-12-13
+Kaj Gottlob|1887-11-09
+Harald Scavenius|1873-05-27
+Johan Cornelius Krieger|1683-01-01
+Flemming Ahlberg|1946-12-23
+Heine Fernandez|1966-07-14
+Finn Henriksen|1933-01-29
+Betty Helsengreen|1914-10-26
+Tommy Kenter|1950-04-15
+Lisbeth Petersen|1939-02-28
+Søren Sørensen|1897-04-20
+Elinborg Lützen|1919-07-26
+Chris Sørensen|1977-07-27
+Peter Faber|1810-10-07
+Puk Scharbau|1969-05-06
+Linse Kessler|1966-03-31
+Rosalinde Mynster|1990-09-28
+Caroline Bohé|1999-07-23
+Evald Tang Kristensen|1843-01-24
+Frederik Ihler|2003-06-25
+William Orlamond|1867-08-01
+Ole Lemmeke|1959-01-10
+Erik Tegner|1896-10-29
+Cecilie Stenspil|1979-10-22
+Hugo Herrestrup|1933-01-29
+Niklas Vesterlund|1999-06-06
+Martin Hansen Thau|1887-07-28
+Tayeb Braikia|1974-03-08
+Julie Rydahl Bukh|1982-01-09
+Erling Jessen|1938-08-31
+Erik Sætter-Lassen|1892-07-15
+Thomas Lund|1968-08-02
+Chris Minh Doky|1969-02-07
+Alan Voskuil|1986-09-10
+Marco Evaristti|1963-01-01
+Poul Michelsen|1944-07-22
+Vilhelm Grønbech|1873-06-14
+Else Roesdahl|1942-02-26
+Astrid Andreasen|1948-07-31
+Mette Abildgaard|1988-10-12
+Lotte Anker|1958-01-01
+Erik Ninn-Hansen|1922-04-12
+Giuseppe Siboni|1780-01-27
+Robin Juel Skivild|2001-08-21
+Nancy Dalberg|1881-07-06
+Angela Bundalovic|1995-07-28
+Emma Hartmann|1807-08-22
+Flemming Quist Møller|1942-05-19
+Mathias Wichmann|1991-08-06
+Edvard Helsted|1816-12-08
+Lennie Kristensen|1968-05-16
+Ferdinand Eckstein|1790-09-01
+Anne Dorte Michelsen|1958-07-17
+Mathias Greve|1995-02-11
+Carsten Thomassen|1948-08-22
+Eline Hansen|1859-10-22
+Anne Iversen|1923-08-12
+Gustav Rasmussen|1895-08-10
+Aage Rou Jensen|1924-09-24
+Erich Christian Werlauff|1781-07-02
+Allan Stig Rasmussen|1983-11-20
+Rasmus Søjberg Pedersen|2002-07-09
+Bernard Peters|1910-01-01
+Josephine Park|1987-04-10
+Inge Genefke|1938-07-06
+Lilian Brøgger|1950-01-27
+Juliane Henningsen|1984-07-29
+Anca Giurchescu|1930-01-01
+Flora Ofelia|2005-07-14
+Michael Madsen|1974-01-24
+Frederik Julius Kaas|1758-08-24
+Carsten Jørgensen|1970-10-25
+Mads Aaquist|1994-12-31
+Juliane Marie Jessen|1760-02-11
+Ejnar Nielsen|1872-07-09
+Erlendur Patursson|1913-08-20
+C.C. Møller|1823-06-02
+Sys Bjerre|1985-05-15
+Christine Stampe|1797-04-20
+Mette Sørensen|1975-05-28
+Elvi Svendsen|1920-01-08
+Filip Bundgaard|2004-07-03
+Thomas Villadsen|1984-09-04
+Emil Hass Christensen|1903-01-23
+Carl Thomsen|1847-04-06
+Erik Kjeldsen|1890-10-20
+Lone Smidt Nielsen|1961-01-01
+Cathrine Paaske Sørensen|1978-06-14
+Kate Hall|1983-05-21
+Rasmus Thellufsen|1997-01-09
+Jens Madsen Hajslund|1877-05-29
+Anthonore Christensen|1849-07-05
+Eva Johansson|1958-02-25
+Johann Georg Ziesenis|1716-09-01
+Rikke Olsen|1975-04-19
+Anosike Ementa|2002-05-03
+Arne Melchior|1924-10-22
+Per Kjærgaard Nielsen|1955-01-31
+H.A. Flindt|1822-04-24
+Joel Felix|1998-01-13
+Lucas Lund Pedersen|2000-03-19
+Søren Gyldendal|1742-04-12
+Lotte Tarp|1945-02-14
+Emil Holten|1996-08-08
+Lone Frank|1966-09-28
+Elisabeth Johansen|1907-08-01
+Erling Sørensen|1920-10-29
+Tove Fergo|1946-09-24
+Christian af Hessen-Kassel|1776-08-14
+Amalie Thestrup|1995-03-17
+Tim Christensen|1974-07-02
+Marcus Mølvadgaard|1999-08-03
+Marie Hammer|1907-03-20
+Maiken Pape|1978-02-20
+Master Fatman|1965-09-23
+Torbjørn Sindballe|1976-10-21
+Johan Wohlert|1976-03-10
+Adolph Hannover|1814-11-24
+Christian Høgni Jacobsen|1980-05-12
+Theodor Olshausen|1802-06-19
+Kirsten Walther|1933-08-31
+Line Damkjær Kruse|1988-01-07
+Pros Mund|1589-01-01
+Julie Ølgaard|1981-09-29
+Frede Blaabjerg|1963-05-06
+Axel Urup|1601-09-13
+Jens Rosing|1925-07-28
+Gustav Wang|2003-03-13
+Tine Bryld|1939-12-18
+Hans Edvard Nørregård-Nielsen|1945-01-02
+Anders Bærtelsen|2000-05-09
+Finn Døssing|1941-04-27
+Cornelia Kramer|2002-12-16
+Steen Andersen Bille|1751-08-22
+Jakob Martin Strid|1972-12-07
+Holger Hansen|1929-05-16
+Tine Lindhardt|1957-11-16
+Jonas Haas|1720-01-01
+Mie Bekker Lacota|1988-11-10
+Daniel A. Pedersen|1992-07-27
+Jette Bang|1914-02-04
+Christiane Reimann|1888-05-06
+Fanny Jensen|1890-10-11
+Preben Harris|1935-03-30
+Thomas Thorninger|1972-10-20
+Ann-Lou Jørgensen|1977-06-12
+Mark Brink|1998-03-15
+Nikolai Terteryan|2001-06-19
+Lene Nielsen|1986-08-31
+Adeline Genée|1878-01-06
+Poul Müller|1909-12-31
+Jette Albinus|1966-04-08
+Jessica Dinnage|1993-10-22
+Jonas Mortensen|2001-01-16
+Vello Helk|1923-09-23
+Poul Møller|1919-10-13
+Morten Breum|1982-05-26
+Gunnar Aaby|1895-07-09
+Jacob Trenskow|2000-11-26
+Johan Sigismund von Møsting|1759-11-02
+Frederik Jacobsen|1876-09-12
+Peter Cornelius|1865-01-04
+Jørgen Nash|1920-03-16
+Frederik Storch|1805-07-21
+Lasse Sørensen|1999-10-21
+Ingeborg Hansen|1886-02-17
+Pia Gjellerup|1959-08-22
+Søren Hansen|1974-03-21
+Hardenack Otto Conrad Zinck|1746-07-02
+Carl Deichman|1700-01-01
+Helle Degn|1946-10-20
+Joel Ibler Lillesø|2003-11-17
+Vilhelm Dahlerup|1836-08-04
+Cecilie Greve|1992-01-19
+Bo Skovhus|1962-05-22
+Nick Olesen|1995-11-14
+Anne Holm|1922-09-10
+Lars Otto Olsen|1965-06-29
+Kurt vid Stein|1935-11-17
+Hans Bøchmann Melchior|1773-05-14
+Claus Ryskjær|1945-06-26
+Jørn Bjerregaard|1943-01-19
+Jan Sonnergaard|1963-08-15
+Kasper Povlsen|1989-09-26
+Claus Meyer|1963-12-27
+Ib Mossin|1933-07-03
+Axel Strøbye|1928-02-22
+Pia Christmas-Møller|1961-01-21
+Anton Rosen|1859-09-13
+Patrick Kristensen|1987-04-28
+Hans Engell|1948-10-08
+Morten Nielsen|1990-02-24
+Malene Degn|1996-12-02
+Claus Enevold Pors|1683-02-18
+Claus Bech Jørgensen|1976-04-27
+Henrik Høegh|1952-01-25
+Henrik Lundgaard|1969-02-26
+Knuth Becker|1891-01-21
+Jonas Borring|1985-01-04
+Henrik Nielsen|1965-03-29
+Erik Rasmussen|1960-12-24
+Barack Obama|1961-08-04
+Donald J. Trump|1946-06-14
+William Shakespeare|1564-04-01
+Adolf Hitler|1889-04-20
+Michael Jackson|1958-08-29
+Albert Einstein|1879-03-14
+Vladimir Putin|1952-10-07
+Karl Marx|1818-05-05
+Leonardo da Vinci|1452-04-24
+Ronald Reagan|1911-02-06
+Isaac Newton|1643-01-04
+Vladimir Lenin|1870-04-22
+Abraham Lincoln|1809-02-12
+Nelson Mandela|1918-07-18
+Mahatma Gandhi|1869-10-02
+Lev Tolstoj|1828-09-09
+George W. Bush|1946-07-06
+Josef Stalin|1878-12-18
+Charles Darwin|1809-02-12
+Johann Wolfgang von Goethe|1749-08-28
+Joe Biden|1942-11-20
+George Washington|1732-02-22
+Ludwig van Beethoven|1770-12-16
+Wolfgang Amadeus Mozart|1756-01-27
+Dante Alighieri|1265-01-01
+Galileo Galilei|1564-02-25
+Victor Hugo|1802-02-26
+Vincent van Gogh|1853-03-30
+Winston Churchill|1874-11-30
+Pablo Picasso|1881-10-25
+Charlie Chaplin|1889-04-16
+Martin Luther|1483-11-19
+Michelangelo|1475-03-15
+Johann Sebastian Bach|1685-03-31
+Fjodor Dostojevskij|1821-11-11
+Voltaire|1694-11-21
+Friedrich Nietzsche|1844-10-15
+Thomas Edison|1847-02-11
+Immanuel Kant|1724-04-22
+René Descartes|1596-03-31
+Sigmund Freud|1856-05-06
+Kemal Atatürk|1881-01-01
+Mark Twain|1835-11-30
+John F. Kennedy|1917-05-29
+Martin Luther King|1929-01-15
+Miguel de Cervantes|1547-10-09
+Charles Dickens|1812-02-07
+Franklin D. Roosevelt|1882-01-30
+Marie Curie|1867-11-07
+Rabindranath Tagore|1861-05-07
+Salvador Dali|1904-05-11
+Aleksandr Pusjkin|1799-06-06
+Bill Gates|1955-10-28
+Christoffer Columbus|1451-01-01
+Marilyn Monroe|1926-06-01
+Franz Kafka|1883-07-03
+Anton Tjekhov|1860-01-29
+Pave Frans|1936-12-17
+Shakira|1977-02-02
+Jimmy Wales|1966-08-07
+Jean-Jacques Rousseau|1712-06-28
+Mao Zedong|1893-12-26
+Steve Jobs|1955-02-24
+Lionel Messi|1987-06-24
+Che Guevara|1928-06-14
+Adam Smith|1723-06-01
+Corbin Bleu|1989-02-21
+Edgar Allan Poe|1809-01-19
+Thomas Jefferson|1743-04-13
+Bill Clinton|1946-08-19
+Oscar Wilde|1854-10-16
+Angela Merkel|1954-07-17
+Charles de Gaulle|1890-11-22
+Nikola Tesla|1856-07-10
+Basshunter|1984-12-22
+Neil Armstrong|1930-08-05
+Otto von Bismarck|1815-04-01
+Lord Byron|1788-01-22
+Walt Disney|1901-12-05
+Benjamin Franklin|1706-01-17
+Elvis Presley|1935-01-08
+Volodymyr Zelenskyj|1978-01-25
+Carl von Linné|1707-05-23
+Cristiano Ronaldo|1985-02-05
+Nicolaus Kopernikus|1473-02-28
+Marco Polo|1254-09-22
+Louis Pasteur|1822-12-27
+George Orwell|1903-06-25
+John Locke|1632-09-08
+Margaret Thatcher|1925-10-13
+James Joyce|1882-02-02
+Ernest Hemingway|1899-07-21
+Djengis Khan|1162-06-07
+Fidel Castro|1926-08-13
+Thomas Aquinas|1225-01-01
+Gottfried Wilhelm Leibniz|1646-07-01
+Richard Wagner|1813-05-22
+Rembrandt van Rijn|1606-07-15
+J.R.R. Tolkien|1892-01-03
+Jurij Gagarin|1934-03-09
+Jane Austen|1775-12-16
+Albert Camus|1913-11-07
+Henry Ford|1863-07-30
+Marlene Dietrich|1901-12-27
+Elon Musk|1971-06-28
+Emmanuel Macron|1977-12-21
+Jean-Paul Sartre|1905-06-21
+Matsuo Basho|1644-01-01
+Stephen Hawking|1942-01-08
+Mikhail Gorbatjov|1931-03-02
+Benito Mussolini|1883-07-29
+Carl Friedrich Gauss|1777-04-30
+Friedrich Engels|1820-11-28
+Moder Teresa|1910-08-26
+Harry S. Truman|1884-05-08
+Jimmy Carter|1924-10-01
+Frédéric Chopin|1810-03-01
+Le Corbusier|1887-10-06
+Frida Kahlo|1907-07-06
+Agatha Christie|1890-09-15
+Hillary Clinton|1947-10-26
+Lady Gaga|1986-03-28
+George H.W. Bush|1924-06-12
+Jeanne d'Arc|1412-01-01
+Ferdinand Magellan|1480-01-01
+Theodore Roosevelt|1858-10-27
+Blaise Pascal|1623-06-19
+Georg Wilhelm Friedrich Hegel|1770-08-27
+Raffaello Santi|1483-04-06
+Sarah Bernhardt|1844-10-23
+Madonna|1958-08-16
+Kamala Harris|1964-10-20
+Jorge Luis Borges|1899-08-24
+Jawaharlal Nehru|1889-11-14
+Nicolas Sarkozy|1955-01-28
+Alfred Nobel|1833-10-21
+Richard Nixon|1913-01-09
+Xi Jinping|1953-06-15
+Pjotr Iljitj Tjajkovskij|1840-05-07
+Alan Turing|1912-06-23
+Marcel Proust|1871-07-10
+Dwight D. Eisenhower|1890-10-14
+Leonhard Euler|1707-04-15
+Woodrow Wilson|1856-12-28
+Rosa Luxemburg|1871-03-05
+Roald Amundsen|1872-07-16
+Rudyard Kipling|1865-12-30
+Jules Verne|1828-02-08
+Naruhito af Japan|1960-02-23
+Alfred Hitchcock|1899-08-13
+Noam Chomsky|1928-12-07
+Albrecht Dürer|1471-05-30
+Simone de Beauvoir|1908-01-09
+Victor Aadal|1883-06-05
+Francisco Goya|1746-03-30
+John Adams|1735-10-30
+Francis Bacon|1561-02-01
+Bertrand Russell|1872-05-18
+Johannes Kepler|1572-01-06
+George Bernard Shaw|1856-07-26
+Muammar Gaddafi|1942-06-19
+John Lennon|1940-10-09
+James Cook|1728-10-27
+Lev Trotskij|1879-11-07
+Muhammad Ali|1942-01-17
+Bob Dylan|1941-05-24
+Pelé|1940-10-23
+Sung Jae-ki|1967-09-11
+Vasco da Gama|1469-01-01
+Max Karl Ernst Ludwig Planck|1858-04-23
+Peter den Store|1672-06-09
+J.K. Rowling|1965-07-31
+Johann Gutenberg|1400-01-01
+Friedrich Schiller|1759-11-10
+Arthur Conan Doyle|1859-05-22
+Henri Matisse|1869-12-31
+Maksim Gorkij|1868-03-28
+Dmitrij Mendelejev|1834-02-08
+Geoffrey Chaucer|1343-01-01
+Michael Faraday|1791-09-22
+Justin Bieber|1994-03-01
+Giuseppe Verdi|1813-10-10
+Taylor Swift|1989-12-13
+Frank Lloyd Wright|1867-06-08
+Andy Warhol|1928-08-06
+Beyoncé Knowles|1981-09-04
+Charles Baudelaire|1821-04-09
+Louis Armstrong|1901-08-04
+Osama bin Laden|1957-03-10
+Kofi Annan|1938-04-08
+Baruch de Spinoza|1632-11-24
+James Madison|1751-03-16
+Selena Gomez|1992-07-22
+Honoré de Balzac|1799-05-20
+Arthur Schopenhauer|1788-02-22
+Victoria af Storbritannien|1819-05-24
+Kim Jong-un|1984-01-08
+Virginia Woolf|1882-01-25
+Hokusai|1760-10-31
+Akira Kurosawa|1910-03-23
+Lyndon B. Johnson|1908-08-27
+Freddie Mercury|1946-09-05
+Diego Maradona|1960-10-30
+Peter Paul Rubens|1577-07-08
+Ludwig Wittgenstein|1889-04-26
+Gerald Ford|1913-07-14
+Narendra Modi|1950-09-17
+Ernest Rutherford|1871-08-30
+Indira Gandhi|1917-11-19
+Eminem|1972-10-17
+Franz Schubert|1797-01-31
+Max Weber|1864-04-21
+Angelina Jolie|1975-06-04
+Naguib Mahfouz|1911-12-11
+Enrico Fermi|1901-09-29
+Rafael Correa|1963-04-06
+Benjamin Netanyahu|1949-10-21
+Saddam Hussein|1937-04-28
+Aung San Suu Kyi|1945-06-19
+Henrik Ibsen|1828-03-20
+Anne Frank|1929-06-12
+Michael Schumacher|1969-01-03
+Huang Xian-fan|1899-11-13
+Nikita Khrusjtjov|1894-04-15
+Steven Spielberg|1946-12-18
+Antoine de Saint-Exupéry|1900-06-29
+Tenzin Gyatso|1935-07-06
+Dmitrij Medvedev|1965-09-14
+Helen Keller|1880-06-27
+Mark Zuckerberg|1984-05-14
+Akbar den Store|1542-10-25
+Bruce Lee|1940-11-27
+Anna Netrebko|1971-09-18
+H.G. Wells|1866-09-21
+Antonio Vivaldi|1678-03-04
+Pablo Neruda|1904-07-12
+Heinrich Heine|1797-12-13
+Igor Stravinskij|1882-06-17
+Émile Zola|1840-04-02
+Thomas Mann|1875-06-06
+Ibn Khaldun|1332-06-04
+Rafael Orozco Maestre|1954-03-24
+Ibn Battuta|1304-03-03
+John Quincy Adams|1767-07-11
+Francesco Petrarca|1304-07-28
+Erwin Schrödinger|1887-08-12
+Andrew Jackson|1767-03-15
+Ingmar Bergman|1918-07-14
+Bob Marley|1945-02-06
+David Hilbert|1862-01-23
+Hermann Hesse|1877-07-02
+Silvio Berlusconi|1936-09-29
+Herbert Hoover|1874-08-10
+Shinzo Abe|1954-09-21
+Tim Berners-Lee|1955-06-08
+Hafez|1325-01-01
+Céline Dion|1968-03-30
+Isaac Asimov|1920-01-02
+Federico Fellini|1920-01-20
+Charles-Louis de Secondat Montesquieu|1689-01-18
+Jackie Chan|1954-04-07
+James Clerk Maxwell|1831-06-13
+Robin Williams|1951-07-21
+Kim Il-sung|1912-04-15
+Roger Federer|1981-08-08
+Jacques Cartier|1492-01-09
+Jonathan Swift|1667-11-30
+Boris Jeltsin|1931-02-01
+Johannes Brahms|1833-05-07
+Georg Friedrich Händel|1685-03-05
+William Blake|1757-11-28
+Mahathir bin Mohamad|1925-07-10
+Ulysses S. Grant|1822-04-27
+Thomas Hobbes|1588-04-05
+Octave Mirbeau|1848-02-16
+Anatole France|1844-04-16
+Guillermo Lasso.|1955-11-16
+Lana Del Rey|1985-06-21
+Calvin Coolidge|1872-07-04
+Alexander Graham Bell|1847-03-03
+Jacques Chirac|1932-11-29
+Neymar|1992-02-05
+Gustave Flaubert|1821-12-12
+Jalal ad-Din Rumi|1207-09-30
+Timur Lenk|1336-04-17
+James Watt|1736-01-19
+T.S. Eliot|1888-09-26
+Aleksandr Solsjenitsyn|1918-12-11
+Rihanna|1988-02-20
+Richard Feynman|1918-05-11
+Stanley Kubrick|1928-07-26
+Kwame Nkrumah|1909-09-21
+Joseph Haydn|1732-03-31
+David Hume|1711-05-07
+Marlon Brando|1924-04-03
+Claude Monet|1840-11-14
+Malala Yousafzai|1997-07-12
+James Monroe|1758-04-28
+Scarlett Johansson|1984-11-22
+Wilhelm Conrad Röntgen|1845-03-27
+Kahlil Gibran|1883-01-06
+Greta Thunberg|2003-01-03
+Aleksandr Lukasjenka|1954-08-30
+Woody Allen|1935-11-30
+Lewis Carroll|1832-01-27
+Nikolaj Gogol|1809-04-01
+Hirohito|1901-04-29
+Rafael Nadal|1986-06-03
+Ralph Waldo Emerson|1803-05-25
+Bertolt Brecht|1898-02-10
+Tony Blair|1953-05-06
+Erasmus af Rotterdam|1466-11-06
+Saladin|1138-01-01
+Guy de Maupassant|1850-08-05
+John Milton|1608-12-09
+Arnold Schwarzenegger|1947-07-30
+Selma Lagerlöf|1858-11-20
+Novak Djokovic|1987-05-22
+Yasser Arafat|1929-08-04
+Linus Torvalds|1969-12-28
+Audrey Hepburn|1929-05-04
+Sun Yat-sen|1866-11-12
+Vladimir Nabokov|1899-04-22
+Zheng He|1371-01-01
+Robert Louis Stevenson|1850-11-13
+William Butler Yeats|1865-06-13
+Judy Garland|1922-06-10
+Prinsesse Diana|1961-07-01
+Ivan Turgenev|1818-11-09
+Gustav Mahler|1860-07-07
+Ho Chi Minh|1890-05-19
+Carl Gustav Jung|1875-07-26
+David Cameron|1966-10-09
+Florence Nightingale|1820-05-12
+Ban Ki-moon|1944-06-13
+Brigitte Bardot|1934-09-28
+John Stuart Mill|1806-05-20
+Bashar al-Assad|1965-09-11
+Giovanni Boccaccio|1313-01-01
+Hebe Camargo|1929-03-08
+Boris Johnson|1964-06-19
+Umberto Eco|1932-01-05
+Anggun|1974-04-29
+Giordano Bruno|1548-01-01
+Jair Bolsonaro|1955-03-21
+Benazir Bhutto|1953-06-21
+Leonardo DiCaprio|1974-11-11
+Jim Morrison|1943-12-08
+Martin Heidegger|1889-09-26
+Denis Diderot|1713-10-05
+Eleanor Roosevelt|1884-10-11
+John Steinbeck|1902-02-27
+B. R. Ambedkar|1891-04-14
+Johnny Depp|1963-06-09
+Paul McCartney|1942-06-18
+Walt Whitman|1819-05-31
+William Faulkner|1897-09-25
+Agnes Monica|1986-07-01
+James A. Garfield|1831-11-19
+Brad Pitt|1963-12-18
+Sergej Eisenstein|1898-01-22
+Stephen King|1947-09-21
+William H. Taft|1857-09-15
+Britney Spears|1981-12-02
+Emily Dickinson|1830-12-10
+Elizabeth Taylor|1932-02-27
+Zinedine Zidane|1972-06-23
+Giacomo Puccini|1858-12-22
+Theresa May|1956-10-01
+Konrad Adenauer|1876-01-05
+Maya Angelou|1928-04-04
+Ghazzali|1058-01-01
+Jean de La Fontaine|1621-07-08
+Martin Van Buren|1782-12-05
+Grover Cleveland|1837-03-18
+Édith Piaf|1915-12-19
+John Keats|1795-10-31
+Sean Connery|1930-08-25
+Carl Sagan|1934-11-09
+Jack London|1876-01-12
+Emma Watson|1990-04-15
+Henry David Thoreau|1817-07-12
+Mahmoud Ahmadinejad|1956-10-28
+André Gide|1869-11-22
+Andrew Johnson|1808-12-29
+James Polk|1795-11-02
+Warren Buffett|1930-08-30
+James Buchanan|1791-04-23
+Satyajit Ray|1921-05-02
+Arthur Rimbaud|1854-10-20
+Bhumibol Adulyadej|1927-12-05
+Daniel Defoe|1660-01-01
+Zachary Taylor|1784-11-24
+Ariana Grande|1993-06-26
+Henry Kissinger|1923-05-27
+Pearl S. Buck|1892-06-26
+Miley Cyrus|1992-11-23
+Aldous Huxley|1894-07-26
+Mikhail Bakunin|1814-05-30
+John Tyler|1790-03-29
+Boris Pasternak|1890-02-10
+Paul Cézanne|1839-01-19
+Georges Pompidou|1911-07-05
+Percy Bysshe Shelley|1792-08-04
+Warren G. Harding|1865-11-02
+William McKinley|1843-01-29
+Werner Heisenberg|1901-12-05
+Justin Trudeau|1971-12-25
+Romain Rolland|1866-01-29
+Rishi Sunak|1980-05-12
+Robert De Niro|1943-08-17
+Michael Jordan|1963-02-17
+Millard Fillmore|1800-01-07
+Ludwik Lejzer Zamenhof|1859-12-15
+Alexander von Humboldt|1769-09-14
+William Wordsworth|1770-04-07
+Bernie Sanders|1941-09-08
+Rutherford B. Hayes|1822-10-04
+Samuel Beckett|1906-04-13
+Frans af Assisi|1182-07-01
+Joseph Goebbels|1897-10-29
+Michel de Montaigne|1533-03-10
+David Beckham|1975-05-02
+William Henry Harrison|1773-02-09
+Alain Delon|1935-11-08
+Henryk Sienkiewicz|1846-05-05
+Frank Sinatra|1915-12-12
+Richard M. Stallman|1953-03-16
+Franklin Pierce|1804-11-23
+George Eliot|1819-11-22
+Swami Vivekananda|1863-01-12
+Robert Mugabe|1924-02-21
+Katy Perry|1984-10-25
+Walter Scott|1771-08-15
+Leonid Bresjnev|1906-12-19
+Sinan|1490-01-01
+Taras Sjevtjenko|1814-03-09
+Benjamin Disraeli|1804-12-21
+Natalie Portman|1981-06-09
+Orhan Pamuk|1952-06-07
+Deng Xiaoping|1904-08-22
+Chiang Kai-shek|1887-10-31
+Avril Lavigne|1984-09-27
+Michelle Obama|1964-01-17
+Henri Bergson|1859-10-18
+Ferdinand Marcos|1917-09-11
+Jennifer Lopez|1969-07-24
+Clint Eastwood|1930-05-31
+Usain Bolt|1986-08-21
+Alexander Fleming|1881-08-06
+Whitney Houston|1963-08-09
+George Sand|1804-07-01
+Tom Hanks|1956-07-09
+Dilma Rousseff|1947-12-14
+Will Smith|1968-09-25
+Adele|1988-05-05
+Benjamin Harrison|1833-08-20
+Shah Rukh Khan|1965-11-02
+Julian Assange|1971-07-03
+Hosni Mubarak|1928-05-04
+Günter Grass|1927-10-16
+David Bowie|1947-01-08
+Jean Calvin|1509-07-20
+Stendhal|1783-01-23
+Richard Dawkins|1941-03-26
+James Prescott Joule|1818-12-24
+José Saramago|1922-11-16
+Jimi Hendrix|1942-11-27
+Milton Friedman|1912-07-31
+Tupac Shakur|1971-06-16
+Oprah Winfrey|1954-01-29
+Al Gore|1948-03-31
+Kim Jong-il|1941-02-16
+Rainer Maria Rilke|1875-12-04
+Ada Lovelace|1815-12-10
+Hector Berlioz|1803-12-11
+Edmund Hillary|1919-07-20
+Marie-Antoinette|1755-11-02
+Malcolm X|1925-05-19
+Thomas Paine|1737-02-09
+Gregor Mendel|1822-07-20
+Al Pacino|1940-04-25
+Mary Shelley|1797-08-30
+Samuel Johnson|1709-09-18
+Toni Morrison|1931-02-18
+Knut Hamsun|1859-08-04
+Luigi Pirandello|1867-06-28
+Meryl Streep|1949-06-22
+Bradley Cooper|1975-01-05
+Demi Lovato|1992-08-20
+David Ben-Gurion|1886-10-16
+Doris Lessing|1919-10-22
+Paul Gauguin|1848-06-07
+George Lucas|1944-05-14
+Kylian Mbappé|1998-12-20
+Cate Blanchett|1969-05-14
+Giuseppe Garibaldi|1807-07-04
+Nicole Kidman|1967-06-20
+Paulo Coelho|1947-08-24
+Kate Winslet|1975-10-05
+Francisco Franco|1892-12-04
+Jean Auguste Dominique Ingres|1780-08-29
+Aleksej Navalnyj|1976-06-04
+Auguste Comte|1798-01-19
+Thomas More|1478-02-16
+Joseph Fourier|1768-03-21
+Chester A. Arthur|1829-10-05
+Douglas Adams|1952-03-11
+Ruhollah Khomeini|1900-05-17
+Sophia Loren|1934-09-20
+Maximilien Robespierre|1758-05-06
+C.S. Lewis|1898-11-29
+Pierre Curie|1859-05-15
+Joseph Conrad|1857-12-03
+Anna Akhmatova|1889-06-23
+Valentina Teresjkova|1937-03-06
+Katharine Hepburn|1907-05-12
+Maurice Maeterlinck|1862-08-29
+John McCain|1936-08-29
+Julia Roberts|1967-10-28
+Claude Debussy|1862-08-22
+Herman Melville|1819-08-01
+Gwyneth Paltrow|1972-09-27
+Pol Pot|1925-05-19
+Mary Wollstonecraft|1759-04-27
+Henri Poincaré|1854-04-29
+Auguste Rodin|1840-11-12
+Zhu Xi|1130-10-25
+Leonard Cohen|1934-09-21
+Robert Schumann|1810-06-08
+Christina Aguilera|1980-12-18
+Rosa Parks|1913-02-04
+Amy Winehouse|1983-09-14
+Charlotte Rampling|1946-02-05
+Mario Vargas Llosa|1936-03-28
+Karl Popper|1902-07-28
+Guglielmo Marconi|1874-04-25
+J. Robert Oppenheimer|1904-04-22
+Ilham Aliyev|1961-12-24
+Josip Broz Tito|1892-05-07
+Haruki Murakami|1949-01-12
+Ellen Johnson Sirleaf|1938-10-29
+Wangari Maathai|1940-04-01
+Akihito|1933-12-23
+Adam Mickiewicz|1798-12-24
+Salman Rushdie|1947-06-19
+Jack Nicholson|1937-04-22
+Helmut Kohl|1930-04-03
+Achmed Sukarno|1901-06-06
+Sandra Bullock|1964-07-26
+Michel Foucault|1926-10-15
+Antoine Lavoisier|1743-08-26
+Gamal Abdel Nasser|1918-01-15
+Kurt Cobain|1967-02-20
+Johan Cruyff|1947-04-25
+Robert Frost|1874-03-26
+Giorgia Meloni|1977-01-15
+Valerij Leontjev|1949-03-19
+Jennifer Aniston|1969-02-11
+Tom Cruise|1962-07-03
+Arthur C. Clarke|1917-12-16
+Nadine Gordimer|1923-11-20
+Morgan Freeman|1937-06-01
+Mikhail Jurjevitj Lermontov|1814-10-15
+Gordon Brown|1951-02-20
+Shimon Peres|1923-08-02
+George Clooney|1961-05-06
+Emma Goldman|1869-06-27
+Lu Xun|1881-09-25
+Pierre-Simon Laplace|1749-03-23
+Alice Munro|1931-07-10
+Herta Müller|1953-08-17
+Serena Williams|1981-09-26
+Olaf Scholz|1958-06-14
+Antonio Gramsci|1891-01-22
+Hannah Arendt|1906-10-14
+Ivan Bunin|1870-10-22
+Steven Seagal|1952-04-10
+Anwar Sadat|1918-12-25
+Stefan Zweig|1881-11-28
+Jim Carrey|1962-01-17
+Chris Pratt|1979-06-21
+Amelia Earhart|1897-07-24
+Elfriede Jelinek|1946-10-20
+Franz Liszt|1811-10-22
+Billie Eilish|2001-12-18
+Leonardo da Pisa|1170-01-01
+Francesco Totti|1976-09-27
+Sylvester Stallone|1946-07-06
+Andrew Garfield|1983-08-20
+Kawabata Yasunari|1899-06-11
+Theodor Mommsen|1817-11-30
+Joseph Brodsky|1940-05-24
+Mariah Carey|1969-03-27
+Dolly Parton|1946-01-19
+Gabriela Mistral|1889-04-07
+Ayn Rand|1905-02-02
+Jeremy Renner|1971-01-07
+Bjørnstjerne Bjørnson|1832-12-08
+Amitabh Bachchan|1942-10-11
+Oliver Cromwell|1599-05-05
+Robert Koch|1843-12-11
+Erich Maria Remarque|1898-06-22
+William James|1842-01-11
+George Harrison|1943-02-25
+Émile Durkheim|1858-04-15
+Ingrid Bergman|1915-08-29
+Ronaldo|1976-09-18
+Ivan Pavlov|1849-09-26
+Keir Starmer|1962-09-02
+Russell Crowe|1964-04-07
+Lope de Vega|1562-12-05
+Coco Chanel|1883-08-19
+Paul Adrien Maurice Dirac|1902-08-08
+Dag Hammarskjöld|1905-07-29
+Felix Mendelssohn|1809-02-03
+Vladimir Majakovskij|1893-07-19
+Quentin Tarantino|1963-03-27
+Jane Goodall|1934-04-03
+Willy Brandt|1913-12-18
+Selena|1971-04-16
+Frédéric Mistral|1830-09-08
+Robert Burns|1759-01-25
+Sully Prudhomme|1839-03-16
+Keanu Reeves|1964-09-02
+Edmund Burke|1729-01-12
+Frederik den Store|1712-01-24
+Gerhard Schröder|1944-04-07
+Samuel Taylor Coleridge|1772-10-21
+Francis Scott Fitzgerald|1896-09-24
+Hassan Rohani|1948-11-12
+Kylie Minogue|1968-05-28
+Lee Kuan Yew|1923-09-16
+Salvador Allende|1908-06-26
+Svetlana Aleksijevitj|1948-05-31
+Bing Crosby|1903-05-03
+Gerhart Hauptmann|1862-11-15
+Joko Widodo|1961-06-21
+Alexander Pope|1688-05-31
+Jane Fonda|1937-12-21
+Nostradamus|1503-12-24
+Jennifer Lawrence|1990-08-15
+Francis Drake|1540-01-01
+Albert Schweitzer|1875-01-14
+Petro Porosjenko|1965-09-26
+Kurt Vonnegut|1922-11-11
+John von Neumann|1903-12-28
+John Wayne|1907-05-26
+Muhammad Yunus|1940-06-28
+Octavio Paz|1914-03-31
+Sigourney Weaver|1949-10-08
+Jean Cocteau|1889-07-05
+Hu Jintao|1942-12-21
+Anthony Hopkins|1937-12-31
+Evo Morales|1959-10-26
+Mikheil Saakasjvili|1967-12-21
+Saul Bellow|1915-06-10
+Melania Trump|1970-04-26
+Rowan Atkinson|1955-01-06
+John Galsworthy|1867-08-14
+Christiaan Huygens|1629-04-14
+Heinrich Himmler|1900-10-07
+Nicolas Cage|1964-01-07
+Halle Berry|1966-08-14
+Mila Kunis|1983-08-14
+Desmond Tutu|1931-10-07
+Liz Truss|1975-07-26
+Ursula von der Leyen|1958-10-08
+Joseph John Thomson|1856-12-18
+Cher|1946-05-20
+Augusto Pinochet|1915-11-25
+Herbert Spencer|1820-04-27
+Penélope Cruz|1974-04-28
+Peter Kropotkin|1842-12-09
+Grazia Deledda|1871-09-27
+Max Born|1882-12-11
+Grace Kelly|1929-11-12
+Thomas Hardy|1840-06-02
+James Cameron|1954-08-16
+Anatolij Solovjanenko|1932-09-25
+Thomas Carlyle|1795-12-04
+Sinclair Lewis|1885-02-07
+Neville Chamberlain|1869-03-18
+Garri Kasparov|1963-04-13
+Edvard Munch|1863-12-12
+Heinrich Böll|1917-12-21
+Jet Li|1963-04-26
+Tom Holland|1996-06-01
+Ray Bradbury|1920-08-22
+Saadi|1210-01-01
+Harriet Beecher-Stowe|1811-06-14
+Mel Gibson|1956-01-03
+Mike Pence|1959-06-07
+Jean Racine|1639-12-22
+Suharto|1921-06-08
+Viktor Janukovitj|1950-07-09
+Humphrey Bogart|1899-12-25
+Kazuo Ishiguro|1954-11-08
+Edgar Degas|1834-07-19
+Charlize Theron|1975-08-07
+Ariel Sharon|1928-02-26
+William Golding|1911-09-19
+Astrid Lindgren|1907-11-14
+Mikhail Bulgakov|1891-05-15
+Johnny Cash|1932-02-26
+Michelle Bachelet|1951-09-29
+Jodie Foster|1962-11-19
+Alfred Tennyson|1809-08-06
+Elton John|1947-03-25
+Sigrid Undset|1882-05-20
+Jackson Pollock|1912-01-28
+Paul Verlaine|1844-03-30
+Mikhail Sjolokhov|1905-05-24
+G.K. Chesterton|1874-05-29
+Alessandro Volta|1745-02-18
+August Strindberg|1849-01-22
+Édouard Manet|1832-01-23
+Josh Duhamel|1972-11-14
+Sergio Mattarella|1941-07-23
+John Maxwell Coetzee|1940-02-09
+Hendrik Antoon Lorentz|1853-07-18
+Mohamed Mursi|1951-08-08
+Edward Snowden|1983-06-21
+Pervez Musharraf|1943-08-11
+Lewis Hamilton|1985-01-07
+Giovanni Pierluigi da Palestrina|1525-01-01
+Elisha Cuthbert|1982-11-30
+Luciano Pavarotti|1935-10-12
+Fernando Alonso|1981-07-29
+Liu Xiaobo|1955-12-28
+Aretha Franklin|1942-03-25
+Bruce Willis|1955-03-19
+Rosalind Franklin|1920-07-25
+Harrison Ford|1942-07-13
+Chris Pine|1980-08-26
+John Travolta|1954-02-18
+Greta Garbo|1905-09-18
+Vladimir Vysotskij|1938-01-25
+H.P. Lovecraft|1890-08-20
+Marine Le Pen|1968-08-05
+Nathaniel Hawthorne|1804-07-04
+C.V. Raman|1888-11-07
+Ivan den Grusomme|1530-09-04
+John Ruskin|1819-02-08
+J.D. Salinger|1919-01-01
+Valéry Giscard d'Estaing|1926-02-02
+Bobby Fischer|1943-03-09
+Jeff Bezos|1964-01-12
+Nicki Minaj|1982-12-08
+Manmohan Singh|1932-09-26
+Ringo Starr|1940-07-07
+Haile Selassie|1892-07-23
+Milan Kundera|1929-04-01
+Aishwarya Rai|1973-11-01
+Robert Boyle|1627-01-25
+Henry Wadsworth Longfellow|1807-02-27
+Franz Beckenbauer|1945-09-11
+Kobe Bryant|1978-08-23
+Alexis de Tocqueville|1805-07-29
+Pierre de Coubertin|1863-01-01
+Caravaggio|1571-10-09
+Johannes Vermeer|1632-10-01
+Frank-Walter Steinmeier|1956-01-05
+Ronaldinho|1980-03-21
+Abdullah Gül|1950-10-29
+Matt Damon|1970-10-08
+George R. R. Martin|1948-09-20
+Ramakrishna|1836-02-18
+Lila Downs|1968-09-09
+Kurt Gödel|1906-04-28
+Georg Cantor|1845-03-03
+Jurij Andropov|1914-06-15
+El Greco|1541-10-01
+Julia Gillard|1961-09-29
+Buzz Aldrin|1930-01-20
+Tsai Ing-wen|1956-08-31
+Rachel Carson|1907-05-27
+Sandro Botticelli|1445-01-01
+Jean Le Rond d'Alembert|1717-11-16
+Pierre-Auguste Renoir|1841-02-25
+Larry Sanger|1968-07-16
+Nursultan Naserbajev|1940-07-06
+Robert Downey Jr.|1965-04-04
+Wole Soyinka|1934-07-13
+Martin Scorsese|1942-11-17
+Charles Babbage|1791-12-26
+Yitzhak Rabin|1922-03-01
+Hildegard af Bingen|1098-01-01
+Dua Lipa|1995-08-22
+William Herschel|1738-11-15
+Gianluigi Buffon|1978-01-28
+Enya|1961-05-17
+Mohammad Khatami|1943-10-14
+Andrej Sakharov|1921-05-21
+Isaac Bashevis Singer|1904-07-14
+Arthur Miller|1915-10-17
+Giacomo Leopardi|1798-06-29
+Taylor Lautner|1992-02-11
+Douglas MacArthur|1880-01-26
+Kim Kardashian|1980-10-21
+Sheikh Hasina|1947-09-28
+LeBron James|1984-12-30
+Condoleezza Rice|1954-11-14
+Edward Jenner|1749-05-17
+Johann Gottlieb Fichte|1762-05-19
+Jessica Alba|1981-04-28
+Novalis|1772-05-02
+Mariano Rajoy|1955-03-27
+Rodrigo Duterte|1945-03-28
+William Somerset Maugham|1874-01-25
+Orson Welles|1915-05-06
+Andrew Carnegie|1835-11-25
+Patrice Lumumba|1925-07-02
+Amerigo Vespucci|1454-03-18
+Harold Pinter|1930-10-10
+Emma Stone|1988-11-06
+Pierre de Fermat|1607-01-01
+Anne Hathaway|1982-11-12
+J. D. Vance|1984-08-02
+Idi Amin|1925-01-01
+Denzel Washington|1954-12-28
+Fridtjof Nansen|1861-10-10
+F.A. Hayek|1899-05-08
+Mark Rutte|1967-02-14
+Mohammad Reza Pahlavi|1919-10-26
+Alex Ferguson|1941-12-31
+Dick Cheney|1941-01-30
+Kendall Jenner|1995-11-03
+Demi Moore|1962-11-11
+Christopher Lee|1922-05-27
+Vilhelm Erobreren|1028-11-14
+Tina Turner|1939-11-26
+Shirin Ebadi|1947-06-21
+Giorgio Napolitano|1925-06-29
+Erwin Rommel|1891-11-15
+Julija Tymosjenko|1960-11-27
+Marija Sjarapova|1987-04-19
+Dwayne Douglas Johnson|1972-05-02
+John Dalton|1766-09-06
+Sylvia Plath|1932-10-27
+Daniel Radcliffe|1989-07-23
+Edvard Grieg|1843-06-15
+Elias Canetti|1905-07-25
+George Berkeley|1685-03-12
+Linus Pauling|1901-02-28
+Magnus Carlsen|1990-11-30
+Carl Friedrich Benz|1844-11-25
+James Dean|1931-02-08
+Paris Hilton|1981-02-17
+Mae West|1893-08-17
+Louisa May Alcott|1832-11-29
+Richard Løvehjerte|1157-09-15
+José Mourinho|1963-01-26
+Megan Fox|1986-05-16
+Heinrich Rudolf Hertz|1857-02-22
+Ben Affleck|1972-08-15
+Prince|1958-06-07
+John Dewey|1859-10-20
+Dani Rodrik|1957-08-14
+Graham Greene|1904-10-02
+Hayao Miyazaki|1941-01-05
+Alfred Adler|1870-02-07
+Rasputin|1869-01-21
+Helmut Schmidt|1918-12-23
+Maimonides|1135-04-06
+Hermann Göring|1893-01-12
+Justin Timberlake|1981-01-31
+Roman Polanski|1933-08-18
+Antoine Henri Becquerel|1852-12-15
+Stephen Harper|1959-04-30
+Benedicta Boccoli|1966-11-11
+Bernhard Riemann|1826-09-17
+Donald Tusk|1957-04-22
+Mo Yan|1955-02-17
+Mike Tyson|1966-06-30
+Ursula K. Le Guin|1929-10-21
+Jacinda Ardern|1980-07-26
+Yukio Mishima|1925-01-14
+Barbra Streisand|1942-04-24
+Ezra Pound|1885-10-30
+Chuck Norris|1940-03-10
+David Lloyd George|1863-01-17
+Corazon Aquino|1933-01-25
+V.S. Naipaul|1932-08-17
+Muhammed Iqbal|1877-11-09
+Jean-Paul Belmondo|1933-04-09
+Umm Kulthum|1898-12-31
+Thomas Henry Huxley|1825-05-04
+Jean-Baptiste Lamarck|1744-08-01
+Madeleine Albright|1937-05-15
+Srinivasa Aiyangar Ramanujan|1887-12-22
+Kanye West|1977-06-08
+Björk|1965-11-21
+Pablo Escobar|1949-12-01
+Heath Ledger|1979-04-04
+Sergej Jesenin|1895-10-03
+James D. Watson|1928-04-06
+Eddie Murphy|1961-04-03
+Kevin Costner|1955-01-18
+Clara Zetkin|1857-07-05
+Abdullah af Saudi-Arabien|1924-08-01
+Kublai Khan|1215-09-30
+Priyanka Chopra|1982-07-18
+Ludwig Feuerbach|1804-07-28
+Margaret Atwood|1939-11-18
+Dan Brown|1964-06-22
+Mikhail Lomonosov|1711-11-19
+Frank Zappa|1940-12-21
+Bette Davis|1908-04-05
+Jason Bateman|1969-01-14
+Maria Montessori|1870-08-31
+Carrie Fisher|1956-10-21
+Willem-Alexander af Nederlandene|1967-04-27
+Monica Bellucci|1964-09-30
+Alla Pugatjova|1949-04-15
+Isadora Duncan|1877-05-26
+Edgar de Wahl|1867-08-11
+Anton van Leeuwenhoek|1632-10-24
+Muhammed Ali Jinnah|1876-12-25
+Alphonse de Lamartine|1790-10-21
+Carl von Clausewitz|1780-06-01
+Gabriele d'Annunzio|1863-03-12
+Cameron Diaz|1972-08-30
+Michael Phelps|1985-06-30
+Paul Newman|1925-01-26
+Michael Caine|1933-03-14
+Tizian|1490-01-01
+Vivien Leigh|1913-11-05
+Pamela Anderson|1967-07-01
+Yoshihide Suga|1948-12-06
+Hamid Karzai|1957-12-24
+Harper Lee|1926-04-28
+Al Capone|1899-01-17
+Washington Irving|1783-04-03
+José Mujica|1935-05-20
+Dario Fo|1926-03-24
+Ayrton Senna|1960-03-21
+Guillaume Apollinaire|1880-08-26
+John Kerry|1943-12-11
+Karim Benzema|1987-12-19
+Viktor Jusjtjenko|1954-02-23
+D. H. Lawrence|1885-09-11
+Charles Perrault|1628-01-12
+Eva Peron|1919-05-07
+Georgij Sjukov|1896-12-02
+Marie Stuart|1542-12-18
+Nancy Pelosi|1940-03-26
+Babur|1483-02-23
+Thabo Mbeki|1942-06-18
+Joseph-Pierre Proudhon|1809-01-15
+Pierre Corneille|1606-06-06
+Clark Gable|1901-02-01
+Kenzaburo Oe|1935-01-31
+Harriet Tubman|1822-01-01
+Keira Knightley|1985-03-26
+Roald Dahl|1916-09-13
+Paul von Hindenburg|1847-10-02
+Wernher von Braun|1912-03-23
+Nelly Sachs|1891-12-10
+Gioacchino Rossini|1792-02-29
+Alessandro Manzoni|1785-03-07
+Guru Nanak|1469-04-24
+Whoopi Goldberg|1955-11-13
+Donatello|1386-01-01
+Andrzej Duda|1972-05-16
+Rajiv Gandhi|1944-08-20
+Bertha von Suttner|1843-06-09
+Joseph Smith|1805-12-23
+Ferdinand de Saussure|1857-11-26
+Paracelsus|1493-11-19
+Mesut Özil|1988-10-15
+Ian Fleming|1908-05-28
+Bruno Mars|1985-10-08
+Gotthold Ephraim Lessing|1729-01-22
+Alphonse Daudet|1840-05-13
+Bram Stoker|1847-11-08
+Ray Charles|1930-09-23
+Dorothy Crowfoot Hodgkin|1910-05-12
+Henry Dunant|1828-05-08
+Julianne Moore|1960-12-03
+Maurice Ravel|1875-03-07
+Christopher Nolan|1970-07-30
+Franz Ferdinand af Østrig-Ungarn|1863-12-18
+Clement Attlee|1883-01-03
+Maria Theresia af Østrig|1717-05-13
+Erich Fromm|1900-03-23
+Gustav Klimt|1862-07-14
+Bruce Springsteen|1949-09-23
+Alfred Russel Wallace|1823-01-08
+Amartya Sen|1933-11-03
+Jeremy Bentham|1748-02-15
+Eugene O'Neill|1888-10-16
+Elie Wiesel|1928-09-30
+Thomas Malthus|1766-02-13
+Jean Piaget|1896-08-09
+Simon Pegg|1970-02-14
+Robert Andrews Millikan|1868-03-22
+Edwin Hubble|1889-11-20
+Anastacia|1968-09-17
+Robert Lewandowski|1988-08-21
+Dmitrij Sjostakovitj|1906-09-25
+Albert Abraham Michelson|1852-12-19
+Fernando Pessoa|1888-06-13
+Dustin Hoffman|1937-08-08
+Chinua Achebe|1930-11-16
+Seamus Heaney|1939-04-13
+Ozzy Osbourne|1948-12-03
+Nancy Reagan|1921-07-06
+Jiddu Krishnamurti|1895-05-12
+Charles Bukowski|1920-08-16
+Anne Boleyn|1501-01-01
+Armand-Jean du Plessis de Richelieu|1585-09-09
+Giacomo Casanova|1725-04-02
+Horatio Nelson|1758-09-29
+Hugh Jackman|1968-10-12
+John Forbes Nash|1928-06-13
+Jan Hus|1370-01-01
+Robert Baden-Powell|1857-02-22
+Vin Diesel|1967-07-18
+Ignatius Loyola|1491-11-10
+Noemi|1982-01-25
+Gao Xingjian|1940-01-04
+Ernst Haeckel|1834-02-16
+Salma Hayek|1966-09-02
+David Lynch|1946-01-20
+Alexander Hamilton|1757-01-11
+Wolfgang Pauli|1900-04-25
+Georges Bizet|1838-10-25
+Edward Gibbon|1737-05-08
+Andrés Iniesta|1984-05-11
+John D. Rockefeller|1839-07-08
+Mohamed Salah|1992-06-15
+Jens Stoltenberg|1959-03-16
+Rita Hayworth|1918-10-17
+Daniel Craig|1968-03-02
+George Michael|1963-06-25
+Zendaya|1996-09-01
+Steve Wozniak|1950-08-11
+Vajiralongkorn|1952-07-28
+Tomas Tranströmer|1931-04-15
+George Marshall|1880-12-31
+Abdelaziz Bouteflika|1937-03-02
+John Major|1943-03-29
+George Carlin|1937-05-12
+Truman Capote|1924-09-30
+Pierce Brosnan|1953-05-16
+Paul von Heyse|1830-03-15
+Jean Sibelius|1865-12-08
+George Soros|1930-08-12
+Salman Khan|1965-12-27
+Max Verstappen|1997-09-30
+Abdul Fatah al-Sisi|1954-11-19
+Janet Jackson|1966-05-16
+Jacques Offenbach|1819-06-20
+Rita Levi-Montalcini|1909-04-22
+Aleksandr Blok|1880-11-28
+Jacob Zuma|1942-04-12
+Imre Kertész|1929-11-09
+Theodor W. Adorno|1903-09-11
+Enver Hoxha|1908-10-16
+Nadia Murad|1993-03-10
+Jürgen Habermas|1929-06-18
+Theodor Herzl|1860-05-02
+Susan Sarandon|1946-10-04
+Christopher Plummer|1929-12-13
+Kaja Kallas|1977-06-18
+Moon Jae-in|1953-01-24
+Joseph-Louis Lagrange|1736-01-25
+Daniel Day-Lewis|1957-04-29
+Terry Pratchett|1948-04-28
+Larry Page|1973-03-26
+Konstantin Tsiolkovskij|1857-09-17
+Michel Platini|1955-06-21
+Sarah Palin|1964-02-11
+Jacqueline Kennedy Onassis|1929-07-28
+Frank Lampard|1978-06-20
+Park Geun-hye|1952-02-02
+Svante Arrhenius|1859-02-19
+Vasilij Kandinskij|1866-12-04
+Lauren Bacall|1924-09-16
+Thierry Henry|1977-08-17
+Peter Abélard|1079-01-01
+Salman af Saudi-Arabien|1935-12-31
+Stefanija Turkevytj|1898-04-25
+Robert Hooke|1635-07-28
+Kristen Stewart|1990-04-09
+Matteo Renzi|1975-01-11
+Joan Baez|1941-01-09
+Joan Crawford|1905-03-23
+Viswanathan Anand|1969-12-11
+Reese Witherspoon|1976-03-22
+Fred Astaire|1899-05-10
+Martti Ahtisaari|1937-06-23
+Catherine Zeta-Jones|1969-09-25
+Francis Ford Coppola|1939-04-07
+Marjorie Estiano|1982-03-08
+Mitt Romney|1947-03-12
+Arthur Wellesley|1769-05-01
+Aamir Khan|1965-03-14
+Helen Mirren|1945-07-26
+Robert E. Lee|1807-01-19
+Abel Tasman|1603-01-01
+Kirsten Dunst|1982-04-30
+Georg Ohm|1789-03-16
+Marc Chagall|1887-07-06
+Maria Gøppert Mayer|1906-06-28
+Jean-Marie Gustave Le Clézio|1940-04-13
+Doris Day|1922-04-03
+Gary Oldman|1958-03-21
+Louise Glück|1943-04-22
+Uma Thurman|1970-04-29
+Peter O'Toole|1932-08-02
+Hedy Lamarr|1914-11-09
+John Donne|1572-01-01
+Lance Armstrong|1971-09-18
+Christopher Marlowe|1564-03-04
+Johann Gottfried von Herder|1744-08-25
+Sebastian Vettel|1987-07-03
+Shah Jahan|1592-01-15
+Beatrix af Nederlandene|1938-01-31
+Gérard Depardieu|1948-12-27
+Edmund Husserl|1859-04-08
+Antonio Banderas|1960-08-10
+Zhou Enlai|1898-03-05
+Imelda Marcos|1929-07-02
+Tennessee Williams|1911-03-26
+Abdul Kalam|1931-10-15
+Friedrich Merz|1955-11-11
+Rudolf Christoph Eucken|1846-01-05
+Juan Manuel Santos|1951-08-10
+Michelle Pfeiffer|1958-04-29
+David Livingstone|1813-03-19
+Sergej Lavrov|1950-03-21
+Mary Pickford|1892-04-08
+Humphry Davy|1778-12-17
+Gillian Anderson|1968-08-09
+Georges Clemenceau|1841-09-28
+Sri Aurobindo|1872-08-15
+Olga Tokarczuk|1962-01-29
+Pieter Zeeman|1865-05-25
+Konstantin Tjernenko|1912-10-01
+Isabel Allende|1942-08-02
+Margaret Mitchell|1900-11-08
+Alfred de Musset|1810-12-11
+Kirk Douglas|1916-12-09
+Wayne Rooney|1985-10-24
+Jacques-Yves Cousteau|1910-06-11
+Layal Abboud|1982-05-15
+Roger Martin du Gard|1881-03-23
+W.H. Auden|1907-02-21
+Winona Ryder|1971-10-29
+Jacinto Benavente|1866-08-12
+Louis de Broglie|1892-08-15
+Miroslav Klose|1978-06-09
+Robert A. Heinlein|1907-07-07
+Gustave Eiffel|1832-12-15
+Roger Ebert|1942-06-18
+Ella Fitzgerald|1917-04-25
+Gene Wilder|1933-06-11
+Sidney Poitier|1927-02-20
+Jacques Derrida|1930-07-15
+Ambrose Bierce|1842-06-24
+William Henry Bragg|1862-07-02
+Jon Voight|1938-12-29
+Johannes Diderik van der Waals|1837-11-23
+Henry James|1843-04-15
+Peter Jackson|1961-10-31
+Enkekejserinde Cixi|1835-11-29
+Jiang Zemin|1926-08-17
+Iker Casillas|1981-05-20
+Patrick Modiano|1945-07-30
+Frederik Barbarossa|1122-12-01
+William Gladstone|1809-12-29
+Andre Agassi|1970-04-29
+Dale Carnegie|1888-11-24
+Alicia Keys|1981-01-24
+Diane Keaton|1946-01-05
+IShowSpeed|2005-01-21
+Jimmie Johnson|1975-09-17
+Mahmoud Abbas|1935-11-15
+Paul Walker|1973-09-12
+Buster Keaton|1895-10-04
+Lamine Yamal|2007-07-13
+Cary Grant|1904-01-18
+Claude Lévi-Strauss|1908-11-28
+Jane Addams|1860-09-06
+Milla Jovovich|1975-12-17
+Han Kang|1970-11-27
+Robert F. Kennedy|1925-11-20
+Giuseppe Conte|1964-08-08
+Henry Fonda|1905-05-16
+Shaka|1786-01-01
+Drew Barrymore|1975-02-22
+Nikolaj Lobatjevskij|1792-12-01
+Sean Penn|1960-08-17
+Andrej Tarkovskij|1932-04-04
+J.M. Barrie|1860-05-09
+Janis Joplin|1943-01-19
+Romano Prodi|1939-08-09
+Eduard Sjevardnadse|1928-01-25
+Claudia Sheinbaum|1962-06-24
+Antoine Griezmann|1991-03-21
+Sauli Niinistö|1948-08-24
+Ulrich Zwingli|1484-01-10
+Jack Kerouac|1922-03-12
+Alfred North Whitehead|1861-02-15
+Imran Khan|1952-10-05
+Stevie Wonder|1950-05-13
+Charles Augustin Coulomb|1736-06-14
+Eric Clapton|1945-03-30
+James Brown|1933-05-03
+Tjingiz Ajtmatov|1928-12-12
+Johann Amos Comenius|1592-03-28
+B.B. King|1925-09-16
+Sergej Brin|1973-08-21
+Gregory Peck|1916-04-05
+Amedeo Avogadro|1776-08-09
+Sersj Sargsjan|1954-06-30
+Charles Aznavour|1924-05-22
+Cyril Ramaphosa|1952-11-17
+Lev Davidovich Landau|1908-01-22
+Edmond Halley|1656-11-08
+Christian Bale|1974-01-30
+Jean-Luc Godard|1930-12-03
+Michael Douglas|1944-09-25
+Philipp Lenard|1862-06-07
+Marcello Mastroianni|1924-09-28
+James Chadwick|1891-10-20
+Manuel Neuer|1986-03-27
+Chris Evans|1981-06-13
+PSY|1977-12-31
+Ebrahim Raisi|1960-12-14
+Mick Jagger|1943-07-26
+Chuck Berry|1926-10-18
+Sanna Marin|1985-11-16
+Mark Wahlberg|1971-06-05
+William Thomson|1825-06-26
+Samuel L. Jackson|1948-12-21
+Stan Lee|1922-12-28
+Walter Benjamin|1892-07-15
+Jacobus Henricus van 't Hoff|1852-08-30
+Miles Davis|1926-05-26
+Erling Braut Håland|2000-07-21
+Anders Celsius|1701-12-08
+Gavrilo Princip|1894-07-25
+John Goodman|1952-06-20
+Giuseppe Mazzini|1805-06-22
+Natalia Oreiro|1977-05-19
+Giotto di Bondone|1267-01-01
+André Malraux|1901-11-03
+Simone Weil|1909-02-03
+Thomas Sankara|1949-12-21
+Chimamanda Adichie|1977-09-15
+Chester Bennington|1976-03-20
+Eugene Paul Wigner|1902-11-17
+Park Chung Hee|1917-11-14
+Andrea Bocelli|1958-09-22
+Gina Lollobrigida|1927-07-04
+Robert Redford|1936-08-18
+Wilhelm von Humboldt|1767-06-22
+Snoop Dogg|1971-10-20
+Samuel Morse|1791-04-27
+Yoko Ono|1933-02-18
+Maia Sandu|1972-05-24
+Robert Browning|1812-05-07
+Robin van Persie|1983-08-06
+Vjatjeslav Molotov|1890-03-09
+Évariste Galois|1811-10-25
+William Makepeace Thackeray|1811-07-18
+Liam Neeson|1952-06-07
+William af Ockham|1287-01-01
+Maggie Smith|1934-12-28
+Josephine Baker|1906-06-03
+Martina Navratilova|1956-10-18
+Jean-Claude Juncker|1954-12-09
+John Dryden|1631-08-19
+Oscar Niemeyer|1907-12-15
+Shirley Temple|1928-04-23
+Karl Jaspers|1883-02-23
+Osho|1931-12-11
+Camilo José Cela|1916-05-11
+Amy Adams|1974-08-20
+Harry Kane|1993-07-28
+Lise Meitner|1878-11-07
+Julie Andrews|1935-10-01
+Judi Dench|1934-12-09
+Pranab Mukherjee|1935-12-11
+Niels Henrik Abel|1802-08-05
+David Ricardo|1772-04-18
+Mikhail Kalasjnikov|1919-11-10
+Joachim Gauck|1940-01-24
+Siddende Tyr|1831-01-01
+Miriam Makeba|1932-03-04
+James Stewart|1908-05-20
+Jesse Owens|1913-09-12
+Jason Statham|1967-07-26
+Margaret Mead|1901-12-16
+Emiliano Zapata|1879-08-08
+Roger Moore|1927-10-14
+Philip K. Dick|1928-12-16
+Sjavkat Mirzijajev|1957-07-24
+Abu Bakr al-Baghdadi|1971-07-28
+Megawati Sukarnoputri|1947-01-23
+Maryam Mirzakhani|1977-05-12
+Francis Crick|1916-06-08
+Zaha Hadid|1950-10-31
+Janka Kupala|1882-07-07
+Sharon Stone|1958-03-10
+Donald Sutherland|1935-07-17
+Menachem Begin|1913-08-16
+Samuel Josef Agnon|1887-08-08
+Philippe Pétain|1856-04-24
+Friedrich Hölderlin|1770-03-20
+Prosper Mérimée|1803-09-28
+Harry Houdini|1874-03-24
+Ichirou Mizuki|1948-01-07
+Muhammadu Buhari|1942-12-17
+Lillian Gish|1893-10-14
+Sanae Takaichi|1961-03-07
+Charles Bronson|1921-11-03
+Emmy Rossum|1986-09-12
+Henri de Toulouse-Lautrec|1864-11-24
+Steven Gerrard|1980-05-30
+Gary Cooper|1901-05-07
+Anthony Eden|1897-06-12
+Orlando Bloom|1977-01-13
+Marina Tsvetajeva|1892-10-08
+Karl Ferdinand Braun|1850-06-06
+Paul Klee|1879-12-18
+Alvar Aalto|1898-02-03
+Erich Honecker|1912-08-25
+Victoria Beckham|1974-04-17
+Tim Burton|1958-08-25
+Elinor Ostrom|1933-08-07
+Liza Minnelli|1946-03-12
+Pierre Beaumarchais|1732-01-24
+Tiger Woods|1975-12-30
+Paul Samuelson|1915-05-15
+Carles Puigdemont|1962-12-29
+Derek Walcott|1930-01-23
+Ravi Shankar|1920-04-07
+Arundhati Roy|1961-11-24
+Alice Walker|1944-02-09
+Wilhelm Wien|1864-01-13
+Henry Miller|1891-12-26
+Kersti Kaljulaid|1969-12-30
+Klemens Wenzel von Metternich|1773-05-15
+Sting|1951-10-02
+Ryunosuke Akutagawa|1892-03-01
+Peter Higgs|1929-05-29
+Harold Macmillan|1894-02-10
+Horst Köhler|1943-02-22
+Li Keqiang|1955-07-03
+Emmy Noether|1882-03-23
+Carl Spitteler|1845-04-24
+Pier Paolo Pasolini|1922-03-05
+Jigme Khesar Namgyel Wangchuck|1980-02-21
+Steven Weinberg|1933-05-03
+Cecil Rhodes|1853-07-05
+Anthony Bourdain|1956-06-25
+O. Henry|1862-09-11
+Shota Rustaveli|1172-01-01
+Salvatore Quasimodo|1901-08-20
+Abraham Maslow|1908-04-01
+Kareena Kapoor|1980-09-21
+Alia Bhatt|1993-03-15
+Shirley MacLaine|1934-04-24
+Ayman al-Zawahiri|1951-06-19
+Fumio Kishida|1957-07-29
+Xavi|1980-01-25
+Hafez al-Assad|1930-10-06
+Aurangzeb|1618-11-03
+Susan Sontag|1933-01-16
+René Magritte|1898-11-21
+Tarja Halonen|1943-12-24
+Marilyn Manson|1969-01-05
+Ed Sheeran|1991-02-17
+Otto Hahn|1879-03-08
+Gro Harlem Brundtland|1939-04-20
+Giorgos Seferis|1900-03-13
+Camillo Benso Cavour|1810-08-10
+Donald E. Knuth|1938-01-10
+Jaroslav Seifert|1901-09-23
+Tawakkul Karman|1979-02-07
+Barbara McClintock|1902-06-16
+Joan Fuster|1922-11-23
+Enrique Iglesias|1975-05-08
+Charles-Maurice de Talleyrand-Périgord|1754-02-02
+Sergej Prokofjev|1891-04-23
+Louis-Ferdinand Céline|1894-05-27
+Islom Karimov|1938-01-30
+Philippe I af Belgien|1960-04-15
+Carlo Goldoni|1707-02-25
+Pratibha Patil|1934-12-19
+Rachel McAdams|1978-11-17
+John Bardeen|1908-05-23
+Kevin Rudd|1957-09-21
+Fritz Haber|1868-12-09
+P. T. Barnum|1810-07-05
+Sheikh Mujibur Rahman|1920-03-17
+Groucho Marx|1890-10-02
+Alexis Tsipras|1974-07-28
+Chris Hemsworth|1983-08-11
+Josep Guardiola|1971-01-18
+Allen Ginsberg|1926-06-03
+Emily Blunt|1983-02-23
+Tu Youyou|1930-12-30
+Hassan Nasrallah|1960-08-31
+Laurence Olivier|1907-05-22
+Nathalia Dill|1986-03-24
+Georgia O'Keeffe|1887-11-15
+Abdul Aziz af Saudi-Arabien|1876-01-01
+Jean-Claude Van Damme|1960-10-18
+John Cena|1977-04-23
+Zac Efron|1987-10-18
+Meiji-kejseren|1852-11-03
+Pär Lagerkvist|1891-05-23
+Eusébio|1942-01-25
+John William Strutt|1842-11-12
+Lesya Ukrainka|1871-02-25
+Lindsay Lohan|1986-07-02
+Charles Manson|1934-11-12
+Ellen DeGeneres|1958-01-26
+Laura Welch Bush|1946-11-04
+Paul Valery|1871-10-30
+Anna Politkovskaja|1958-08-30
+Konrad Zacharias Lorenz|1903-11-07
+Frederick Douglass|1818-02-14
+Rudolf Diesel|1858-03-18
+Ridley Scott|1937-11-30
+Droupadi Murmu|1958-06-20
+Daniel Ortega|1945-11-11
+Verner von Heidenstam|1859-07-06
+Venus Williams|1980-06-17
+Hideki Yukawa|1907-01-23
+Hieronymus Bosch|1450-01-01
+Ennio Morricone|1928-11-10
+Thomas Müller|1989-09-13
+Omar al-Bashir|1944-01-01
+Annie Ernaux|1940-09-01
+Kim Dae-jung|1924-01-06
+Albertus Magnus|1200-01-01
+Marion Cotillard|1975-09-30
+Emilia Clarke|1986-10-23
+Ronald Ross|1857-05-13
+Gal Gadot|1985-04-30
+Renée Zellweger|1969-04-25
+Leni Riefenstahl|1902-08-22
+Hilary Swank|1974-07-30
+Gareth Bale|1989-07-16
+Dan Quayle|1947-02-04
+Maria Callas|1923-12-02
+David Attenborough|1926-05-08
+Susilo Bambang Yudhoyono|1949-09-09
+Adolf Eichmann|1906-03-19
+Eugenio Montale|1896-10-12
+Jack Ma|1964-09-10
+Hans Albrecht Bethe|1906-07-02
+Anne af Storbritannien|1665-02-16
+Naoto Kan|1946-10-10
+Leymah Gbowee|1972-02-01
+Hugo Grotius|1583-04-10
+George Boole|1815-11-02
+Tenzing Norgay|1914-05-29
+Dr. Dre|1965-02-18
+Paul Kagame|1957-10-23
+Torquato Tasso|1544-03-21
+Steffi Graf|1969-06-14
+I.M. Pei|1917-04-26
+George Weah|1966-10-01
+Kevin De Bruyne|1991-06-28
+Peter Sellers|1925-09-08
+Gabriel Lippmann|1845-08-16
+Ludvig den Hellige|1214-05-02
+Jacques-Louis David|1748-08-30
+Roger Bacon|1220-01-01
+Gustav Robert Kirchhoff|1824-03-12
+Scott Morrison|1968-05-13
+Harold Wilson|1916-03-11
+Matthew McConaughey|1969-11-04
+Rachel Weisz|1970-03-07
+Hassanal Bolkiah|1946-07-15
+Isabelle Adjani|1955-06-27
+Saint-John Perse|1887-05-31
+Joseph Priestley|1733-03-24
+Alexandria Ocasio-Cortez|1989-10-13
+William Harvey|1578-04-11
+James Fenimore Cooper|1789-09-15
+Rupert Murdoch|1931-03-11
+Eden Hazard|1991-01-07
+Richard Strauss|1864-06-11
+Kim Basinger|1953-12-08
+Hal Holbrook|1925-02-17
+William Ramsay|1852-10-02
+Mohammad bin Salman|1985-08-31
+Ernest Orlando Lawrence|1901-08-08
+Robert Duvall|1931-01-05
+Evangelista Torricelli|1608-10-15
+Paul Pogba|1993-03-15
+Max von Laue|1879-10-09
+Alan Rickman|1946-02-21
+Adam Sandler|1966-09-09
+Robert Pattinson|1986-05-13
+Peter Handke|1942-12-06
+Dennis M. Ritchie|1941-09-09
+Catherine Deneuve|1943-10-22
+Miguel de Unamuno|1864-09-29
+James Callaghan|1912-03-27
+Johan uden Land|1166-12-31
+Charlton Heston|1923-10-04
+Zulfikar Ali Bhutto|1928-01-05
+William Bradford Shockley|1910-02-13
+Susan B. Anthony|1820-02-15
+Marguerite Yourcenar|1903-06-08
+James Gandolfini|1961-09-18
+Arjen Robben|1984-01-23
+Nikolaj Rimskij-Korsakov|1844-03-18
+Patrick Stewart|1940-07-13
+Subrahmanyan Chandrasekhar|1910-10-19
+Friedrich Wilhelm Joseph von Schelling|1775-01-27
+Ismail Haniyeh|1963-01-29
+Sepp Blatter|1936-03-10
+Sofja Kovalevskaja|1850-01-15
+John Updike|1932-03-18
+Bryan Adams|1959-11-05
+James Cagney|1899-07-17
+Anton Bruckner|1824-09-04
+Robbie Williams|1974-02-13
+Asif Ali Zardari|1955-07-26
+Heydar Aliyev|1923-05-10
+Elizabeth Bowes-Lyon|1900-08-04
+Mario Balotelli|1990-08-12
+Philip Roth|1933-03-19
+Narges Mohammadi|1972-04-21
+Hans Zimmer|1957-09-12
+Primo Levi|1919-07-31
+Philip Seymour Hoffman|1967-07-23
+Pran|1920-02-12
+Margot Robbie|1990-07-02
+Joaquin Phoenix|1974-10-28
+Patrick White|1912-05-28
+Abiy Ahmed|1976-08-15
+Anselm af Canterbury|1033-01-01
+Ludovico Ariosto|1474-09-17
+Eva Braun|1912-02-06
+Ernst Mach|1838-02-18
+Billie Holiday|1915-04-07
+Christine Lagarde|1956-01-01
+Herman Van Rompuy|1947-10-31
+Didier Drogba|1978-03-11
+Sergej Rakhmaninov|1873-04-01
+Matthew Perry|1969-08-19
+E.T.A. Hoffmann|1776-01-24
+Qassem Soleimani|1957-03-11
+Frank Herbert|1920-10-08
+Bono|1960-05-10
+Fernando Torres|1984-03-20
+Aleksandr Borodin|1833-11-12
+Georges-Jacques Danton|1759-10-26
+Christian Wulff|1959-06-19
+T.E. Lawrence|1888-08-16
+Sadio Mané|1992-04-10
+Murray Gell-Mann|1929-09-15
+Roger Penrose|1931-08-08
+Boutros Boutros-Ghali|1922-11-14
+Wilhelm Wundt|1832-08-16
+Naomi Watts|1968-09-28
+Gottlob Frege|1848-11-08
+Pieter Bruegel den ældre|1525-01-01
+Mario Draghi|1947-09-03
+Roberto Baggio|1967-02-18
+Mata Hari|1876-08-07
+Sally Field|1946-11-06
+Aldo Moro|1916-09-23
+Gerard Piqué|1987-02-02
+Mojtaba Khamenei|1969-09-08
+Hilary Duff|1987-09-28
+Henri Barbusse|1873-05-17
+Atal Bihari Vajpayee|1924-12-25
+William Lawrence Bragg|1890-03-31
+Norodom Sihanouk|1922-10-31
+Brian May|1947-07-19
+David Guetta|1967-11-07
+Ilja Repin|1844-08-05
+Avicii|1989-09-08
+Samuel Eto'o|1981-03-10
+Andy Murray|1987-05-15
+Jomo Kenyatta|1893-10-20
+Max Stirner|1806-10-25
+Caspar David Friedrich|1774-09-05
+Georges-Louis Leclerc de Buffon|1707-09-07
+Gerd Müller|1945-11-03
+Marcel Duchamp|1887-07-28
+Judith Butler|1956-02-24
+Michael Clarke Duncan|1957-12-10
+Carl Reiner|1922-03-20
+Ian McKellen|1939-05-25
+Nicolas Poussin|1594-06-01
+Vlad Dracula|1431-01-01
+Pjotr Kapitsa|1894-07-08
+Frederik Willem de Klerk|1936-03-18
+Gloria Swanson|1899-03-27
+Yoon Suk-yeol|1960-12-18
+Léopold Sédar Senghor|1906-10-09
+Thomas Young|1773-06-13
+Kevin Spacey|1959-07-26
+Bernhard af Clairvaux|1091-01-01
+Claude Simon|1913-10-10
+Phil Collins|1951-01-30
+Donna Strickland|1959-05-27
+Richard Burton|1925-11-10
+Tobey Maguire|1975-06-27
+Théophile Gautier|1811-08-30
+Edward Said|1935-11-01
+Heike Kamerlingh Onnes|1853-09-21
+Qaboos af Oman|1940-11-18
+Ryan Reynolds|1976-10-23
+José Rizal|1861-06-19
+Nizami Ganjavi|1141-01-01
+Mobutu Sese Seko|1930-10-14
+Jacob Berzelius|1779-08-20
+Sergio Agüero|1988-06-02
+Emomalii Rakhmon|1952-10-05
+Masoud Pezeshkian|1954-09-29
+Salome Zurabisjvili|1952-03-18
+Benedict Cumberbatch|1976-07-19
+Yoweri Museveni|1944-09-15
+Eva Green|1980-07-06
+Gurbanguly Berdimuhammedow|1957-06-29
+Katarina af Medici|1519-04-23
+Sonia Gandhi|1946-12-09
+Robert Walpole|1676-09-05
+Ludwig Erhard|1897-02-04
+Charles Thomson Rees Wilson|1869-02-14
+Johann Heinrich Pestalozzi|1746-01-12
+Mary Cassatt|1844-05-22
+Edith Wharton|1862-01-24
+Edward Norton|1969-08-18
+Jude Law|1972-12-29
+Saparmurat Nijasov|1940-02-19
+Gisele Bündchen|1980-07-20
+Hermann Emil Fischer|1852-10-09
+Jessica Lange|1949-04-20
+Alfredo di Stéfano|1926-07-04
+Nelly Furtado|1978-12-02
+Henry Cavendish|1731-10-10
+Leonid Kutjma|1938-08-09
+Louis Braille|1809-01-04
+John Ford|1894-02-01
+Wilhelm Ostwald|1853-09-02
+Sergio Ramos|1986-03-30
+Oswald Spengler|1880-05-29
+Anatolij Karpov|1951-05-23
+Francisco Pizarro|1478-03-16
+Jolin Tsai|1980-09-15
+Carlo Ancelotti|1959-06-10
+Mark Carney|1965-03-16
+Alberto Moravia|1907-11-28
+James Hetfield|1963-08-03
+Ilja Ilitj Metjnikov|1845-05-15
+R. Kelly|1967-01-08
+Kimi Räikkönen|1979-10-17
+Omar Sharif|1932-04-10
+Kurt Waldheim|1918-12-21
+Walter Gropius|1883-05-18
+Shia LaBeouf|1986-06-11
+Olof Palme|1927-01-30
+Ada Yonath|1939-06-22
+Colette|1873-01-28
+Lukas Podolski|1985-06-04
+Drake|1986-10-24
+Francisco Xavier|1506-04-17
+Donald Rumsfeld|1932-07-09
+Aleksandr Suvorov|1730-11-24
+Angela Davis|1944-01-26
+Johann Strauss den yngre|1825-10-25
+Abdulrazak Gurnah|1948-12-20
+Ashraf Ghani|1949-05-19
+Enid Blyton|1897-08-11
+Marshall McLuhan|1911-07-21
+Jeffrey Epstein|1953-01-20
+Al-Idrisi|1110-01-01
+Julius Nyerere|1922-04-13
+Ryan Gosling|1980-11-12
+Javier Milei|1970-10-22
+Brie Larson|1989-10-01
+Elizabeth Barrett Browning|1806-03-06
+Ibn Arabi|1165-08-04
+Arthur Balfour|1848-07-25
+B.F. Skinner|1904-03-20
+Sirimavo Bandaranaike|1916-04-17
+Selim I|1470-10-19
+Peter Dinklage|1969-06-11
+Jonas Salk|1914-10-28
+Kassym-Zjomart Tokajev|1953-05-17
+Alexander Van der Bellen|1944-01-18
+Jared Leto|1971-12-26
+Jennifer Connelly|1970-12-12
+Modest Mussorgskij|1839-03-21
+Giorgio Vasari|1511-08-09
+Anders Behring Breivik|1979-02-13
+Gary Lineker|1960-11-30
+Thor Heyerdahl|1914-10-06
+Daniel Bernoulli|1700-02-08
+Zohran Mamdani|1991-10-18
+Claudia Cardinale|1938-04-15
+Süleyman Demirel|1924-11-01
+Gloria Macapagal-Arroyo|1947-04-05
+Arthur Compton|1892-09-10
+Charles Lindbergh|1902-02-04
+Peter Ustinov|1921-04-16
+Franck Ribéry|1983-04-07
+Sergio Leone|1929-01-03
+José Echegaray|1832-04-19
+Alec Baldwin|1958-04-03
+Romelu Lukaku|1993-05-13
+Pete Seeger|1919-05-03
+William Wallace|1270-01-01
+Otto Stern|1888-02-17
+Marco van Basten|1964-10-31
+Joachim von Ribbentrop|1893-04-30
+Jevgenij Prigosjin|1961-06-01
+Ruth Bader Ginsburg|1933-03-15
+Italo Calvino|1923-10-15
+Ava Gardner|1922-12-24
+Sally Ride|1951-05-26
+Cillian Murphy|1976-05-25
+Gustave Courbet|1819-06-10
+Olivier Giroud|1986-09-30
+Stéphane Mallarmé|1842-03-18
+Ewan McGregor|1971-03-31
+Ludwig Boltzmann|1844-02-20
+Klaus Iohannis|1959-06-13
+Deepika Padukone|1987-01-05
+John de Lancie|1948-03-20
+Robert Fico|1964-09-15
+André Breton|1896-02-19
+Emma Thompson|1959-04-15
+Piet Mondrian|1872-03-07
+Leon Battista Alberti|1404-02-23
+Buckminster Fuller|1895-07-12
+Mihai Eminescu|1850-01-15
+Gustav Ludwig Hertz|1887-07-22
+Joseph Addison|1672-05-01
+Akon|1973-04-16
+Ivan Krylov|1769-02-13
+Gerty Cori|1896-08-15
+Pink|1979-09-08
+Ian McShane|1942-09-29
+Rosalyn Sussman Yalow|1921-07-19
+Marcus Rashford|1997-10-31
+U Thant|1909-01-22
+Joshua Bassett|2000-12-22
+Rupert Grint|1988-08-24
+Olivia Rodrigo|2003-02-20
+Ryan Giggs|1973-11-29
+Thibaut Courtois|1992-05-11
+Jay-Z|1969-12-04
+Chen Ning Yang|1922-10-01
+Kate Hudson|1979-04-19
+Emil Adolf von Behring|1854-03-15
+Lev Jasjin|1929-10-22
+Ben Jonson|1572-06-21
+Roberto Benigni|1952-10-27
+Tom Hardy|1977-09-15
+Anna Rita Del Piano|1966-07-26
+Carl Gustaf Mannerheim|1867-06-16
+Nasreddin|1208-01-01
+Wojciech Jaruzelski|1923-07-06
+Robert Musil|1880-11-06
+Langston Hughes|1901-02-01
+Ludwig Mies van der Rohe|1886-03-27
+Yuval Noah Harari|1976-02-24
+Fulgencio Batista|1901-01-16
+Dennis Gabor|1900-06-05
+Nikos Kazantzakis|1883-03-02
+Taro Aso|1940-09-20
+James Franck|1882-08-26
+Andy Burnham|1970-01-07
+Colin Powell|1937-04-05
+Courteney Cox|1964-06-15
+Danny DeVito|1944-11-17
+John Herschel|1792-03-07
+Karl Dönitz|1891-09-16
+Pierre Trudeau|1919-10-18
+Syngman Rhee|1875-03-26
+Jürgen Klopp|1967-06-16
+Hideki Tojo|1884-12-30
+Mark Ruffalo|1967-11-22
+Duke Ellington|1899-04-29
+Ghil'ad Zuckermann|1971-06-01
+Claudio Monteverdi|1567-05-25
+Leonid Kravtjuk|1934-01-10
+Fethullah Gülen|1941-04-27
+Mike Myers|1963-05-25
+Anthony Albanese|1963-03-02
+Raymond Chandler|1888-07-23
+Boris Nemtsov|1959-10-09
+George Best|1946-05-22
+Beatrix Potter|1866-07-28
+Junichiro Koizumi|1942-01-08
+Mikhail Misjustin|1966-03-03
+Jean-Marie Le Pen|1928-06-20
+Andrij Sjevtjenko|1976-09-29
+Sarvepalli Radhakrishnan|1888-09-05
+Carlos Alazraqui|1962-07-20
+Amedeo Modigliani|1884-07-12
+Miyamoto Musashi|1584-01-01
+Spencer Tracy|1900-04-05
+Martin Landau|1928-06-20
+Richard Gere|1949-08-31
+Gloria Steinem|1934-03-25
+Gilles Deleuze|1925-01-18
+Christina Ricci|1980-02-12
+Ben Kingsley|1943-12-31
+Georges Simenon|1903-02-13
+Jeremy Irons|1948-09-19
+Emanuel Swedenborg|1688-02-08
+Sabrina Carpenter|1999-05-11
+Park Chaeyoung|1997-02-11
+Naftali Bennett|1972-03-25
+Jan van Eyck|1390-01-01
+Joan Rivers|1933-06-08
+Joe Cocker|1944-05-20
+Sachin Tendulkar SRT|1973-04-24
+Gene Kelly|1912-08-23
+Aleksej Leonov|1934-05-30
+Montserrat Caballé|1933-04-12
+Jean-Baptiste Perrin|1870-09-30
+Norman Mailer|1923-01-31
+Alessandro Del Piero|1974-11-09
+Gabriel Boric|1986-02-11
+Hürrem Sultan|1505-01-01
+Diana Ross|1944-03-26
+Nina Simone|1933-02-21
+Michael J. Fox|1961-06-09
+Ben Stiller|1965-11-30
+Xabi Alonso|1981-11-25
+Mario Puzo|1920-10-15
+Mia Khalifa|1993-02-10
+Claudette Colbert|1903-09-13
+Grace Hopper|1906-12-09
+Paul Krugman|1953-02-28
+Bernardo Bertolucci|1941-03-16
+Julio Iglesias|1943-09-23
+Emanuel Lasker|1868-12-24
+Vanessa Hudgens|1988-12-14
+Gene Hackman|1930-01-30
+Giulio Andreotti|1919-01-14
+Gertrude B. Elion|1918-01-23
+Khaled Hosseini|1965-03-04
+Zine El Abidine Ben Ali|1936-09-03
+Nikolaj Nekrasov|1821-12-10
+Philipp Lahm|1983-11-11
+Johannes Stark|1874-04-15
+Jean Gabin|1904-05-17
+Rani Mukerji|1978-03-21
+Bill Cosby|1937-07-12
+Sebastian Kurz|1986-08-27
+Bryan Cranston|1956-03-07
+Timothée Chalamet|1995-12-27
+Oliver Stone|1946-09-15
+Carlo Collodi|1826-11-24
+Maurits Cornelis Escher|1898-06-17
+Herbert Marcuse|1898-07-19
+Bill Murray|1950-09-21
+Lata Mangeshkar|1929-09-28
+Frederick Sanger|1918-08-13
+Erik Axel Karlfeldt|1864-07-20
+Ismail Kadaré|1936-01-28
+Abigail Adams|1744-11-22
+Ivan Gontjarov|1812-06-18
+Kelly Clarkson|1982-04-24
+Ricky Martin|1971-12-24
+Dakota Fanning|1994-02-23
+Jennifer Doudna|1964-02-19
+Kareem Abdul-Jabbar|1947-04-16
+J.M.W. Turner|1775-04-23
+Charles Édouard Guillaume|1861-02-15
+Helena Bonham Carter|1966-05-26
+Rudolf Hess|1894-04-26
+George Patton|1885-11-11
+Norodom Sihamoni|1953-05-14
+Abdus Salam|1926-01-29
+Michael Collins|1930-10-31
+Jean-Paul Marat|1743-05-24
+Masiela Lusha|1985-10-23
+Amanda Seyfried|1985-12-03
+Pierre Bourdieu|1930-08-01
+Vitalij Ginsburg|1916-10-04
+Alfred Wegener|1880-11-01
+Marco Rubio|1971-05-28
+Jefferson Davis|1808-06-03
+Steve Irwin|1962-02-22
+Howard Carter|1874-05-09
+Paul G. Allen|1953-01-21
+Kathy Bates|1948-06-28
+Andrea Pirlo|1979-05-19
+Francesco Cossiga|1928-07-26
+Melinda Gates|1964-08-15
+Heinrich von Kleist|1777-10-18
+Klaus Ebner|1964-08-08
+Nur al-din Abdur-Rahman Jami|1414-11-16
+Kabir|1440-01-01
+Carl Sandburg|1878-01-06
+Aleksandra Kollontaj|1872-03-31
+Edsger Dijkstra|1930-05-11
+Joseph Stiglitz|1943-02-09
+Justus von Liebig|1803-05-12
+Isidor Rabi|1898-07-29
+Nicolas Appert|1749-11-17
+Karl Weierstrass|1815-10-31
+Vicente Aleixandre|1898-04-26
+Paramahansa Yogananda|1893-01-05
+Preity Zinta|1975-01-31
+Wen Jiabao|1942-09-15
+John Rawls|1921-02-21
+Sinéad O'Connor|1966-12-08
+Debbie Reynolds|1932-04-01
+Odysseas Elytis|1911-11-02
+Girolamo Savonarola|1452-09-30
+Rudolf Steiner|1861-02-27
+Ron Paul|1935-08-20
+Idris Elba|1972-09-06
+Edward Morgan Forster|1879-01-01
+Val Kilmer|1959-12-31
+Hermann von Helmholtz|1821-08-31
+Willem Dafoe|1955-07-22
+Kristina I af Sverige|1626-12-07
+Jerry Lewis|1926-03-16
+Mohammed el-Baradei|1942-06-17
+Charlie Kirk|1993-10-14
+Paul Ehrlich|1854-03-14
+Elisabeth af Rusland|1709-12-29
+Michael Bloomberg|1942-02-14
+Richard von Weizsäcker|1920-04-15
+Emmeline Pankhurst|1858-07-15
+Konstantin Stanislavskij|1863-01-17
+Ousmane Dembélé|1997-05-15
+Jennifer Garner|1972-04-17
+Courtney Love|1964-07-09
+Javier Bardem|1969-03-01
+Karl Landsteiner|1868-06-14
+Ehud Olmert|1945-09-30
+Georges Cuvier|1769-08-23
+Ivan Franko|1856-08-27
+Eyvind Johnson|1900-07-29
+Georges Braque|1882-05-13
+Christopher Wren|1632-10-30
+Lorenzo de' Medici|1449-01-10
+Ali Abdullah Saleh|1947-03-21
+Ram Nath Kovind|1945-10-01
+Roh Moo-hyun|1946-09-01
+PewDiePie|1989-10-24
+Elijah Wood|1981-01-28
+Adriano Celentano|1938-01-06
+Anna Pavlova|1882-02-12
+Keith Richards|1943-12-18
+Ramsan Kadyrov|1976-10-05
+Glenda Jackson|1936-05-09
+Gustave Le Bon|1841-05-07
+Puyi|1906-02-07
+Lothar Matthäus|1961-03-21
+Frank Capra|1897-05-18
+Michael D. Higgins|1941-04-18
+Larry King|1933-11-19
+Shaquille O'Neal|1972-03-06
+Dani Alves|1983-05-06
+Viktor Tsoj|1962-06-21
+Ahmed Ben Bella|1916-12-25
+Louis Aragon|1897-10-03
+José Eduardo dos Santos|1942-08-28
+Nikolaj Karamzin|1766-12-12
+Toni Kroos|1990-01-04
+Juliette Binoche|1964-03-09
+Sadiq Khan|1970-10-08
+Edgar Rice Burroughs|1875-09-01
+Fjodor Tjuttjev|1803-12-05
+Tove Jansson|1914-08-09
+Alberto Fujimori|1938-07-26
+David Villa|1981-12-03
+G.H. Hardy|1877-02-07
+Amber Heard|1986-04-22
+Olivia de Havilland|1916-07-01
+Nadesjda Krupskaja|1869-02-26
+Jake Gyllenhaal|1980-12-19
+Kasimir Malevitj|1879-02-23
+Ice Cube|1969-06-15
+Tokugawa Ieyasu|1543-02-10
+Friedrich Dürrenmatt|1921-01-05
+Stephen Hillenburg|1961-08-21
+Arnold Schönberg|1874-09-13
+Mario Monti|1943-03-19
+Adolphe Thiers|1797-04-15
+Barbara Stanwyck|1907-07-16
+Heinz Fischer|1938-10-09
+Katrina Kaif|1983-07-16
+Garry Shandling|1949-11-29
+Antony Blinken|1962-04-16
+Diego Rivera|1886-12-08
+Jean Baudrillard|1929-07-27
+Tristan Tzara|1896-04-16
+Aleksandr Alekhin|1892-10-31
+Colin Firth|1960-09-10
+Cardi B|1992-10-11
+Paolo Gentiloni|1954-11-22
+Edward Victor Appleton|1892-09-06
+Frans Eemil Sillanpää|1888-09-16
+Giovanni Bosco|1815-08-16
+Carl David Anderson|1905-09-03
+Dante Gabriel Rossetti|1828-05-12
+Bernard Law Montgomery|1887-11-17
+Pavel Durov|1984-10-10
+Ivanka Trump|1981-10-30
+John Wycliffe|1320-01-01
+Gustav Stresemann|1878-05-10
+Hugh Grant|1960-09-09
+Magic Johnson|1959-08-14
+Alexis Carrel|1873-06-28
+Jeff Bridges|1949-12-04
+José Ortega y Gasset|1883-05-09
+John Napier|1550-02-11
+Aaron Swartz|1986-11-08
+Nicolas Boileau-Despréaux|1636-11-01
+Tintoretto|1519-01-01
+Bayezid I|1354-03-08
+George Gershwin|1898-09-26
+Edinson Cavani|1987-02-14
+Tony Abbott|1957-11-04
+Edward Teller|1908-01-15
+Anthony Quinn|1915-04-21
+Anne Bancroft|1931-09-17
+Sydney Sweeney|1997-09-12
+George Santayana|1863-12-16
+John Cale|1942-03-09
+Nils Gustaf Dalén|1869-11-30
+Hugo Lloris|1986-12-26
+Ang Lee|1954-10-23
+Joao Grimaldo|2003-02-20
+Jordan B. Peterson|1962-06-12
+Jean Reno|1948-07-30
+Fabio Cannavaro|1973-09-13
+Naomi Campbell|1970-05-22
+Elisabeth af Østrig-Ungarn|1837-12-24
+Michael Crichton|1942-10-23
+Sojourner Truth|1797-01-01
+Erik Satie|1866-05-17
+Brendan Fraser|1968-12-03
+Lalisa Manoban|1997-03-27
+Rajnath Singh|1951-07-10
+Kristen Bell|1980-07-18
+Lisa Gerrard|1961-04-12
+Charles Hard Townes|1915-07-28
+Michel Temer|1940-09-23
+Arthur Schnitzler|1862-05-15
+Antoon van Dyck|1599-03-22
+Reza Shah|1878-03-15
+Benedetto Croce|1866-02-25
+Nawaz Sharif|1949-12-25
+Albert Speer|1905-03-19
+Kesha|1987-03-01
+Vilfredo Pareto|1848-07-15
+Frederick Soddy|1877-09-02
+Gjergj Kastrioti Skanderbeg|1405-05-06
+Hannes Alfvén|1908-05-30
+Ashton Kutcher|1978-02-07
+Roland Barthes|1915-11-12
+Nina Dobrev|1989-01-09
+Kate Beckinsale|1973-07-26
+Harry Martinson|1904-05-06
+Katharina af Aragonien|1485-12-16
+Goldie Hawn|1945-11-21
+Jamal Khashoggi|1958-10-13
+Gertrude Stein|1874-02-03
+Andreas Vesalius|1515-01-10
+Augustin Louis Cauchy|1789-08-21
+Enrico Caruso|1873-02-24
+Anna Kournikova|1981-06-07
+Eisaku Sato|1901-03-27
+Burt Lancaster|1913-11-02
+Aristoteles Onassis|1906-01-15
+Boris Spasskij|1937-01-30
+Walther Hermann Nernst|1864-06-25
+Vilhelm den Tavse|1533-05-04
+John Glenn|1921-07-18
+Albert Szent-Györgyi|1893-09-16
+Frank Gehry|1929-02-28
+Edi Rama|1964-07-04
+James Franco|1978-04-19
+Oliver Goldsmith|1728-11-10
+Jamie Foxx|1967-12-13
+John Howard|1939-07-26
+Robert Goddard|1882-10-05
+Pumpuang Duangjan|1961-08-04
+Elliot Page|1987-02-21
+Bobby Charlton|1937-10-11
+Conrad Bain|1923-02-04
+Eva Longoria|1975-03-15
+Michel Houellebecq|1956-02-26
+Oliver Kahn|1969-06-15
+Alanis Morissette|1974-06-01
+Martina Hingis|1980-09-30
+Luis Walter Alvarez|1911-06-13
+Jerome K. Jerome|1859-05-02
+Louis Daguerre|1787-11-18
+Lucille Ball|1911-08-06
+Satyendra Nath Bose|1894-01-01
+Ludvig-Filip af Frankrig|1773-10-06
+Viktor Frankl|1905-03-26
+Charlie Sheen|1965-09-03
+Mikhail Botvinnik|1911-08-17
+Vittorio De Sica|1901-07-07
+Dima Bilan|1981-12-24
+Conchita Wurst|1988-11-06
+Hugh Laurie|1959-06-11
+Harry Styles|1994-02-01
+Nikolaus von Kues|1401-01-01
+Richard Simmons|1948-07-12
+Idriss Déby|1952-06-18
+Francisco de Quevedo|1584-09-24
+Gabriel Daniel Fahrenheit|1686-05-24
+Percy Liza|2000-04-10
+Katharina af Sienna|1347-04-02
+Jacques Lacan|1901-04-13
+Richard Branson|1950-07-18
+William Rowan Hamilton|1805-08-04
+Sergej Sjojgu|1955-05-21
+Turgut Özal|1927-10-13
+Antonius fra Padova|1195-08-22
+Ismail I|1487-07-17
+Aleksandr Herzen|1812-04-06
+Vallabhbhai Patel|1875-10-31
+Gwen Stefani|1969-10-03
+Akbar Hashemi Rafsanjani|1934-08-25
+Karl Lagerfeld|1933-09-10
+Karl Liebknecht|1871-08-13
+John Bunyan|1628-11-28
+Néstor Kirchner|1950-02-25
+Aleksej Aleksejevitj Abrikosov|1928-06-25
+Roberto Carlos|1973-04-10
+Jessica Simpson|1980-07-10
+Clinton Joseph Davisson|1881-10-22
+Alice Cooper|1948-02-04
+Steve Biko|1946-12-18
+Dean Martin|1917-06-07
+Jennie Kim|1996-01-16
+Robert Wilson|1936-01-10
+Kylie Jenner|1997-08-10
+Robert Zemeckis|1952-05-14
+Rita Ora|1990-11-26
+Frances McDormand|1957-06-23
+Bob Hoskins|1942-10-26
+Nikol Pashinyan|1975-06-01
+Yukio Hatoyama|1947-02-11
+Georgij Malenkov|1902-01-08
+Gianni Infantino|1970-03-23
+Joseph Louis Gay-Lussac|1778-12-06
+Aleksandr Kerenskij|1881-05-04
+Emil Cioran|1911-04-08
+Michael Ballack|1976-09-26
+Heinrich Mann|1871-03-27
+William Pitt den yngre|1759-05-28
+Linda B. Buck|1947-01-29
+Dove Cameron|1996-01-15
+Rajendra Prasad|1884-12-03
+Victor Franz Hess|1883-06-24
+Naomi Osaka|1997-10-16
+Billy Wilder|1906-06-22
+Arno Allan Penzias|1933-04-26
+Kyriakos Mitsotakis|1968-03-04
+Terry Gilliam|1940-11-22
+Emily Greene Balch|1867-01-08
+Norman Borlaug|1914-03-25
+Yun Chi-ho|1865-01-01
+Carl Maria von Weber|1786-12-18
+Robert Falcon Scott|1868-06-06
+Christoph Willibald Gluck|1714-07-02
+Larry Bird|1956-12-07
+Neil Gaiman|1960-11-10
+Kailash Satyarthi|1954-01-11
+Vissarion Belinskij|1811-06-11
+Joseph Kabila|1971-06-04
+Faisal af Saudi-Arabien|1906-01-01
+Jules Mazarin|1602-07-14
+Zjores Alfjorov|1930-03-15
+Munshi Premchand|1880-07-31
+Amélie Nothomb|1966-07-09
+Tony Curtis|1925-06-03
+William Hogarth|1697-11-10
+Agnetha Fältskog|1950-04-05
+Mairead Maguire|1944-01-27
+Betty White|1922-01-17
+Annie Besant|1847-10-01
+Billy Graham|1918-11-07
+Clara Schumann|1819-09-13
+A.A. Milne|1882-01-18
+Mirza Ghalib|1797-12-27
+Björn Borg|1956-06-06
+Oskar Schindler|1908-04-28
+Bartolomeu Dias|1467-01-01
+Lisa Kudrow|1963-07-30
+Ahmed al-Charaa|1982-10-29
+Jessica Biel|1982-03-03
+Henry Cavill|1983-05-05
+Malcolm McDowell|1943-06-13
+Leonard Bernstein|1918-08-25
+Jean-Bédel Bokassa|1921-02-22
+Johannes af Korset|1542-07-04
+Arnold J. Toynbee|1889-04-14
+Javier Pérez de Cuéllar|1920-01-19
+Henry Fielding|1707-04-22
+Katherine Johnson|1918-08-26
+Luc Besson|1959-03-18
+Alec Guinness|1914-04-02
+Michelle Rodriguez|1978-07-12
+Liv Tyler|1977-07-01
+Mukesh Ambani|1957-04-19
+Paul Henri Thiry d'Holbach|1723-12-08
+Sergej Koroljov|1907-01-12
+Jahangir|1569-09-09
+Glenn Close|1947-03-19
+Emir Kusturica|1954-11-24
+Christian Doppler|1803-11-29
+Germaine Greer|1939-01-29
+Sahle-Work Zewde|1950-02-21
+Bidhya Bhandari|1961-06-19
+Claudia Schiffer|1970-08-25
+Andy Serkis|1964-04-20
+Jill Biden|1951-06-03
+Ernest Renan|1823-02-28
+John Michael Talbot|1954-05-08
+Jack Black|1969-08-28
+Elia Kazan|1909-09-07
+Georg Christoph Lichtenberg|1742-07-01
+Jacob Grimm|1785-01-04
+David de Gea|1990-11-07
+Tommy Lee Jones|1946-09-15
+Bob Hope|1903-05-29
+Lev Vygotskij|1896-11-17
+Jacques Brel|1929-04-08
+Joachim Löw|1960-02-03
+Bab|1819-10-20
+Dennis Hopper|1936-05-17
+Ögödei|1186-11-14
+Jamala|1983-08-27
+Carlos Fuentes|1928-11-11
+D.W. Griffith|1875-01-22
+K. James Peace|1963-09-28
+Ralph Fiennes|1962-12-22
+Jean-Joseph Sanfourche|1929-06-25
+Forest Whitaker|1961-07-15
+Humayun|1508-03-16
+James Baldwin|1924-08-02
+Gore Vidal|1925-10-03
+Lady Jane Grey|1537-10-01
+Snorri Sturluson|1179-01-01
+Lil Wayne|1982-09-27
+Hugh Hefner|1926-04-09
+Sergio Busquets|1988-07-16
+Aleksandr Nevskij|1220-05-20
+Hulk Hogan|1953-08-11
+Huell Howser|1945-10-18
+Jacques Prévert|1900-02-04
+Karl Manne Georg Siegbahn|1886-12-03
+Edward Heath|1916-07-09
+Tim Cook|1960-11-01
+Millie Bobby Brown|2004-02-19
+Anna Maria Jopek|1970-12-14
+Mehmet VI|1861-01-14
+Eartha Kitt|1927-01-17
+Nigel Farage|1964-04-03
+Michelangelo Antonioni|1912-09-29
+Samuel P. Huntington|1927-04-18
+Ethan Hawke|1970-11-06
+Neil deGrasse Tyson|1958-10-05
+Viola Davis|1965-08-11
+Sia|1975-12-18
+Susan Boyle|1961-04-01
+Kajol|1974-08-05
+Christopher Hitchens|1949-04-13
+Usher|1978-10-14
+Tyra Banks|1973-12-04
+Jusuf Habibie|1936-06-25
+Carlos Slim|1940-01-28
+Rami Malek|1981-05-12
+Teresa Teng|1953-01-29
+Paul Biya|1933-02-13
+Berthe Morisot|1841-01-14
+Bartolomé Esteban Murillo|1617-12-01
+Sarah Jessica Parker|1965-03-25
+Georges Charpak|1924-08-01
+Ted Bundy|1946-11-24
+Robert Wilhelm Bunsen|1811-03-30
+Carol W. Greider|1961-04-15
+Mauricio Macri|1959-02-08
+Akshay Kumar|1967-09-09
+Ferdinand Foch|1851-10-02
+Eduard Buchner|1860-05-20
+Camila Cabello|1997-03-03
+Ernest Thomas Sinton Walton|1903-10-06
+Yingluck Shinawatra|1967-06-21
+Elizabeth Olsen|1989-02-16
+Elizabeth Blackburn|1948-11-26
+Felix Bloch|1905-10-23
+Mike Pompeo|1963-12-30
+Ram Narayan|1927-12-25
+Nayib Bukele|1981-07-24
+Owen Willans Richardson|1879-04-26
+Diane Kruger|1976-07-15
+Reinhard Heydrich|1904-03-07
+Girolamo Cardano|1501-10-04
+Chadwick Boseman|1976-11-29
+George Paget Thomson|1892-05-03
+Lavrentij Pavlovitj Berija|1899-03-29
+Patrick Swayze|1952-08-18
+Paolo Maldini|1968-06-26
+Charles Glover Barkla|1877-06-07
+Erna Solberg|1961-02-24
+Navi Pillay|1941-09-23
+Ed Asner|1929-11-15
+Tom Hiddleston|1981-02-09
+Alfred Sisley|1839-10-30
+Jenna Ortega|2002-09-27
+Ibn Taymiyyah|1263-01-01
+Oda Nobunaga|1534-07-03
+Jorge Amado|1912-08-10
+Peter Debye|1884-03-24
+Marvin Gaye|1939-04-02
+Charles Sanders Peirce|1839-09-10
+Riccardo Giacconi|1931-10-06
+Jeanne Moreau|1928-01-23
+Jody Williams|1950-10-09
+Ignaz Semmelweis|1818-07-01
+Thaksin Shinawatra|1949-07-26
+John Terry|1980-12-07
+Evangeline Lilly|1979-08-03
+Casemiro|1992-02-23
+Georges Seurat|1859-12-02
+Michael Owen|1979-12-14
+Rumen Radev|1963-06-18
+Heidi Klum|1973-06-01
+Neil Young|1945-11-12
+Walter Mondale|1928-01-05
+Lupita Nyong'o|1983-03-01
+Steven Soderbergh|1963-01-14
+Batu Khan|1205-01-01
+Michael Keaton|1951-09-05
+H.H. Asquith|1852-09-12
+Mikhail Tal|1936-11-09
+Tom Clancy|1947-04-12
+Dakota Johnson|1989-10-04
+Lucy Liu|1968-12-02
+Jamie Lee Curtis|1958-11-22
+Jude Bellingham|2003-06-29
+Wim Wenders|1945-08-14
+Emmanuelle Charpentier|1968-12-11
+Paulo Dybala|1993-11-15
+Jessica Chastain|1977-03-24
+Walther Bothe|1891-01-08
+Jelena Isinbajeva|1982-06-03
+Dian Fossey|1932-01-16
+Camillo Golgi|1843-07-07
+William Shatner|1931-03-22
+Frédéric Joliot-Curie|1900-03-19
+Borut Pahor|1963-11-02
+Éric Cantona|1966-05-24
+Gilbert Gottfried|1955-02-28
+Michelle Yeoh|1962-08-06
+Feliks Dsjersjinskij|1877-09-11
+Giovanni Lorenzo Bernini|1598-12-07
+Luigi Galvani|1737-09-09
+Cesare Pavese|1908-09-09
+Rudolf Clausius|1822-01-02
+Seth MacFarlane|1973-10-26
+Francis Fukuyama|1952-10-27
+Grigorij Perelman|1966-06-13
+Robert Owen|1771-05-14
+Ginger Rogers|1911-07-16
+Donald A. Glaser|1926-09-21
+Hande Yener|1973-01-12
+John Douglas Cockcroft|1897-05-27
+Jack Lemmon|1925-02-08
+Carla Bruni|1967-12-23
+Christoph Waltz|1956-10-04
+Sydney Pollack|1934-07-01
+Percy Williams Bridgman|1882-04-21
+Christine de Pizan|1364-09-19
+Dsjokhar Dudajev|1944-02-15
+Masaccio|1401-12-30
+Henry Morton Stanley|1841-01-28
+Marguerite Duras|1914-04-04
+Steve McQueen|1930-03-24
+Adriana Lima|1981-06-12
+Lester B. Pearson|1897-04-23
+Khalifa bin Zayed Al Nahyan|1948-09-07
+Ted Kaczynski|1942-05-22
+Aram Khatjaturjan|1903-06-06
+Andrzej Wajda|1926-03-06
+Blake Lively|1987-08-25
+Roger Waters|1943-09-06
+Isaiah Berlin|1909-06-06
+Daniel Kahneman|1934-03-05
+Barbara Bush|1925-06-08
+Murad III|1546-07-14
+Philipp Melanchthon|1497-02-25
+Farrah Fawcett|1947-02-02
+Ulugh Beg|1394-03-30
+Martin Bormann|1900-07-17
+Woody Harrelson|1961-07-23
+Anne Carson|1950-06-21
+Lee Hsien Loong|1952-02-10
+Claude Bernard|1813-07-12
+Denis Mukwege|1955-03-01
+Ahmad Shah Massoud|1953-09-02
+Elizabeth Cady Stanton|1815-11-12
+Olympe de Gouges|1748-05-07
+Adolf von Baeyer|1835-10-31
+Teodoro Obiang Nguema Mbasogo|1942-06-05
+Joseph Pulitzer|1847-04-10
+Eva Mendes|1974-03-05
+Moshe Dayan|1915-05-20
+Hastings Banda|1890-01-01
+Gunnar Myrdal|1898-12-06
+Leonard Nimoy|1931-03-26
+Nader Shah|1698-08-06
+Yasuo Fukuda|1936-07-16
+Stepan Bandera|1909-01-01
+Claus von Stauffenberg|1907-11-15
+Sacha Baron Cohen|1971-10-13
+Raymond Poincaré|1860-08-20
+Aleksandr Skrjabin|1872-01-06
+Igor Jevgenjevitj Tamm|1895-07-08
+Vilhelmine af Nederlandene|1880-08-31
+Fahd af Saudi-Arabien|1923-01-01
+Willem Barents|1550-01-01
+Charles Gounod|1818-06-17
+Zayn Malik|1993-01-12
+Yun Hyon-seok|1984-08-07
+Taron Egerton|1989-11-10
+Thomas Hunt Morgan|1866-09-25
+Garrincha|1933-10-28
+Macaulay Culkin|1980-08-26
+Carl Wilhelm Scheele|1742-12-09
+Mel Brooks|1926-06-28
+Hans-Georg Gadamer|1900-02-11
+Aleksandr Mikhajlovitj Prokhorov|1916-07-11
+Paul Gustave Doré|1832-01-06
+Shelley Duvall|1949-07-07
+Richard Attenborough|1923-08-29
+Giambattista Vico|1668-06-23
+Abdelmadjid Tebboune|1945-11-17
+Andrea Palladio|1508-12-10
+Mary Robinson|1944-05-21
+Victor Grignard|1871-05-06
+Bonaventura|1221-01-01
+Sadi Carnot|1796-06-01
+Paolo Veronese|1528-01-01
+Rivaldo|1972-04-19
+Pancho Villa|1878-06-05
+Henri Moissan|1852-09-28
+Habib Bourguiba|1903-08-03
+Giorgio Armani|1934-07-11
+David Letterman|1947-04-12
+Anita Ekberg|1931-09-29
+Eddie Redmayne|1982-01-06
+Dietrich Bonhoeffer|1906-02-04
+Ana Mena|1997-02-25
+Lou Reed|1942-03-02
+Kirill af Moskva|1946-11-20
+Peter Grünberg|1939-05-18
+James Woods|1947-04-18
+Amir Khosrow|1253-01-01
+Josef Mengele|1911-03-16
+Carlo Azeglio Ciampi|1920-12-09
+Hippolyte Taine|1828-04-21
+John le Carré|1931-10-19
+Friedrich Ebert|1871-02-04
+Yoshihiko Noda|1957-05-20
+Madhuri Dixit|1967-05-15
+Sultan of the Turks Bayezid II|1447-12-12
+Stefan Banach|1892-03-30
+Steven Chu|1948-02-28
+Elias Lönnrot|1802-04-09
+Hulegu Khan|1217-02-28
+Jack S. Kilby|1923-11-08
+Tina Fey|1970-05-18
+Pete Sampras|1971-08-12
+Enrico Letta|1966-08-20
+Babe Ruth|1895-02-06
+Dr. Seuss|1904-03-02
+Martin Buber|1878-02-08
+Ludwig von Mises|1881-09-29
+Boris Becker|1967-11-22
+Son Heung-min|1992-07-08
+Paul Éluard|1895-12-14
+Emilio Estevez|1962-05-12
+Jordi Alba|1989-03-21
+Laurence Sterne|1713-11-24
+Trygve Lie|1896-07-16
+Toto Cutugno|1943-07-07
+Carles Puyol|1978-04-13
+Donna Summer|1948-12-31
+Emmerson Mnangagwa|1942-09-15
+Marco Reus|1989-05-31
+John Dramani Mahama|1958-11-29
+Selim II|1524-06-09
+Edwin van der Sar|1970-10-29
+Jean Marais|1913-12-11
+Jakob Bernoulli|1655-01-05
+Stanley Baldwin|1867-08-03
+Werner Herzog|1942-09-05
+Gaetano Donizetti|1797-11-29
+Jostein Gaarder|1952-08-08
+J.P. Morgan|1837-04-17
+Olivia Wilde|1984-03-10
+Patrice Mac-Mahon|1808-06-13
+Dominique de Villepin|1953-11-14
+Hamad ibn Isa Al Khalifah|1950-01-28
+Manuel Valls|1962-08-13
+Tsung-Dao Lee|1926-11-24
+William S. Burroughs|1914-02-05
+Peter Drucker|1909-11-19
+Thomas Kuhn|1922-07-18
+Kurt Georg Kiesinger|1904-04-06
+Lucrezia Borgia|1480-04-27
+Sofija Rotaru|1947-08-07
+Albert Hofmann|1906-01-11
+Pierre de Ronsard|1524-09-21
+Abdurrahman Wahid|1940-09-07
+Aleksej Nikolajevitj Tolstoj|1883-01-10
+Jintara Poonlarp|1969-03-06
+Hermann Weyl|1885-11-09
+John Williams|1932-02-08
+Sophie Marceau|1966-11-17
+Geoffrey Rush|1951-07-06
+Nat King Cole|1919-03-17
+Walter Houser Brattain|1902-02-10
+Danny Boyle|1956-10-20
+Christopher Reeve|1952-09-25
+Jeremy Corbyn|1949-05-26
+Iris Murdoch|1919-07-15
+Ali Bongo|1959-02-09
+Errol Flynn|1909-06-20
+Ed Harris|1950-11-28
+Toyotomi Hideyoshi|1537-03-27
+Helen Clark|1950-02-26
+Raj Kapoor|1924-12-14
+Sejong den store|1397-04-18
+Henri de Saint-Simon|1760-10-17
+Edmund Spenser|1552-01-01
+Pope Honorius III|1148-01-01
+Johannes Duns Scotus|1266-01-01
+Najib Razak|1953-07-23
+Stefan Löfven|1957-07-21
+Frederick Banting|1891-11-14
+Didier Deschamps|1968-10-15
+Helena Petrovna Blavatsky|1831-08-12
+Siti Nurhaliza|1979-01-11
+Maria Gaetana Agnesi|1718-05-16
+Chris Brown|1989-05-05
+Rudolf Virchow|1821-10-13
+Omar Bongo|1935-12-30
+Pavel Tjerenkov|1904-07-28
+Stephen Curry|1988-03-14
+Will Ferrell|1967-07-16
+Nikolaj Noskov|1956-01-12
+Glenn Theodore Seaborg|1912-04-19
+Aleister Crowley|1875-10-12
+Franz von Papen|1879-10-29
+David Duchovny|1960-08-07
+Theodor Fontane|1819-12-30
+Abhishek Bachchan|1976-02-05
+Frances H. Arnold|1956-07-25
+Johannes Rau|1931-01-16
+Giovanni Domenico Cassini|1625-06-08
+Arnold Sommerfeld|1868-12-05
+Ellie Goulding|1986-12-30
+Christian Dior|1905-01-21
+Riyad Mahrez|1991-02-21
+Adrien Brody|1973-04-14
+Paul Rudd|1969-04-06
+Subhash Chandra Bose|1897-01-23
+David J. Gross|1941-02-19
+Guy Fawkes|1570-04-23
+Albert Fert|1938-03-07
+Aphra Behn|1640-07-10
+Alassane Ouattara|1942-01-01
+Robert Kiyosaki|1947-04-08
+William Morris|1834-03-24
+Rania af Jordan|1970-08-31
+Jean Bernard Léon Foucault|1819-09-18
+Denis Sassou-Nguesso|1943-11-23
+Theodore Dreiser|1871-08-27
+Nana Akufo-Addo|1944-03-29
+Billie Jean King|1943-11-22
+Jimmy Page|1944-01-09
+Leslie Nielsen|1926-02-11
+Francis William Aston|1877-09-01
+David Copperfield|1956-09-16
+Max Euwe|1901-05-20
+Norah Jones|1979-03-30
+Nestor Makhno|1888-11-07
+Samia Suluhu|1960-01-27
+Charlie Parker|1920-08-29
+Sankt Dominikus|1170-01-01
+Carlos Santana|1947-07-20
+Maria Ressa|1963-10-02
+Nikki Haley|1972-01-20
+Betty Williams|1943-05-22
+Julia Kristeva|1941-06-24
+Wesley Sneijder|1984-06-09
+Alfred de Vigny|1797-03-27
+Aleksandr Kuprin|1870-09-07
+André Maurois|1885-07-26
+Charles Michel|1975-12-21
+Jean Anouilh|1910-06-23
+Ernest Borgnine|1917-01-24
+Juan Manuel Fangio|1911-06-24
+Robert Peel|1788-02-05
+Matt LeBlanc|1967-07-25
+Geronimo|1829-06-16
+John James Audubon|1785-04-26
+Pope Benedict XII|1280-01-01
+Ramana Maharshi|1879-12-30
+Paul Auster|1947-02-03
+Tigran Petrosjan|1929-06-17
+Charles Messier|1730-06-26
+Mikhail Kalinin|1875-11-19
+Jakub Kolas|1882-11-03
+Dylan Thomas|1914-10-27
+Jason Momoa|1979-08-01
+Katerina Sakellaropoulou|1956-05-30
+Mario Götze|1992-06-03
+Har Gobind Khorana|1922-01-09
+Prabowo Subianto|1951-10-17
+Pierre Nkurunziza|1964-12-18
+Malcolm Turnbull|1954-10-24
+Ramsay MacDonald|1866-10-12
+Claude Adrien Helvétius|1715-01-26
+Giovanni Pico della Mirandola|1463-03-05
+Tamim bin Hamad Al Thani|1980-03-25
+Stephenie Meyer|1973-12-24
+Jordan Henderson|1990-06-17
+John Cleese|1939-10-27
+Katie Holmes|1978-12-18
+Johannes Hans Daniel Jensen|1907-06-25
+Martin Ryle|1918-09-27
+Calixte II|1065-01-01
+Shraddha Kapoor|1987-03-03
+Martin Weinek|1964-06-30
+Aaliyah|1979-01-16
+Harold Urey|1893-04-29
+Charles Fourier|1772-04-07
+Eliezer Ben-Yehuda|1858-01-07
+Colin Farrell|1976-05-31
+Brooke Shields|1965-05-31
+Kaley Cuoco|1985-11-30
+Andrej Kolmogorov|1903-04-25
+Leo IX.|1002-06-27
+Sridevi|1963-08-13
+Richard Griffiths|1947-07-31
+Celal Bayar|1883-05-16
+Owen Wilson|1968-11-18
+N'Golo Kanté|1991-03-29
+Nikolaj Bukharin|1888-10-09
+Geena Davis|1956-01-21
+Jon Bon Jovi|1962-03-02
+Edith Stein|1891-10-12
+Robinho|1984-01-25
+Hermann Minkowski|1864-06-22
+Isaac Herzog|1960-09-22
+Oriana Fallaci|1929-06-29
+Murad I|1326-06-29
+Jürgen Klinsmann|1964-07-30
+Fergie|1975-03-27
+Anna af Rusland|1693-02-07
+Maximilian Schell|1930-12-08
+Robert Graves|1895-07-24
+Nicolaas Bloembergen|1920-03-11
+John Malkovich|1953-12-09
+Louis van Gaal|1951-08-08
+Dennis Bergkamp|1969-05-10
+Patti Smith|1946-12-30
+Tommaso Campanella|1568-09-14
+John Wesley|1703-06-28
+Ugo Foscolo|1778-02-06
+Giorgi Margvelasjvili|1969-09-04
+Ilya Prigogine|1917-01-25
+Lena Meyer-Landrut|1991-05-23
+Larry Ellison|1944-08-17
+Yves Saint-Laurent|1936-08-01
+Arthur Stanley Eddington|1882-12-28
+Thomas Pynchon|1937-05-08
+Zbigniew Brzezinski|1928-03-28
+Anthony Burgess|1917-02-25
+Lee Myung-bak|1941-12-19
+Olivia Newton-John|1948-09-26
+John Logie Baird|1888-08-13
+Loreen|1983-10-16
+Rod Stewart|1945-01-10
+Juanes|1972-08-09
+Joan Fontaine|1917-10-22
+Jean-Baptiste Camille Corot|1796-07-16
+Shinichiro Tomonaga|1906-03-31
+Fra Angelico|1390-01-01
+Jon Fosse|1959-09-29
+Simon van der Meer|1925-11-24
+Louis Althusser|1918-10-16
+Brian D. Josephson|1940-01-04
+Yaya Touré|1983-05-13
+Carlos Tévez|1984-02-05
+Howard Hughes|1905-12-24
+Eric Hobsbawm|1917-06-09
+Joey King|1999-07-30
+Janet Yellen|1946-08-13
+John McEnroe|1959-02-16
+Banksy|1973-01-01
+Arturo Vidal|1987-05-22
+Kurt Russell|1951-03-17
+Anna Kendrick|1985-08-09
+Frits Zernike|1888-07-16
+Prins George af Cambridge|2013-07-22
+Nikolaj Gennadijevitj Basov|1922-12-14
+David Silva|1986-01-08
+Meg Ryan|1961-11-19
+Henri af Luxembourg|1955-04-16
+Paul Claudel|1868-08-06
+Luc Montagnier|1932-08-18
+Burt Reynolds|1936-02-11
+Angelique Rockas|1951-08-31
+Dave Grohl|1969-01-14
+Martin Lewis Perl|1927-06-24
+Frédéric Passy|1822-05-20
+Steve Ballmer|1956-03-24
+Guillermo del Toro|1964-10-09
+Ernest Shackleton|1874-02-15
+Prinsesse Anne af Storbritannien|1950-08-15
+William Edward Burghardt Du Bois|1868-02-23
+Ruud van Nistelrooy|1976-07-01
+Rudolf Ludwig Mössbauer|1929-01-31
+Nikolaj Tsjernysjevskij|1828-07-24
+Edward Mills Purcell|1912-08-30
+Herbert von Karajan|1908-04-05
+Gustavo Adolfo Bécquer|1836-02-17
+Karl Barth|1886-05-10
+Willem Einthoven|1860-05-21
+Richard Dedekind|1831-10-06
+Éamon de Valera|1882-10-14
+Jacques Monod|1910-02-09
+Larry David|1947-07-02
+Jorge Rafael Videla|1925-08-02
+Ahmed Zewail|1946-02-26
+Antonin Artaud|1896-09-04
+Bella Thorne|1997-10-08
+Mahmoud Darwish|1941-03-13
+Carl Rogers|1902-01-08
+Nicholas Hoult|1989-12-07
+Kiefer Sutherland|1966-12-21
+Ernst Ruska|1906-12-25
+Pope Celestine III|1106-01-01
+Zico|1953-03-03
+Aaron Burr|1756-02-06
+Simone Signoret|1921-03-25
+John Atta Mills|1944-07-21
+Alicia Vikander|1988-10-03
+Donato Bramante|1444-01-01
+John Kenneth Galbraith|1908-10-15
+Johnny Hallyday|1943-06-15
+Kendrick Lamar|1987-06-17
+Robert Mitchum|1917-08-06
+Masatoshi Koshiba|1926-09-19
+Leon M. Lederman|1922-07-15
+Urho Kekkonen|1900-09-03
+Laurence Fishburne|1961-07-30
+John Cage|1912-10-05
+George F. Smoot|1945-02-20
+Philippe Coutinho|1992-06-12
+Raheem Sterling|1994-12-08
+Harry Belafonte|1927-03-01
+Janusz Korczak|1878-07-21
+A. C. Bhaktivedanta Swami Prabhupada|1896-09-01
+Bastian Schweinsteiger|1984-08-01
+Mikhail Glinka|1804-06-01
+Blake Clark|1946-02-02
+Kate Bush|1958-07-30
+Konstantin XI Palaiologos|1404-02-17
+Harold Godvinson|1026-01-01
+Tedros Adhanom|1965-03-03
+Gottlieb Daimler|1834-03-17
+Fernandel|1903-05-08
+Donald Pleasence|1919-10-05
+Gerard 't Hooft|1946-07-05
+Helen Hunt|1963-06-15
+Zviad Gamsakhurdia|1939-03-31
+Alfred Kastler|1902-05-03
+Georg Simmel|1858-03-01
+Warren Beatty|1937-03-30
+Artemisia Gentileschi|1593-07-08
+Vangelis|1943-03-29
+Saoirse Ronan|1994-04-12
+Viktoria Azarenka|1989-07-31
+Rosamund Pike|1979-01-27
+Michio Kaku|1947-01-24
+Képler Laveran Lima Ferreira|1984-02-26
+Enzo Ferrari|1898-02-18
+David Gilmour|1946-03-06
+José Ramos-Horta|1949-12-26
+Venkatraman Ramakrishnan|1952-04-04
+Haakon Magnus af Norge|1973-07-20
+Carlo Rubbia|1934-03-31
+Joséphine de Beauharnais|1763-06-23
+Joachim Murat|1767-03-25
+Sami Khedira|1987-04-04
+Carl Lewis|1961-07-01
+Giuseppe Piazzi|1746-07-16
+Salva Kiir Mayardit|1951-09-13
+Fritz Lang|1890-12-05
+Walter Ulbricht|1893-06-30
+Juana Inés de la Cruz|1651-11-12
+Buddy Holly|1936-09-07
+Fred Rogers|1928-03-20
+Ben Bernanke|1953-12-13
+Rio Ferdinand|1978-11-07
+Takeshi Kitano|1947-01-18
+Quincy Jones|1933-03-14
+Leo Esaki|1925-03-12
+Abdülaziz|1830-02-08
+Denys Sjmyhal|1975-10-15
+José Manuel Reina|1982-08-31
+Anna Magnani|1908-03-07
+Wilford Brimley|1934-09-27
+Nawal El Saadawi|1931-10-27
+Jenna Jameson|1974-04-09
+Martin Niemöller|1892-01-14
+Richard Bach|1936-06-23
+Joni Mitchell|1943-11-07
+Georgij Plekhanov|1856-11-29
+Friedrich Schlegel|1772-03-10
+Patrick Maynard Stuart Blackett|1897-11-18
+Gilbert du Motier de La Fayette|1757-09-06
+Harold Lloyd|1893-04-20
+Mikhail Kutuzov|1747-09-16
+Jackie Shroff|1957-02-01
+Vladimir Zjirinovskij|1946-04-25
+Alcide De Gasperi|1881-04-03
+Roza Otunbajeva|1950-08-23
+Charles G. Dawes|1865-08-27
+Frances Hodgson Burnett|1849-11-24
+Georg Büchner|1813-10-17
+Alec Douglas-Home|1903-07-02
+Timothy Dalton|1946-03-21
+Lorde|1996-11-07
+Mats Hummels|1988-12-16
+Edward Elgar|1857-06-02
+Josiah Willard Gibbs|1839-02-11
+Halimah Yacob|1954-08-23
+Kevin Durant|1988-09-29
+Alan Shearer|1970-08-13
+Angela Lansbury|1925-10-16
+L. Frank Baum|1856-05-15
+Lee Harvey Oswald|1939-10-18
+Faye Dunaway|1941-01-14
+Robert Schuman|1886-06-29
+Kenneth Kaunda|1924-04-28
+Cemal Gürsel|1895-10-13
+Sophie Scholl|1921-05-09
+Hunter S. Thompson|1937-07-18
+Almazbek Atambajev|1956-09-17
+Andrew Mountbatten-Windsor|1960-02-19
+Andrew Tate|1986-12-01
+Michael Moore|1954-04-23
+Emma Roberts|1991-02-10
+Freeman Dyson|1923-12-15
+Ruslana|1973-05-24
+Harry Mulisch|1927-07-29
+Tulsidas|1532-01-01
+Goodluck Jonathan|1957-11-20
+Julie Christie|1940-04-14
+Yair Lapid|1963-11-05
+Lily Allen|1985-05-02
+George Stephenson|1781-06-09
+William Alfred Fowler|1911-08-09
+Franz Marc|1880-02-08
+Kenny Rogers|1938-08-21
+Alfred Marshall|1842-07-26
+Geert Wilders|1963-09-06
+Ruud Gullit|1962-09-01
+Sid Vicious|1957-05-10
+Magdalena Andersson|1967-01-23
+Yoshinori Ohsumi|1945-02-09
+Niki Lauda|1949-02-22
+Frantz Fanon|1925-07-20
+Alva Myrdal|1902-01-31
+Gustavo Petro|1960-04-19
+Matthew Arnold|1822-12-24
+Léon Blum|1872-04-09
+John XIV|1000-01-01
+Philip Pullman|1946-10-19
+Hubert Humphrey|1911-05-27
+Vandana Shiva|1952-11-05
+Vladimir Kramnik|1975-06-25
+Irving Langmuir|1881-01-31
+Isoroku Yamamoto|1884-04-04
+Jeff Goldblum|1952-10-22
+Charles K. Kao|1933-11-04
+Nikita Mikhalkov|1945-10-21
+Ernst Ludwig Kirchner|1880-05-06
+Zooey Deschanel|1980-01-17
+Audrey Tautou|1976-08-09
+Aleksandr Vasiljevitj Koltjak|1874-11-16
+Christopher Walken|1943-03-31
+Sam Altman|1985-04-22
+Nick Jonas|1992-09-16
+Samuel de Champlain|1574-08-13
+Leon Cooper|1930-02-28
+Jean Paul|1763-03-21
+Chrétien de Troyes|1135-01-01
+Simone Biles|1997-03-14
+Reuven Rivlin|1939-09-09
+Wilhelm Keitel|1882-09-22
+Toomas Hendrik Ilves|1953-12-26
+Aristide Briand|1862-03-28
+Ramon Llull|1232-01-01
+Georg Philipp Telemann|1681-03-24
+Rudolf Nurejev|1938-03-17
+Benicio del Toro|1967-02-19
+Lenny Kravitz|1964-05-26
+John C. Calhoun|1782-03-18
+Natalie Wood|1938-07-20
+Robert Edwards|1925-09-27
+Clemens II.|1005-10-01
+Robert Plant|1948-08-20
+Lucius III|1110-01-01
+Ahmad Shah|1722-01-01
+Sultan of the Turks Abdülmecit I|1823-04-25
+Norbert Wiener|1894-11-26
+Viktor Tjernomyrdin|1938-04-09
+George Takei|1937-04-20
+Nikolaj Berdjajev|1874-03-18
+Alisson Becker|1992-10-02
+Heinrich Schliemann|1822-01-06
+Alfred Rosenberg|1893-01-12
+Joyce Banda|1950-04-12
+Johann Bernoulli|1667-08-06
+Wilhelm Steinitz|1836-05-14
+Daphne du Maurier|1907-05-13
+Jim Varney|1949-06-15
+Keisuke Honda|1986-06-13
+Heinrich Rohrer|1933-06-06
+Achraf Hakimi|1998-11-04
+Mester Eckehart|1260-01-01
+Chris Martin|1977-03-02
+Gerardus Mercator|1512-03-15
+Yves Montand|1921-10-13
+Augustin-Jean Fresnel|1788-05-10
+Holly Hunter|1958-03-20
+Saint Francis de Sales|1567-08-31
+Virgil van Dijk|1991-07-08
+Cyndi Lauper|1953-06-22
+Conor McGregor|1988-07-14
+Vanessa Paradis|1972-12-22
+Nicola Sturgeon|1970-07-19
+Ingvar Kamprad|1926-03-30
+Jules Michelet|1798-08-22
+Steve Buscemi|1957-12-13
+John Coltrane|1926-09-23
+John Key|1961-08-09
+Shuji Nakamura|1954-05-22
+Lily Collins|1989-03-18
+Ilja Michailovich Frank|1908-10-23
+Dalida|1933-01-17
+Nicole Scherzinger|1978-06-29
+Charles Louis Alphonse Laveran|1845-06-18
+Kurt Alder|1902-07-10
+Mehmet I|1386-01-01
+Gerd Binnig|1947-07-20
+Juan Manuel Mata|1988-04-28
+Ted Turner|1938-11-19
+Paschal II|1050-01-01
+Lilian Thuram|1972-01-01
+Jim Parsons|1973-03-24
+Muhammad Ali Pasha|1769-03-04
+Georgi Dimitrov|1882-06-30
+Alan Arkin|1934-03-26
+Jacqueline Bisset|1944-09-13
+Egon Schiele|1890-06-12
+Jonathan Winters|1925-11-11
+Peter Gabriel|1950-02-13
+Saul Perlmutter|1959-09-22
+Bud Spencer|1929-10-31
+Cindy Crawford|1966-02-20
+Thiago Silva|1984-09-22
+Yoichiro Nambu|1921-01-18
+Hailee Steinfeld|1996-01-01
+Bojko Borisov|1959-06-13
+Julian Seymour Schwinger|1918-02-12
+Alfred Werner|1866-12-12
+Tim Walz|1964-04-06
+Pope Gregory VI|1000-01-01
+Jevgenij Jevtusjenko|1933-07-18
+Jay Leno|1950-04-28
+Manny Pacquiao|1978-12-17
+Nelson Rockefeller|1908-07-08
+Erich Ludendorff|1865-04-09
+Imre Nagy|1896-06-07
+Sidney Lumet|1924-06-25
+Vitalij Klytjko|1971-07-19
+Nani|1986-11-17
+Mia Farrow|1945-02-09
+Dolores O'Riordan|1971-09-06
+Carl Bosch|1874-08-27
+Ronnie James Dio|1942-07-10
+William Hurt|1950-03-20
+Jules Renard|1864-02-22
+Andrej Gromyko|1909-07-18
+Antonio Salieri|1750-08-18
+Karol Nawrocki|1983-03-03
+Douglas C. Engelbart|1925-01-30
+Karl Kraus|1874-04-28
+Osip Mandelsjtam|1891-01-14
+Don Rickles|1926-05-08
+Iskandar Muda|1583-01-01
+Armen Sarkissian|1953-06-23
+Rodri|1996-06-22
+Jeanne Calment|1875-02-21
+Henrikh Mkhitaryan|1989-01-21
+Willis Eugene Lamb|1913-07-12
+Garry Marshall|1934-11-13
+Ahmet Necdet Sezer|1941-09-13
+Syd Barrett|1946-01-06
+Johanne af Kastilien|1479-11-15
+The Weeknd|1990-02-16
+Edward Kennedy|1932-02-22
+Shehbaz Sharif|1951-09-23
+Arthur Koestler|1905-09-05
+Domenico Ghirlandaio|1448-06-11
+Sunita Williams|1965-09-19
+Cormac McCarthy|1933-07-20
+Miranda Cosgrove|1993-05-14
+Yitzhak Shamir|1915-10-22
+Michel Aoun|1933-09-30
+Donald Trump|1946-06-14
+Rembrandt|1606-07-15
+Erling Haaland|2000-07-21
+Hans Christian Ørsted|1777-08-14
+Jens Lehmann|1969-11-10
+Åge Hareide|1953-09-23
+Natasja|1974-10-31
+Hans Wegner|1914-04-02
+Mozart|1979-11-08
+Tessa|1997-09-08
+Hugo|1981-08-06
+Sofie Linde|1989-09-22
+Søs Fenger|1961-12-02
+Tobias Rahim|1989-11-10
+Burhan G|1983-01-20
+Lars Hjortshøj|1967-06-03
+Kesi|1992-09-07
+Niels Hausgaard|1944-08-31
+Jan Gintberg|1963-12-03
+Chris Holsten|1993-05-04
+Leonardo|1963-07-25
+Søren Østergaard|1957-05-11
+Thomas Helmig|1948-01-01
+Martin Brygmann|1963-01-25
+Gilli|1000-01-01
+Andreas Odbjerg|1987-12-05
+Kurt Ravn|1947-12-29
+Barbara Moleko|1986-01-01
+Felix Smith|1976-10-12
+Michael Bundesen|1949-05-12
+Anders Matthesen|1975-07-06
+Clement Kjersgaard|1975-09-20
+Jørgen Clevin|1920-04-24
+Mikael Bertelsen|1967-10-05
+Ida Laurberg|2000-03-07
+Gustav|1975-04-29
+Sebastian Klein|1972-07-20
+Malte Ebert|1994-06-26
+Szhirley|1976-09-23
+Messi|1985-07-10
+Jacob Riising|1978-10-14
+Huxi Bach|1978-03-09
+Christian Fuhlendorff|1982-11-15
+Bubber|1964-12-11
+Mick Øgendahl|1973-04-07
+Ole Kirk|1788-10-09
+Puk Elgård|1968-02-03
+Signe Molde|1977-06-02
+Rasmus Nøhr|1972-03-07
+Egon Olsen|1959-12-11
+Lego|1973-01-01
+Benny|1996-04-14
+Emil Thorup|1983-09-05
+Jesper Buch|1975-08-30
+Uffe Holm|1976-04-13
+Aqua|1982-04-06
+Sven Brinkmann|1965-01-01
+Napoleon|1769-08-15
+Yuri Gagarin|1934-03-09
+Hulk|1986-07-25
+Gordon Ramsay|1966-11-08
+Jamie Oliver|1975-05-27
+Uri Geller|1946-12-20
+David Blaine|1973-04-04
+Dynamo|1982-12-17
+James Bond|1900-01-04
+Derren Brown|1971-02-27
+Mario|1986-08-27
+Ken|1992-04-06
+Platon|1869-07-25
+King Charles|1988-05-06
+Mona Lisa|1922-06-22
+Gandalf|1952-12-04
+Bach|1882-11-09
+Cleopatra|1963-09-01
+Kennedy|1972-09-08
+Julius Caesar|1830-03-25
+Harry Potter|1997-12-15
+Diana|1950-06-02
+Darth Vader|1956-01-10
+Peter Pan|1984-06-20
+Jesus|1956-01-14
+Moses|1962-05-03
+Houdini|1998-01-01
+Barbie|1974-04-21
+Thor|1980-12-02
+Superman|1920-04-24
+Mickey|1997-07-15
+Gandhi|1980-08-01
+Buddha|1972-04-30
+Olaf|1940-01-01
+Sonic|1995-11-20
+Columbus|1101-01-01
+John F Kennedy|1942-01-01

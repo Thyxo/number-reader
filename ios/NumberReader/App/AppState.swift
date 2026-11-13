@@ -31,7 +31,12 @@ final class AppState {
     var indexReady = false
 
     // ---------- resultat ----------
-    var cur: ScanResult?
+    var cur: ScanResult? {
+        didSet { if let c = cur, histPos >= 0, histPos < history.count { history[histPos] = c } }
+    }
+    /// Alle scanninger/tastninger (ældste først). Peek-skærmen swiper mellem dem.
+    var history: [ScanResult] = []
+    var histPos = -1
     var typed = ""
     var scanning = false
     var lastRead = "–"
@@ -68,6 +73,16 @@ final class AppState {
         scanner.onFrame = { [weak self] best, frame in self?.handleFrame(best, frame) }
         scanner.onStatus = { [weak self] st in self?.handleStatus(st) }
         rebuild()
+        VolumeButtons.shared.enabled = s.volumeScan
+        VolumeButtons.shared.onUp = { [weak self] in
+            guard let self, self.s.volumeScan, !self.scanning else { return }
+            self.log("Volumen op: scan")
+            self.toggleScan()
+        }
+        VolumeButtons.shared.onDown = { [weak self] in
+            guard let self, self.s.volumeScan, self.scanning else { return }
+            self.stopScan()
+        }
         if s.autoScan { DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) { [weak self] in self?.toggleScan() } }
     }
 
@@ -91,9 +106,11 @@ final class AppState {
         if n == old { return }
         s = n
         s.save()
-        if old.dCelebs != n.dCelebs || old.dNames != n.dNames || old.dWords != n.dWords || old.custom != n.custom {
+        if old.dCelebs != n.dCelebs || old.dNames != n.dNames || old.dWords != n.dWords || old.custom != n.custom || old.dExtra != n.dExtra {
             rebuild()
         }
+        if old.guess != n.guess { index?.guessing = n.guess; redecode() }
+        if old.volumeScan != n.volumeScan { VolumeButtons.shared.enabled = n.volumeScan }
         if old.force != n.force || old.forceSrc != n.forceSrc || old.forceFmt != n.forceFmt || old.clockAdd != n.clockAdd || old.forceFixed != n.forceFixed {
             computeForce()
         }
@@ -102,19 +119,36 @@ final class AppState {
     func rebuild() {
         let s = self.s, data = self.data
         let custom = s.customLines.map { $0.components(separatedBy: "|")[0].trimmingCharacters(in: .whitespaces) }.filter { !$0.isEmpty }
+        rebuildGen += 1
+        let gen = rebuildGen
+        let firstTime = index == nil
         Task.detached(priority: .userInitiated) {
-            let idx = T9Index(data: data, celebs: s.dCelebs, names: s.dNames, words: s.dWords, custom: custom)
-            await MainActor.run {
-                self.index = idx
-                self.indexReady = true
-                if let c = self.cur {
-                    let p = c.pick
-                    self.setResult(c.digits, src: c.src)
-                    self.cur?.pick = min(p, max(0, (self.cur?.cands.count ?? 1) - 1))
-                    self.computeForce()
+            // Første gang: de almindelige lister først (hurtigt), så den udvidede ordbog bagefter
+            let passes = (firstTime && s.dExtra) ? [false, true] : [s.dExtra]
+            for extra in passes {
+                let idx = T9Index(data: data, celebs: s.dCelebs, names: s.dNames, words: s.dWords, extra: extra, custom: custom)
+                idx.guessing = s.guess
+                await MainActor.run {
+                    guard gen == self.rebuildGen else { return }
+                    self.index = idx
+                    self.indexReady = true
+                    if extra { self.log("Ordbog klar (udvidet)") }
+                    self.redecode()
                 }
             }
         }
+    }
+    @ObservationIgnored private var rebuildGen = 0
+
+    /// Afkod alle gemte resultater igen (ny ordbog / gæt slået til/fra) og behold valget
+    func redecode() {
+        for i in history.indices {
+            let h = history[i]
+            history[i].cands = decode(h.digits, max: 6)
+            history[i].pick = min(h.pick, max(0, history[i].cands.count - 1))
+        }
+        if histPos >= 0 && histPos < history.count { cur = history[histPos] }
+        computeForce()
     }
 
     func decode(_ digits: String, max: Int = 5) -> [Candidate] { index?.decode(digits, max: max) ?? [] }
@@ -122,7 +156,16 @@ final class AppState {
     // ---------- resultat ----------
     func setResult(_ digits: String, src: String) {
         let cands = decode(digits, max: 6)
-        cur = ScanResult(digits: digits, src: src, cands: cands, pick: 0, force: nil)
+        let r = ScanResult(digits: digits, src: src, cands: cands, pick: 0, force: nil)
+        // Tastning opdaterer det seneste tastede resultat; hver scanning bliver et nyt
+        if src == "tastet", histPos == history.count - 1, history.last?.src == "tastet" {
+            history[histPos] = r
+        } else {
+            history.append(r)
+            if history.count > 30 { history.removeFirst() }
+            histPos = history.count - 1
+        }
+        cur = r
         computeForce()
         log("\(src == "kamera" ? "Kamera" : "Tastet"): \(digits) → \(cands.prefix(3).map(\.text).joined(separator: ", ").isEmpty ? "(intet)" : cands.prefix(3).map(\.text).joined(separator: ", "))")
     }
@@ -167,7 +210,17 @@ final class AppState {
         if cur?.force != nil && cur?.src == "kamera" { applyForce() }
     }
 
-    func clearResult() { cur = nil; typed = "" }
+    func clearResult() { history = []; histPos = -1; cur = nil; typed = "" }
+
+    /// Peek-skærmen: swipe til højre = ældre, til venstre = nyere
+    func stepHistory(_ delta: Int) {
+        let j = histPos + delta
+        guard j >= 0, j < history.count else { Haptic.tap(.rigid); return }
+        histPos = j
+        cur = history[j]
+        Haptic.tap(.light)
+        if peekScreenOpen { openPeekScreen() } // start 2-sek.-tiden forfra
+    }
 
     // ---------- peek ----------
     var peekColor: Color {
@@ -281,7 +334,7 @@ final class AppState {
         let n = recent.filter { $0 == r.digits }.count
         if n >= s.confirm { return true }
         guard r.conf >= 85, let top = decode(r.digits, max: 1).first else { return false }
-        return top.kind == "custom" || top.kind == "celeb"
+        return top.kind == "custom" || top.kind == "celeb" || top.kind == "celebExtra"
     }
 
     // ---------- numerisk blok ----------

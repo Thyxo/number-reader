@@ -82,4 +82,11 @@ Mappen `ios/` er en native Swift/SwiftUI-version af appen (samme funktioner, App
 | `ios/scripts/make-words-json.py` | `src/words.js` → `ios/NumberReader/Resources/words.json` (kører også i CI) |
 | `ios/Tests/main.swift` | Én hurtig test af T9 + regnemetoden (kører i CI før buildet) |
 
+**Kun i iOS-appen:**
+- **Volumen op** = start scanning, **volumen ned** = stop (lydstyrken sættes straks tilbage). Kan slås fra under Kamera.
+- **Flere scanninger:** på peek-skærmen (✱) swipes til højre for ældre og til venstre for nyere (op til 30).
+- **Udvidet ordbog:** +7.000 kendte (Wikidata, danskere først), fødselsdage til ~6.900 af dem, +6.000 for-/efternavne (hyppigst blandt danskere i Wikidata) og +190.000 ord (Stavekontrolden.dk + OpenSubtitles-frekvens). Altid under de håndplukkede lister. Hentes med `python3 ios/scripts/fetch-data.py` → `ios/data/`.
+- **Kvalificeret gæt**, når intet passer: sammensatte ord, ét fejllæst/manglende/ekstra ciffer, ord der starter med tallene og til sidst mest sandsynlige bogstaver.
+- **Lommeregner → telefon:** tryk på det sorte felt nederst til venstre under knapperne (eller hold på uret).
+
 Lokalt på en Mac: `brew install xcodegen && cd ios && xcodegen && open NumberReader.xcodeproj`.

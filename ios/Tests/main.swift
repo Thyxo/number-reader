@@ -16,6 +16,14 @@ check(top("Mette Jensen") == "Mette Jensen", "fornavn + efternavn")
 check(idx.decode(T9.toDigits("Kim") + "0" + T9.toDigits("Larsen")).first?.text == "Kim Larsen", "0 = mellemrum")
 check(T9Index(data: data, custom: ["Fido"]).decode(T9.toDigits("Fido")).first?.text == "Fido", "egne navne først")
 
+// Udvidet ordbog + kvalificeret gæt
+let big = T9Index(data: data, extra: true)
+check(big.decode(T9.toDigits("Bjarne Stroustrup")).first?.text == "Bjarne Stroustrup", "udvidet: kendte fra Wikidata")
+check(big.decode(T9.toDigits("Kim Larsen")).first?.text == "Kim Larsen", "udvidet: håndplukkede vinder stadig")
+check(big.decode(T9.toDigits("Nedfaldsfrugt")).contains { $0.text == "Nedfaldsfrugt" }, "udvidet: Stavekontrolden-ord")
+check(big.decode("43555").first?.kind == "guess", "gæt: tal uden match giver et bud")
+check(!big.decode("2398574365").isEmpty, "gæt: altid et bud")
+
 let r = Force.solve("3662538786", "140646")
 check(r.neg && Force.add(r.a, "140646") == "3662538786", "regnemetode negativ")
 check(Force.solve("54652736", "99999999") == ("45347263", false), "regnemetode")

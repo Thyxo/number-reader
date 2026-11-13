@@ -25,10 +25,29 @@ struct PeekScreen: View {
             .padding(24)
             .frame(width: geo.size.width, height: geo.size.height)
         }
+        .overlay(alignment: .bottom) {
+            // Diskret: hvilken scanning der vises (kun når der er flere)
+            if app.history.count > 1 {
+                HStack(spacing: 5) {
+                    ForEach(0..<app.history.count, id: \.self) { i in
+                        Circle().frame(width: 4, height: 4).opacity(i == app.histPos ? 0.35 : 0.12)
+                    }
+                }
+                .padding(.bottom, 24)
+            }
+        }
         .foregroundColor(white ? .black : .white)
         .background((white ? Color.white : Color.black).ignoresSafeArea())
         .contentShape(Rectangle())
-        .onPress { app.closePeekScreen() }
+        // Tryk = luk · swipe til højre = ældre scanning · swipe til venstre = nyere
+        .gesture(DragGesture(minimumDistance: 0).onEnded { v in
+            let dx = v.translation.width, dy = v.translation.height
+            if abs(dx) > 40 && abs(dx) > abs(dy) {
+                app.stepHistory(dx > 0 ? -1 : 1)
+            } else if abs(dx) < 12 && abs(dy) < 12 {
+                app.closePeekScreen()
+            }
+        })
     }
 }
 

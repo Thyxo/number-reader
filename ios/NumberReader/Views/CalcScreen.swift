@@ -29,6 +29,14 @@ struct CalcScreen: View {
             .overlay(alignment: .topLeading) {
                 if bubble { copyBubble(u: u, W: W, geo: geo) }
             }
+            .overlay(alignment: .bottomLeading) {
+                // Det sorte felt under knapperne, nederst til venstre = tilbage til telefonen
+                Color.clear
+                    .frame(width: (geo.size.width - W) / 2 + W * 0.45,
+                           height: max(10, max(app.insets.bottom, 14) + 7.2 * u + CGFloat(app.s.vAdjust) - 2))
+                    .contentShape(Rectangle())
+                    .onPress { Haptic.tap(.light); app.setMode("pad") }
+            }
         }
         .ignoresSafeArea()
         .background(Color.black.ignoresSafeArea())

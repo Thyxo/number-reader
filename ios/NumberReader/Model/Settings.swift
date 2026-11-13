@@ -31,6 +31,9 @@ struct Settings: Codable, Equatable {
     var clockAdd = 2
     var forceFixed = ""
     var debug = true           // gem de sidste billeder til debug-visningen
+    var dExtra = true          // udvidet ordbog: 7.000 kendte, 6.000 navne, 190.000 ord
+    var guess = true           // kvalificeret gæt, når intet passer
+    var volumeScan = true      // volumen op = start scanning · volumen ned = stop
 
     init() {}
 
@@ -49,6 +52,7 @@ struct Settings: Codable, Equatable {
         peekWhere = v(.peekWhere, d.peekWhere); tab3Peek = v(.tab3Peek, d.tab3Peek); force = v(.force, d.force)
         forceSrc = v(.forceSrc, d.forceSrc); forceFmt = v(.forceFmt, d.forceFmt); clockAdd = v(.clockAdd, d.clockAdd)
         forceFixed = v(.forceFixed, d.forceFixed); debug = v(.debug, d.debug)
+        dExtra = v(.dExtra, d.dExtra); guess = v(.guess, d.guess); volumeScan = v(.volumeScan, d.volumeScan)
     }
 
     static let key = "nr.settings.v1"

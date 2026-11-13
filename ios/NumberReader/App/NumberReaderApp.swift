@@ -40,6 +40,7 @@ struct RootView: View {
             if app.s.viewfinder && app.scanning {
                 Viewfinder(session: app.scanner.session, topPad: 50 + max(0, 14 - app.insets.top)).zIndex(70)
             }
+            VolumeHUDHider().frame(width: 0, height: 0).allowsHitTesting(false)
             TouchObserver(onTouchDown: secretTap, onInsets: { i in
                 app.insets = EdgeInsets(top: i.top, leading: i.left, bottom: i.bottom, trailing: i.right)
             })

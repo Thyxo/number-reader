@@ -35,7 +35,7 @@ struct SecretPanel: View {
                     camSection
                     dictSection
                     miscSection
-                    Text("Åbn: 5 hurtige tryk øverst til højre · Peek-skærm: ✱ · Scan: tryk øverst · Lommeregner: luppen · Tilbage: hold på uret")
+                    Text("Åbn: 5 hurtige tryk øverst til højre · Peek-skærm: ✱ · Scan: tryk øverst · Lommeregner: luppen · Tilbage: hold på uret eller tryk nederst til venstre")
                         .font(.system(size: 12)).foregroundColor(Color(hex: 0x636366))
                         .multilineTextAlignment(.center)
                         .padding(.horizontal, 16).padding(.top, 14)
@@ -139,7 +139,7 @@ struct SecretPanel: View {
         return t
     }
 
-    static let kind = ["custom": "egen", "celeb": "kendt", "celebPart": "kendt", "first": "navn", "last": "efternavn", "word": "ord", "pair": "navn", "multi": "flere ord"]
+    static let kind = ["custom": "egen", "celeb": "kendt", "celebPart": "kendt", "first": "navn", "last": "efternavn", "word": "ord", "pair": "navn", "multi": "flere ord", "celebExtra": "kendt", "guess": "gæt"]
 
     private func heroButton(_ t: String, fg: Color, bg: Color, action: @escaping () -> Void) -> some View {
         Button(action: action) {
@@ -200,19 +200,22 @@ struct SecretPanel: View {
                 ToggleRow("Gem debug-billeder", app.bind(\.debug))
                 InfoRow("OCR-motor", "Apple Vision")
                 InfoRow("Sidst læst", app.lastRead)
+                ToggleRow("Volumen op = scan · ned = stop", app.bind(\.volumeScan))
             }
-            Note("Start: tryk øverst på skærmen (numerisk blok: over tallet · lommeregner: mellem de to runde knapper). Tryk igen = stop.")
+            Note("Start: tryk øverst på skærmen (numerisk blok: over tallet · lommeregner: mellem de to runde knapper) eller tryk volumen op. Tryk igen = stop. Peek-skærmen (✱): swipe til højre = ældre scanning, til venstre = nyere.")
         }
     }
 
     private var dictSection: some View {
         PSection(id: "dict", title: "Ordbog", icon: "book", color: Color(hex: 0xff9f0a),
-                summary: [app.s.dCelebs ? "Kendte" : nil, app.s.dNames ? "Navne" : nil, app.s.dWords ? "Ord" : nil].compactMap { $0 }.joined(separator: " · ").ifEmpty("Kun egne"),
+                summary: [app.s.dCelebs ? "Kendte" : nil, app.s.dNames ? "Navne" : nil, app.s.dWords ? "Ord" : nil, app.s.dExtra ? "udvidet" : nil].compactMap { $0 }.joined(separator: " · ").ifEmpty("Kun egne"),
                 open: $open) {
             PGroup {
                 ToggleRow("Kendte personer", app.bind(\.dCelebs))
                 ToggleRow("Fornavne og efternavne", app.bind(\.dNames))
                 ToggleRow("Danske ord (25.000)", app.bind(\.dWords))
+                ToggleRow("Udvidet: +7.000 kendte, +6.000 navne, +190.000 ord", app.bind(\.dExtra))
+                ToggleRow("Kvalificeret gæt, når intet passer", app.bind(\.guess))
             }
             Note("Egne navne – én pr. linje, vinder altid")
             ZStack(alignment: .topLeading) {
