@@ -63,3 +63,23 @@ Vercel-projekt **number-reader** (team *thyxo's projects*), koblet til GitHub:
 
 ### Installér på iPhone
 Åbn adressen i **Safari** → Del → **Føj til hjemmeskærm** (navnet er "Telefon"). Giv kameraadgang første gang du scanner.
+
+## Native iOS-app (SideStore)
+Mappen `ios/` er en native Swift/SwiftUI-version af appen (samme funktioner, Apple Vision i stedet for Tesseract). Den bygges i GitHub Actions (`.github/workflows/ios.yml`) uden Mac og uden signering – SideStore signerer selv.
+
+**SideStore-source:** `https://raw.githubusercontent.com/Thyxo/number-reader/main/sidestore/apps.json`
+
+1. Åbn SideStore på iPhonen → **Sources** → **+** → indsæt linket ovenfor.
+2. Find **Telefon** i sourcen → **Free** / **Install**.
+3. Opdateringer: hver build laver en GitHub Release (`v<version>-<build>`), og workflowet opdaterer `sidestore/apps.json` automatisk.
+
+| Fil | Indhold |
+|---|---|
+| `ios/project.yml` | XcodeGen-projekt (iOS 17, `dk.thyxo.numberreader`, navn "Telefon"). Version = `MARKETING_VERSION` |
+| `ios/NumberReader/Model/` | T9, regnemetode, lommeregner, indstillinger (ingen UIKit – testes på Linux/macOS med `swiftc`) |
+| `ios/NumberReader/Scan/` | Kamera + Vision (`VNRecognizeTextRequest`, `.accurate`, ingen sprogkorrektion) |
+| `ios/NumberReader/Views/` | Numerisk blok, lommeregner, hemmeligt panel, peek-skærm, debug |
+| `ios/scripts/make-words-json.py` | `src/words.js` → `ios/NumberReader/Resources/words.json` (kører også i CI) |
+| `ios/Tests/main.swift` | Én hurtig test af T9 + regnemetoden (kører i CI før buildet) |
+
+Lokalt på en Mac: `brew install xcodegen && cd ios && xcodegen && open NumberReader.xcodeproj`.

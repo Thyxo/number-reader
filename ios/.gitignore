@@ -1,0 +1,5 @@
+# Genereres af XcodeGen / Xcode
+NumberReader.xcodeproj/
+NumberReader/Info.plist
+build/
+DerivedData/

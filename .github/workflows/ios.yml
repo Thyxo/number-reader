@@ -1,0 +1,120 @@
+name: iOS (SideStore)
+
+on:
+  push:
+    paths: ["ios/**", ".github/workflows/ios.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ios-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: macos-latest
+    timeout-minutes: 30
+    env:
+      HOMEBREW_NO_AUTO_UPDATE: 1
+      HOMEBREW_NO_INSTALL_CLEANUP: 1
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Ordbog → words.json
+        run: python3 ios/scripts/make-words-json.py
+
+      - name: Hurtig test (T9 + regnemetode)
+        run: |
+          swiftc -swift-version 5 -o /tmp/quicktest ios/NumberReader/Model/T9.swift ios/NumberReader/Model/Force.swift ios/Tests/main.swift
+          /tmp/quicktest ios/NumberReader/Resources/words.json
+
+      - name: Cache Homebrew
+        uses: actions/cache@v4
+        with:
+          path: ~/Library/Caches/Homebrew
+          key: brew-xcodegen-${{ runner.os }}
+
+      - name: XcodeGen
+        run: |
+          brew install xcodegen
+          cd ios && xcodegen generate
+
+      - name: Version
+        id: v
+        run: |
+          VERSION=$(sed -n 's/^ *MARKETING_VERSION: *"\{0,1\}\([0-9.]*\)"\{0,1\}.*/\1/p' ios/project.yml | head -1)
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+          echo "build=${{ github.run_number }}" >> "$GITHUB_OUTPUT"
+          echo "tag=v$VERSION-${{ github.run_number }}" >> "$GITHUB_OUTPUT"
+          echo "Version $VERSION (${{ github.run_number }})"
+
+      - name: Byg (Release, uden signering)
+        run: |
+          cd ios
+          mkdir -p build
+          xcodebuild archive \
+            -project NumberReader.xcodeproj -scheme NumberReader \
+            -configuration Release -sdk iphoneos -destination 'generic/platform=iOS' \
+            -archivePath build/NumberReader.xcarchive \
+            CURRENT_PROJECT_VERSION=${{ steps.v.outputs.build }} \
+            CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY="" \
+            > build/xcodebuild.log 2>&1 || true
+          grep -E "error:|\*\* ARCHIVE" build/xcodebuild.log | head -80 || true
+          test -d build/NumberReader.xcarchive/Products/Applications/NumberReader.app || { grep -B2 -A6 "error:" build/xcodebuild.log | head -150; exit 1; }
+
+      - name: Pak IPA
+        run: |
+          cd ios/build
+          mkdir -p Payload
+          cp -R NumberReader.xcarchive/Products/Applications/NumberReader.app Payload/
+          zip -qry NumberReader.ipa Payload
+          ls -la NumberReader.ipa
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: NumberReader-${{ steps.v.outputs.tag }}
+          path: ios/build/NumberReader.ipa
+
+      - name: GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "${{ steps.v.outputs.tag }}" ios/build/NumberReader.ipa \
+            --target "${{ github.sha }}" \
+            --title "Number Reader ${{ steps.v.outputs.version }} (${{ steps.v.outputs.build }})" \
+            --notes "Bygget fra ${{ github.ref_name }} @ ${GITHUB_SHA::7}. Installeres med SideStore (source: https://raw.githubusercontent.com/${{ github.repository }}/main/sidestore/apps.json)."
+
+      - name: Opdatér SideStore-source
+        env:
+          VERSION: ${{ steps.v.outputs.version }}
+          BUILD: ${{ steps.v.outputs.build }}
+          URL: https://github.com/${{ github.repository }}/releases/download/${{ steps.v.outputs.tag }}/NumberReader.ipa
+        run: |
+          SIZE=$(stat -f%z ios/build/NumberReader.ipa)
+          python3 - "$SIZE" <<'PY'
+          import json, os, sys, datetime
+          p = 'sidestore/apps.json'
+          src = json.load(open(p, encoding='utf-8'))
+          app = src['apps'][0]
+          v = {
+              'version': os.environ['VERSION'],
+              'buildVersion': os.environ['BUILD'],
+              'date': datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
+              'localizedDescription': f"Build {os.environ['BUILD']}",
+              'downloadURL': os.environ['URL'],
+              'size': int(sys.argv[1]),
+              'minOSVersion': '17.0',
+          }
+          app['versions'] = [v] + [x for x in app.get('versions', []) if x.get('downloadURL') != v['downloadURL']][:9]
+          # Ældre AltStore-felter
+          app['version'], app['versionDate'], app['downloadURL'], app['size'] = v['version'], v['date'], v['downloadURL'], v['size']
+          json.dump(src, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+          open(p, 'a').write('\n')
+          PY
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sidestore/apps.json
+          git commit -m "SideStore: ${{ steps.v.outputs.tag }}"
+          for i in 1 2 3; do git pull --rebase origin "${{ github.ref_name }}" && git push origin "HEAD:${{ github.ref_name }}" && break; sleep 5; done

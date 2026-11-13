@@ -1,0 +1,27 @@
+{
+  "name": "Number Reader",
+  "identifier": "dk.thyxo.numberreader.source",
+  "subtitle": "Telefon-tastatur og lommeregner der læser tal",
+  "iconURL": "https://raw.githubusercontent.com/Thyxo/number-reader/main/icons/icon-512.png",
+  "website": "https://github.com/Thyxo/number-reader",
+  "apps": [
+    {
+      "name": "Telefon",
+      "bundleIdentifier": "dk.thyxo.numberreader",
+      "developerName": "Thyxo",
+      "subtitle": "Number Reader",
+      "localizedDescription": "Ligner iPhonens Telefon-tastatur og Lommeregner. Scanner T9-tal med kameraet (Apple Vision) og afkoder dem til danske navne og ord som diskrete peeks.",
+      "iconURL": "https://raw.githubusercontent.com/Thyxo/number-reader/main/icons/icon-512.png",
+      "tintColor": "387837",
+      "category": "utilities",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Kameraet bruges til at læse tal."
+        }
+      },
+      "versions": []
+    }
+  ],
+  "news": []
+}
