@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="da">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Træning – Number Reader</title>
+  <link rel="icon" type="image/png" href="favicon-32.png">
+  <link rel="stylesheet" href="trainer.css">
+</head>
+<body>
+  <header class="bar">
+    <h1>Number Reader <span>træning</span></h1>
+    <div class="bar-actions">
+      <button class="btn primary" id="add">+ Tilføj telefon</button>
+      <label class="ctl">Størrelse
+        <input type="range" id="size" min="220" max="460" step="10" value="300">
+      </label>
+      <label class="ctl check"><input type="checkbox" id="space0"> Mellemrum = 0</label>
+      <button class="btn" id="random-all">Tilfældige navne</button>
+      <button class="btn" id="clear-all">Ryd alle</button>
+    </div>
+  </header>
+
+  <p class="hint">Skriv bogstaver og/eller tal under en telefon – fx <i>Kim Larsen</i>, <i>5465 27736</i> eller <i>Mette 2736</i>. Bogstaverne omregnes til tal på den numeriske blok. Du kan også trykke direkte på tasterne.</p>
+
+  <main class="stage" id="stage"></main>
+
+  <script type="module" src="trainer.js"></script>
+</body>
+</html>
